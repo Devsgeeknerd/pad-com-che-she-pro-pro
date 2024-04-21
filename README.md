@@ -18,6 +18,7 @@ Padrões de Commits.
 | :boom: | Introduce breaking changes. | Introduzir alterações significativas. |
 | :bricks: | Infrastructure related changes. | Alterações relacionadas à infraestrutura. |
 | :bug: | Fix a bug. | Corrigir um erro. |
+| :building_construction: | Make architectural changes. | Fazer alterações na arquitetura. |
 
 <!-- Informações -->
 ## &#8505; Informações
