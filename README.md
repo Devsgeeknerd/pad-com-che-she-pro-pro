@@ -20,6 +20,7 @@ Padrões de Commits.
 | :bug: | Fix a bug. | Corrigir um erro. |
 | :building_construction: | Make architectural changes. | Fazer alterações na arquitetura. |
 | :bulb: | Add or update comments in source code. | Adicionar ou atualizar comentários no código-fonte. |
+| :busts_in_silhouette: | Add or update contributor(s). | Adicionar ou atualizar o(s) colaborador(es). |
 
 <!-- Informações -->
 ## &#8505; Informações
