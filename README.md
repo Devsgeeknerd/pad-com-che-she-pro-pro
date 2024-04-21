@@ -11,6 +11,7 @@ Padrões de Commits.
 | :ambulance:| Critical hotfix. | Correção crítica. |
 | :arrow_down: | Downgrade dependencies. | Fazer downgrade das dependências. |
 | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
+| :art: | Improve structure / format of the code. | Melhorar a estrutura / formato do código. |
 
 <!-- Informações -->
 ## &#8505; Informações
