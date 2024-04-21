@@ -12,6 +12,7 @@ Padrões de Commits.
 | :arrow_down: | Downgrade dependencies. | Fazer downgrade das dependências. |
 | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
 | :art: | Improve structure / format of the code. | Melhorar a estrutura / formato do código. |
+| :beers: | Write code drunkenly. | Escrever código de forma embriagada. |
 
 <!-- Informações -->
 ## &#8505; Informações
