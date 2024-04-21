@@ -16,6 +16,7 @@ Padrões de Commits.
 | :bento: | Add or update assets. | Adicionar ou atualizar ativos. |
 | :bookmark: | Release / Version tags. | Etiquetas de lançamento / versão. |
 | :boom: | Introduce breaking changes. | Introduzir alterações significativas. |
+| :bricks: | Infrastructure related changes. | Alterações relacionadas à infraestrutura. |
 
 <!-- Informações -->
 ## &#8505; Informações
