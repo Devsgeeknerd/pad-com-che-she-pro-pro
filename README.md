@@ -15,6 +15,7 @@ Padrões de Commits.
 | :beers: | Write code drunkenly. | Escrever código de forma embriagada. |
 | :bento: | Add or update assets. | Adicionar ou atualizar ativos. |
 | :bookmark: | Release / Version tags. | Etiquetas de lançamento / versão. |
+| :boom: | Introduce breaking changes. | Introduzir alterações significativas. |
 
 <!-- Informações -->
 ## &#8505; Informações
