@@ -17,6 +17,7 @@ Padrões de Commits.
 | :bookmark: | Release / Version tags. | Etiquetas de lançamento / versão. |
 | :boom: | Introduce breaking changes. | Introduzir alterações significativas. |
 | :bricks: | Infrastructure related changes. | Alterações relacionadas à infraestrutura. |
+| :bug: | Fix a bug. | Corrigir um erro. |
 
 <!-- Informações -->
 ## &#8505; Informações
