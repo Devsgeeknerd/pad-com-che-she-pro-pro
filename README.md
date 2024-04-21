@@ -14,6 +14,7 @@ Padrões de Commits.
 | :art: | Improve structure / format of the code. | Melhorar a estrutura / formato do código. |
 | :beers: | Write code drunkenly. | Escrever código de forma embriagada. |
 | :bento: | Add or update assets. | Adicionar ou atualizar ativos. |
+| :bookmark: | Release / Version tags. | Etiquetas de lançamento / versão. |
 
 <!-- Informações -->
 ## &#8505; Informações
