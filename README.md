@@ -19,6 +19,7 @@ Padrões de Commits.
 | :bricks: | Infrastructure related changes. | Alterações relacionadas à infraestrutura. |
 | :bug: | Fix a bug. | Corrigir um erro. |
 | :building_construction: | Make architectural changes. | Fazer alterações na arquitetura. |
+| :bulb: | Add or update comments in source code. | Adicionar ou atualizar comentários no código-fonte. |
 
 <!-- Informações -->
 ## &#8505; Informações
