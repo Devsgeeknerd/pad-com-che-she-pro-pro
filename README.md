@@ -9,6 +9,7 @@ Padrões de Commits.
 | :alembic: | Perform experiments. | Realizar experimentos. |
 | :alien: | Update code due to external API changes. | Atualizar o código devido a alterações externas na API. |
 | :ambulance:| Critical hotfix. | Correção crítica. |
+| :arrow_down: | Downgrade dependencies. | Fazer downgrade das dependências. |
 
 <!-- Informações -->
 ## &#8505; Informações
