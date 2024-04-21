@@ -8,6 +8,7 @@ Padrões de Commits.
 | :adhesive_bandage: | Simple fix for a non-critical issue. | Correção simples para um problema não crítico. |
 | :alembic: | Perform experiments. | Realizar experimentos. |
 | :alien: | Update code due to external API changes. | Atualizar o código devido a alterações externas na API. |
+| :ambulance:| Critical hotfix. | Correção crítica. |
 
 <!-- Informações -->
 ## &#8505; Informações
