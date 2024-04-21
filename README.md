@@ -3,6 +3,9 @@
 
 Padrões de Commits.
 
+| EMOJI | DESCRIPTION | TRANSLATION |
+| :---: | :---------- | :---------- |
+
 <!-- Informações -->
 ## &#8505; Informações
 
