@@ -71,6 +71,7 @@ Padrões de Commits.
 | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 | :thread: | Add or update code related to multithreading or concurrency. | Adicionar ou atualizar código relacionado a multithreading ou concorrência. |
 | :triangular_flag_on_post: | Add, update, or remove feature flags. | Adicionar, atualizar ou remover sinalizadores de recursos. |
+| :truck: | Move or rename resources (e.g.: files, paths, routes). | Mover ou renomear recursos (por exemplo, arquivos, caminhos, rotas). |
 
 <!-- Informações -->
 ## &#8505; Informações
