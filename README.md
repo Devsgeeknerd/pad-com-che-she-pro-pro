@@ -68,6 +68,7 @@ Padrões de Commits.
 | :stethoscope: | Add or update healthcheck. | Adicionar ou atualizar o exame de saúde. |
 | :tada: | Begin a project. | Iniciar um projeto. |
 | :technologist: | Improve developer experience. | Melhorar a experiência do desenvolvedor. |
+| :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 
 <!-- Informações -->
 ## &#8505; Informações
