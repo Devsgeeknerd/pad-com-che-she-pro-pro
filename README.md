@@ -39,6 +39,7 @@ Padrões de Commits.
 | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
 | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
 | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
+| :iphone: | Work on responsive design. | Trabalhar no design responsivo. |
 
 <!-- Informações -->
 ## &#8505; Informações
