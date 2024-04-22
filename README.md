@@ -51,6 +51,7 @@ Padrões de Commits.
 | :mute: | Remove logs. | Remover os registros. |
 | :necktie: | Add or update business logic. | Adicionar ou atualizar a lógica de negócios. |
 | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
+| :page_facing_up: | Add or update license. | Adicionar ou atualizar a licença. |
 
 <!-- Informações -->
 ## &#8505; Informações
