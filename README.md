@@ -43,6 +43,7 @@ Padrões de Commits.
 | :label: | Add or update types. | Adicionar ou atualizar tipos. |
 | :lipstick: | Add or update the UI and style files. | Adicione ou atualize a interface do usuário e os arquivos de estilo. |
 | :lock: |  Fix security or privacy issues. |  Corrigir problemas de segurança ou privacidade. |
+| :loud_sound: | Add or update logs. | Adicionar ou atualizar os registros. |
 
 <!-- Informações -->
 ## &#8505; Informações
