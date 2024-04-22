@@ -54,6 +54,7 @@ Padrões de Commits.
 | :page_facing_up: | Add or update license. | Adicionar ou atualizar a licença. |
 | :passport_control: | Work on code related to authorization, roles and permissions. | Trabalhar no código relacionado à autorização, funções e permissões. |
 | :pencil2: | Fix typos. | Corrigir erros de digitação. |
+| :poop: | Write bad code that needs to be improved. | Escrever código ruim que precisa ser melhorado. |
 
 <!-- Informações -->
 ## &#8505; Informações
