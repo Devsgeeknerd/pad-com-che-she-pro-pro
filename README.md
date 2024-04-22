@@ -58,6 +58,7 @@ Padrões de Commits.
 | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 | :recycle: | Refactor code. | Refatorar o código. |
 | :rewind: | Revert changes. | Reverter alterações. |
+| :rocket: | Deploy stuff. | Implantar coisas. |
 
 <!-- Informações -->
 ## &#8505; Informações
