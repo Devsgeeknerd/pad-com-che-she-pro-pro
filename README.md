@@ -24,6 +24,7 @@ Padrões de Commits.
 | :camera_flash: | Add or update snapshots. | Adicionar ou atualizar snapshots. |
 | :card_file_box: | Perform database related changes. | Realizar alterações relacionadas ao banco de dados. |
 | :chart_with_upwards_trend: | Add or update analytics or track code. | Adicionar ou atualizar análises ou código de rastreamento. |
+| :children_crossing: | Improve user experience / usability. | Melhorar a experiência / usabilidade do usuário. |
 
 <!-- Informações -->
 ## &#8505; Informações
