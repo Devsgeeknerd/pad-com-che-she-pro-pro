@@ -59,6 +59,7 @@ Padrões de Commits.
 | :recycle: | Refactor code. | Refatorar o código. |
 | :rewind: | Revert changes. | Reverter alterações. |
 | :rocket: | Deploy stuff. | Implantar coisas. |
+| :rotating_light: | Fix compiler / linter warnings. | Correção de avisos do compilador / linter. |
 
 <!-- Informações -->
 ## &#8505; Informações
