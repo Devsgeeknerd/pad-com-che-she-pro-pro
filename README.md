@@ -27,6 +27,7 @@ Padrões de Commits.
 | :children_crossing: | Improve user experience / usability. | Melhorar a experiência / usabilidade do usuário. |
 | :closed_lock_with_key: | Add or update secrets. | Adicionar ou atualizar segredos. |
 | :clown_face: | Mock things. | Faça brincadeiras. |
+| :coffin: | Remove dead code. | Remover o código morto. |
 
 <!-- Informações -->
 ## &#8505; Informações
