@@ -77,6 +77,7 @@ Padrões de Commits.
 | :wheelchair: | Improve accessibility. | Melhorar a acessibilidade. |
 | :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar em testes. |
 | :wrench: | Add or update configuration files. | Adicionar ou atualizar arquivos de configuração. |
+| :zap: | Improve performance. | Melhorar o desempenho. |
 
 <!-- Informações -->
 ## &#8505; Informações
