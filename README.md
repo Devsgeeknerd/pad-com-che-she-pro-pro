@@ -49,6 +49,7 @@ Padrões de Commits.
 | :money_with_wings: | Add sponsorships or money related infrastructure. | Adicione patrocínios ou infraestrutura relacionada a dinheiro. |
 | :monocle_face: | Data exploration/inspection. | Exploração / inspeção de dados. |
 | :mute: | Remove logs. | Remover os registros. |
+| :necktie: | Add or update business logic. | Adicionar ou atualizar a lógica de negócios. |
 
 <!-- Informações -->
 ## &#8505; Informações
