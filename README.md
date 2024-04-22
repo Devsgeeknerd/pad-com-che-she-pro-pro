@@ -29,6 +29,7 @@ Padrões de Commits.
 | :clown_face: | Mock things. | Faça brincadeiras. |
 | :coffin: | Remove dead code. | Remover o código morto. |
 | :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
+| :construction: | Work in progress. | Trabalho em andamento. |
 
 <!-- Informações -->
 ## &#8505; Informações
