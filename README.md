@@ -34,6 +34,7 @@ Padrões de Commits.
 | :egg: | Add or update an easter egg. | Adicionar ou atualizar um ovo de páscoa. |
 | :fire: | Remove code or files. | Remover código ou arquivos. |
 | :globe_with_meridians: | Internationalization and localization. | Internacionalização e localização. |
+| :goal_net: | Catch errors. | Erros de captura. |
 
 <!-- Informações -->
 ## &#8505; Informações
