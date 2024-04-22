@@ -30,6 +30,7 @@ Padrões de Commits.
 | :coffin: | Remove dead code. | Remover o código morto. |
 | :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
 | :construction: | Work in progress. | Trabalho em andamento. |
+| :dizzy: | Add or update animations and transitions. | Adicione ou atualize animações e transições. |
 
 <!-- Informações -->
 ## &#8505; Informações
