@@ -63,6 +63,7 @@ Padrões de Commits.
 | :safety_vest: | Add or update code related to validation. |  Adicionar ou atualizar o código relacionado à validação. |
 | :see_no_evil: | Add or update a .gitignore file. | Adicionar ou atualizar um arquivo .gitignore. |
 | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de propagação. |
+| :sparkles: | Introduce new features. | Introduzir novos recursos. |
 
 <!-- Informações -->
 ## &#8505; Informações
