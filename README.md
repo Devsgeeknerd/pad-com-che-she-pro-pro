@@ -55,6 +55,7 @@ Padrões de Commits.
 | :passport_control: | Work on code related to authorization, roles and permissions. | Trabalhar no código relacionado à autorização, funções e permissões. |
 | :pencil2: | Fix typos. | Corrigir erros de digitação. |
 | :poop: | Write bad code that needs to be improved. | Escrever código ruim que precisa ser melhorado. |
+| :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 
 <!-- Informações -->
 ## &#8505; Informações
