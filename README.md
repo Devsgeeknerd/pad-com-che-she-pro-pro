@@ -42,6 +42,7 @@ Padrões de Commits.
 | :iphone: | Work on responsive design. | Trabalhar no design responsivo. |
 | :label: | Add or update types. | Adicionar ou atualizar tipos. |
 | :lipstick: | Add or update the UI and style files. | Adicione ou atualize a interface do usuário e os arquivos de estilo. |
+| :lock: |  Fix security or privacy issues. |  Corrigir problemas de segurança ou privacidade. |
 
 <!-- Informações -->
 ## &#8505; Informações
