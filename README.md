@@ -73,6 +73,7 @@ Padrões de Commits.
 | :triangular_flag_on_post: | Add, update, or remove feature flags. | Adicionar, atualizar ou remover sinalizadores de recursos. |
 | :truck: | Move or rename resources (e.g.: files, paths, routes). | Mover ou renomear recursos (por exemplo, arquivos, caminhos, rotas). |
 | :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
+| :wastebasket: | Deprecate code that needs to be cleaned up. | Eliminar o código que precisa ser limpo. |
 
 <!-- Informações -->
 ## &#8505; Informações
