@@ -28,6 +28,7 @@ Padrões de Commits.
 | :closed_lock_with_key: | Add or update secrets. | Adicionar ou atualizar segredos. |
 | :clown_face: | Mock things. | Faça brincadeiras. |
 | :coffin: | Remove dead code. | Remover o código morto. |
+| :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
 
 <!-- Informações -->
 ## &#8505; Informações
