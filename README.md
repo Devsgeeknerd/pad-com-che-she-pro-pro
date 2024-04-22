@@ -61,6 +61,7 @@ Padrões de Commits.
 | :rocket: | Deploy stuff. | Implantar coisas. |
 | :rotating_light: | Fix compiler / linter warnings. | Correção de avisos do compilador / linter. |
 | :safety_vest: | Add or update code related to validation. |  Adicionar ou atualizar o código relacionado à validação. |
+| :see_no_evil: | Add or update a .gitignore file. | Adicionar ou atualizar um arquivo .gitignore. |
 
 <!-- Informações -->
 ## &#8505; Informações
