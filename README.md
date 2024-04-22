@@ -50,6 +50,7 @@ Padrões de Commits.
 | :monocle_face: | Data exploration/inspection. | Exploração / inspeção de dados. |
 | :mute: | Remove logs. | Remover os registros. |
 | :necktie: | Add or update business logic. | Adicionar ou atualizar a lógica de negócios. |
+| :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
 
 <!-- Informações -->
 ## &#8505; Informações
