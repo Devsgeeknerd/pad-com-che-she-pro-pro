@@ -3,7 +3,7 @@
 
 Padrões de Commits.
 
-| EMOJI | DESCRIPTION | TRANSLATION |
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :---: | :---------- | :---------- |
 | :adhesive_bandage: | Simple fix for a non-critical issue. | Correção simples para um problema não crítico. |
 | :alembic: | Perform experiments. | Realizar experimentos. |
