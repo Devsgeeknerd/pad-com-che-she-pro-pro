@@ -70,6 +70,7 @@ Padrões de Commits.
 | :technologist: | Improve developer experience. | Melhorar a experiência do desenvolvedor. |
 | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 | :thread: | Add or update code related to multithreading or concurrency. | Adicionar ou atualizar código relacionado a multithreading ou concorrência. |
+| :triangular_flag_on_post: | Add, update, or remove feature flags. | Adicionar, atualizar ou remover sinalizadores de recursos. |
 
 <!-- Informações -->
 ## &#8505; Informações
