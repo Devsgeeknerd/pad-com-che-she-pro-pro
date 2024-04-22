@@ -36,6 +36,8 @@ Padrões de Commits.
 | :globe_with_meridians: | Internationalization and localization. | Internacionalização e localização. |
 | :goal_net: | Catch errors. | Erros de captura. |
 | :green_heart: | Fix CI Build. | Corrigir a compilação de CI. |
+| :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
+| :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
 
 <!-- Informações -->
 ## &#8505; Informações
