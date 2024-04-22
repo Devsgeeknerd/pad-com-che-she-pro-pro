@@ -65,6 +65,7 @@ Padrões de Commits.
 | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de propagação. |
 | :sparkles: | Introduce new features. | Introduzir novos recursos. |
 | :speech_balloon: | Add or update text and literals. | Adicionar ou atualizar texto e literais. |
+| :stethoscope: | Add or update healthcheck. | Adicionar ou atualizar o exame de saúde. |
 
 <!-- Informações -->
 ## &#8505; Informações
