@@ -41,6 +41,7 @@ Padrões de Commits.
 | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
 | :iphone: | Work on responsive design. | Trabalhar no design responsivo. |
 | :label: | Add or update types. | Adicionar ou atualizar tipos. |
+| :lipstick: | Add or update the UI and style files. | Adicione ou atualize a interface do usuário e os arquivos de estilo. |
 
 <!-- Informações -->
 ## &#8505; Informações
