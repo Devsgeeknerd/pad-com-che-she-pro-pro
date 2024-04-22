@@ -69,6 +69,7 @@ Padrões de Commits.
 | :tada: | Begin a project. | Iniciar um projeto. |
 | :technologist: | Improve developer experience. | Melhorar a experiência do desenvolvedor. |
 | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
+| :thread: | Add or update code related to multithreading or concurrency. | Adicionar ou atualizar código relacionado a multithreading ou concorrência. |
 
 <!-- Informações -->
 ## &#8505; Informações
