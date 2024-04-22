@@ -26,6 +26,7 @@ Padrões de Commits.
 | :chart_with_upwards_trend: | Add or update analytics or track code. | Adicionar ou atualizar análises ou código de rastreamento. |
 | :children_crossing: | Improve user experience / usability. | Melhorar a experiência / usabilidade do usuário. |
 | :closed_lock_with_key: | Add or update secrets. | Adicionar ou atualizar segredos. |
+| :clown_face: | Mock things. | Faça brincadeiras. |
 
 <!-- Informações -->
 ## &#8505; Informações
