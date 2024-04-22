@@ -57,6 +57,7 @@ Padrões de Commits.
 | :poop: | Write bad code that needs to be improved. | Escrever código ruim que precisa ser melhorado. |
 | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 | :recycle: | Refactor code. | Refatorar o código. |
+| :rewind: | Revert changes. | Reverter alterações. |
 
 <!-- Informações -->
 ## &#8505; Informações
