@@ -74,6 +74,7 @@ Padrões de Commits.
 | :truck: | Move or rename resources (e.g.: files, paths, routes). | Mover ou renomear recursos (por exemplo, arquivos, caminhos, rotas). |
 | :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
 | :wastebasket: | Deprecate code that needs to be cleaned up. | Eliminar o código que precisa ser limpo. |
+| :wheelchair: | Improve accessibility. | Melhorar a acessibilidade. |
 
 <!-- Informações -->
 ## &#8505; Informações
