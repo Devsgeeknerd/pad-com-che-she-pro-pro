@@ -44,6 +44,7 @@ Padrões de Commits.
 | :lipstick: | Add or update the UI and style files. | Adicione ou atualize a interface do usuário e os arquivos de estilo. |
 | :lock: |  Fix security or privacy issues. |  Corrigir problemas de segurança ou privacidade. |
 | :loud_sound: | Add or update logs. | Adicionar ou atualizar os registros. |
+| :mag: | Improve SEO. | Melhorar o SEO. |
 
 <!-- Informações -->
 ## &#8505; Informações
