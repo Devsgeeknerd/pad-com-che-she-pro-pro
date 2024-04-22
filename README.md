@@ -75,6 +75,7 @@ Padrões de Commits.
 | :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
 | :wastebasket: | Deprecate code that needs to be cleaned up. | Eliminar o código que precisa ser limpo. |
 | :wheelchair: | Improve accessibility. | Melhorar a acessibilidade. |
+| :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar em testes. |
 
 <!-- Informações -->
 ## &#8505; Informações
