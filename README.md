@@ -31,6 +31,7 @@ Padrões de Commits.
 | :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
 | :construction: | Work in progress. | Trabalho em andamento. |
 | :dizzy: | Add or update animations and transitions. | Adicione ou atualize animações e transições. |
+| :egg: | Add or update an easter egg. | Adicionar ou atualizar um ovo de páscoa. |
 
 <!-- Informações -->
 ## &#8505; Informações
