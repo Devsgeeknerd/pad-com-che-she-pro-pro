@@ -67,6 +67,7 @@ Padrões de Commits.
 | :speech_balloon: | Add or update text and literals. | Adicionar ou atualizar texto e literais. |
 | :stethoscope: | Add or update healthcheck. | Adicionar ou atualizar o exame de saúde. |
 | :tada: | Begin a project. | Iniciar um projeto. |
+| :technologist: | Improve developer experience. | Melhorar a experiência do desenvolvedor. |
 
 <!-- Informações -->
 ## &#8505; Informações
