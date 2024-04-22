@@ -4,7 +4,7 @@
 Padrões de Commits.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :---: | :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 | `:adhesive_bandage:` | :adhesive_bandage: | Simple fix for a non-critical issue. | Correção simples para um problema não crítico. |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
 | `:alien:` | :alien: | Update code due to external API changes. | Atualizar o código devido a alterações externas na API. |
