@@ -45,6 +45,7 @@ Padrões de Commits.
 | :lock: |  Fix security or privacy issues. |  Corrigir problemas de segurança ou privacidade. |
 | :loud_sound: | Add or update logs. | Adicionar ou atualizar os registros. |
 | :mag: | Improve SEO. | Melhorar o SEO. |
+| :memo: | Add or update documentation. | Adicionar ou atualizar a documentação. |
 
 <!-- Informações -->
 ## &#8505; Informações
