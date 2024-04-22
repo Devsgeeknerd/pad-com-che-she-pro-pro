@@ -8,7 +8,7 @@ Padrões de Commits.
 | `:adhesive_bandage:` | :adhesive_bandage: | Simple fix for a non-critical issue. | Correção simples para um problema não crítico. |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
 | `:alien:` | :alien: | Update code due to external API changes. | Atualizar o código devido a alterações externas na API. |
-| `:ambulance:` | Critical hotfix. | Correção crítica. |
+| `:ambulance:` | :ambulance: | Critical hotfix. | Correção crítica. |
 | `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Fazer downgrade das dependências. |
 | `:arrow_up:` | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
 | `:art:` | :art: | Improve structure / format of the code. | Melhorar a estrutura / formato do código. |
@@ -29,7 +29,7 @@ Padrões de Commits.
 | `:clown_face:` | :clown_face: | Mock things. | Faça brincadeiras. |
 | `:coffin:` | :coffin: | Remove dead code. | Remover o código morto. |
 | `:construction_worker:` | :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
-| `:construction:` | Work in progress. | Trabalho em andamento. |
+| `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
 | `:dizzy:` | :dizzy: | Add or update animations and transitions. | Adicione ou atualize animações e transições. |
 | `:egg:` | :egg: | Add or update an easter egg. | Adicionar ou atualizar um ovo de páscoa. |
 | `:fire:` | :fire: | Remove code or files. | Remover código ou arquivos. |
@@ -45,7 +45,7 @@ Padrões de Commits.
 | `:lock:` | :lock: |  Fix security or privacy issues. |  Corrigir problemas de segurança ou privacidade. |
 | `:loud_sound:` | :loud_sound: | Add or update logs. | Adicionar ou atualizar os registros. |
 | `:mag:` | :mag: | Improve SEO. | Melhorar o SEO. |
-| `:memo:` | Add or update documentation. | Adicionar ou atualizar a documentação. |
+| `:memo:` | :memo: | Add or update documentation. | Adicionar ou atualizar a documentação. |
 | `:money_with_wings:` | :money_with_wings: | Add sponsorships or money related infrastructure. | Adicione patrocínios ou infraestrutura relacionada a dinheiro. |
 | `:monocle_face:` | :monocle_face: | Data exploration/inspection. | Exploração / inspeção de dados. |
 | `:mute:` | :mute: | Remove logs. | Remover os registros. |
