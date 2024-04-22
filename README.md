@@ -32,6 +32,7 @@ Padrões de Commits.
 | :construction: | Work in progress. | Trabalho em andamento. |
 | :dizzy: | Add or update animations and transitions. | Adicione ou atualize animações e transições. |
 | :egg: | Add or update an easter egg. | Adicionar ou atualizar um ovo de páscoa. |
+| :fire: | Remove code or files. | Remover código ou arquivos. |
 
 <!-- Informações -->
 ## &#8505; Informações
