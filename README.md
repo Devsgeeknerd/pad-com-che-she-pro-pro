@@ -53,6 +53,7 @@ Padrões de Commits.
 | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
 | :page_facing_up: | Add or update license. | Adicionar ou atualizar a licença. |
 | :passport_control: | Work on code related to authorization, roles and permissions. | Trabalhar no código relacionado à autorização, funções e permissões. |
+| :pencil2: | Fix typos. | Corrigir erros de digitação. |
 
 <!-- Informações -->
 ## &#8505; Informações
