@@ -35,6 +35,7 @@ Padrões de Commits.
 | :fire: | Remove code or files. | Remover código ou arquivos. |
 | :globe_with_meridians: | Internationalization and localization. | Internacionalização e localização. |
 | :goal_net: | Catch errors. | Erros de captura. |
+| :green_heart: | Fix CI Build. | Corrigir a compilação de CI. |
 
 <!-- Informações -->
 ## &#8505; Informações
