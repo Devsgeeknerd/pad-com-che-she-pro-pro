@@ -22,6 +22,7 @@ Padrões de Commits.
 | :bulb: | Add or update comments in source code. | Adicionar ou atualizar comentários no código-fonte. |
 | :busts_in_silhouette: | Add or update contributor(s). | Adicionar ou atualizar o(s) colaborador(es). |
 | :camera_flash: | Add or update snapshots. | Adicionar ou atualizar snapshots. |
+| :card_file_box: | Perform database related changes. | Realizar alterações relacionadas ao banco de dados. |
 
 <!-- Informações -->
 ## &#8505; Informações
