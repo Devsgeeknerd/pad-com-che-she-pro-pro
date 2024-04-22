@@ -40,6 +40,7 @@ Padrões de Commits.
 | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
 | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
 | :iphone: | Work on responsive design. | Trabalhar no design responsivo. |
+| :label: | Add or update types. | Adicionar ou atualizar tipos. |
 
 <!-- Informações -->
 ## &#8505; Informações
