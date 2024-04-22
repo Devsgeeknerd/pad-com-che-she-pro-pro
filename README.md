@@ -23,6 +23,7 @@ Padrões de Commits.
 | :busts_in_silhouette: | Add or update contributor(s). | Adicionar ou atualizar o(s) colaborador(es). |
 | :camera_flash: | Add or update snapshots. | Adicionar ou atualizar snapshots. |
 | :card_file_box: | Perform database related changes. | Realizar alterações relacionadas ao banco de dados. |
+| :chart_with_upwards_trend: | Add or update analytics or track code. | Adicionar ou atualizar análises ou código de rastreamento. |
 
 <!-- Informações -->
 ## &#8505; Informações
