@@ -19,13 +19,13 @@ Padrões de Commits.
 | `:bricks:` | :bricks: | Infrastructure related changes. | Alterações relacionadas à infraestrutura. |
 | `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
 | `:building_construction:` | :building_construction: | Make architectural changes. | Fazer alterações na arquitetura. |
-| ``:bulb:` | :bulb: | Add or update comments in source code. | Adicionar ou atualizar comentários no código-fonte. |
+| `:bulb:` | :bulb: | Add or update comments in source code. | Adicionar ou atualizar comentários no código-fonte. |
 | `:busts_in_silhouette:` | :busts_in_silhouette: | Add or update contributor(s). | Adicionar ou atualizar o(s) colaborador(es). |
 | `:camera_flash:` | :camera_flash: | Add or update snapshots. | Adicionar ou atualizar snapshots. |
 | `:card_file_box:` | :card_file_box: | Perform database related changes. | Realizar alterações relacionadas ao banco de dados. |
 | `:chart_with_upwards_trend:` | :chart_with_upwards_trend: | Add or update analytics or track code. | Adicionar ou atualizar análises ou código de rastreamento. |
 | `:children_crossing:` | :children_crossing: | Improve user experience / usability. | Melhorar a experiência / usabilidade do usuário. |
-| ``:closed_lock_with_key:` | :closed_lock_with_key: | Add or update secrets. | Adicionar ou atualizar segredos. |
+| `:closed_lock_with_key:` | :closed_lock_with_key: | Add or update secrets. | Adicionar ou atualizar segredos. |
 | `:clown_face:` | :clown_face: | Mock things. | Faça brincadeiras. |
 | `:coffin:` | :coffin: | Remove dead code. | Remover o código morto. |
 | `:construction_worker:` | :construction_worker: | Add or update CI build system. | Adicionar ou atualizar o sistema de compilação de CI. |
