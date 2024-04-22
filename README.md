@@ -72,6 +72,7 @@ Padrões de Commits.
 | :thread: | Add or update code related to multithreading or concurrency. | Adicionar ou atualizar código relacionado a multithreading ou concorrência. |
 | :triangular_flag_on_post: | Add, update, or remove feature flags. | Adicionar, atualizar ou remover sinalizadores de recursos. |
 | :truck: | Move or rename resources (e.g.: files, paths, routes). | Mover ou renomear recursos (por exemplo, arquivos, caminhos, rotas). |
+| :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
 
 <!-- Informações -->
 ## &#8505; Informações
