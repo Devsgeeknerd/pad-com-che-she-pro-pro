@@ -46,6 +46,7 @@ Padrões de Commits.
 | :loud_sound: | Add or update logs. | Adicionar ou atualizar os registros. |
 | :mag: | Improve SEO. | Melhorar o SEO. |
 | :memo: | Add or update documentation. | Adicionar ou atualizar a documentação. |
+| :money_with_wings: | Add sponsorships or money related infrastructure. | Adicione patrocínios ou infraestrutura relacionada a dinheiro. |
 
 <!-- Informações -->
 ## &#8505; Informações
