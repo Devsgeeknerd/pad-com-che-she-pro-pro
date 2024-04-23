@@ -5,16 +5,20 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:bento:` | :bento: | Add or update assets | Adicionar ou atualizar recursos |
-| `:label:` | :label: | Add or update typos | Adicionar ou atualizar tipos |
-| `:package:` | :package: | Add or update compiled files or packages | Adicionar ou atualizar arquivos ou pacotes compilados |
-| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches | Mesclar branches |
+| `:bento:` | :bento: | Add or update assets. | Adicionar ou atualizar recursos. |
+| `:label:` | :label: | Add or update typos. | Adicionar ou atualizar tipos. |
+| `:package:` | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
 
 ## Code Quality
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:art:` | :art: | Add or update theme, style files. | Adicionar ou atualizar o tema, arquivos de estilo. |
+| `:bug:` | :bug: | Fix a bug | Corrigir um erro. |
+| `:coffin:` | :coffin: | Remove dead code. | Remove código morto. |
+| `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
+| `:wrench:` | :wrench: | Add or update configuration files. | Adicionar ou atualizar arquivos de configuração. |
 
 ## Development
 
