@@ -1,7 +1,5 @@
 <!-- Título -->
-# Gitmoji
-
-Padrões de Commits.
+# Padrões de Commits.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
