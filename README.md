@@ -24,6 +24,10 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
+| `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
+| `:hammer:` | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
+| `:seedling:` | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de seed. |
 
 ## Dependency Management
 
