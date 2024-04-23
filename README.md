@@ -1,115 +1,120 @@
 <!-- Título -->
-# Padrões de Commits.
+# Padrões de Commit's
 
 ## Code Actions
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
+| `:bento:` | :bento: | Add or update assets | Adicionar ou atualizar recursos |
+| `:label:` | :label: | Add or update typos | Adicionar ou atualizar tipos |
+| `:package:` | :package: | Add or update compiled files or packages | Adicionar ou atualizar arquivos ou pacotes compilados |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches | Mesclar branches |
 
 ## Code Quality
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Development
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Dependency Management
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Testing and Quality
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Documentation
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Improvements and New Features
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Project Management
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Security and Privacy
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Others
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Review
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Cleanup
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Optimization
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Database Operations
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Continuous Integration / Deployment
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Signing / Verification
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Rollback
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Documentation Update
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Code Hotfix
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Configuration Changes
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Dependency Security Update
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 ## Version Control Operations
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :----| :---: | :---------- | :---------- |
+| :--- | :---: | :---------- | :---------- |
 
 <!-- Informações -->
 ## &#8505; Informações
