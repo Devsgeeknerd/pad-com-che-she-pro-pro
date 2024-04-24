@@ -75,22 +75,17 @@
 | :--- | :---: | :---------- | :---------- |
 | `:lock:` | :lock: | Fix security or privacy issues. | Corrigir problemas de segurança ou privacidade. |
 
-## Others
-
-| CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :--- | :---: | :---------- | :---------- |
-| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Eliminar código que precisa ser limpo. |
-
-
 ## Code Review
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:eyes:` | :eyes: | Review código changes. | Revisar alterações de código. |
 
 ## Code Cleanup
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Eliminar código que precisa ser limpo. |
 
 ## Code Optimization
 
