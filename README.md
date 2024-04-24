@@ -134,7 +134,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:shield:` | :shield: | Update dependencies for security reasons. | Atualizar dependências por motivos de segurança. |
 
 ## Version Control Operations
 
