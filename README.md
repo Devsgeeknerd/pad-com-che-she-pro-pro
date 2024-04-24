@@ -51,6 +51,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:memo:` | :memo: | Add documentation. | Adicionar documentação. |
 
 ## Improvements and New Features
 
