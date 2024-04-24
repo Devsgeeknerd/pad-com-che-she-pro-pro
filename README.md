@@ -92,6 +92,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:chart_with_downgrade_trend:` | :chart_with_downgrade_trend: | Optimize code for performance. | Otimizar código para desempenho. |
 
 ## Database Operations
 
