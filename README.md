@@ -73,6 +73,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:lock:` | :lock: | Fix security or privacy issues. | Corrigir problemas de segurança ou privacidade. |
 
 ## Others
 
