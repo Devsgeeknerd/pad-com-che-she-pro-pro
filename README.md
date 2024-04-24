@@ -26,6 +26,7 @@
 | :--- | :---: | :---------- | :---------- |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
+| `:hammer_and_wrench:` | :hammer_and_wrench: | Add or modify components. | Adicionar ou modificar componentes. |
 | `:hammer:` | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
 | `:seedling:` | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de seed. |
 
@@ -33,6 +34,10 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Fazer downgrade de dependências. |
+| `:arrow_up:` | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
+| `:heavy_minus_sign:` | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
+| `:heavy_plus_sign:` | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
 
 ## Testing and Quality
 
