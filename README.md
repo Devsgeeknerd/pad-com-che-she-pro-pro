@@ -110,13 +110,13 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:key:` | :key: | Sign or verify code signatures. | Assinar ou verificar assinaturas de código. |
+| `:key:` | :key: | Sign or verify code signatures. | Assinar ou verificar assinaturas de código.rewind |
 
 ## Code Rollback
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:rewind:` | :rewind: | Revert changes. | Reverter alterações. |
 
 ## Code Hotfix
 
