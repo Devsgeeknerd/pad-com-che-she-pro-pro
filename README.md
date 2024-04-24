@@ -104,41 +104,43 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:rocket:` | :rocket: | Deploy stuff. | Implantar coisas. |
 
 ## Code Signing / Verification
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Code Rollback
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-
-## Documentation Update
-
-| CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Code Hotfix
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Configuration Changes
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Dependency Security Update
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 ## Version Control Operations
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `::` | :: |  |  |
 
 <!-- Informações -->
 ## &#8505; Informações
