@@ -58,6 +58,9 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:children_crossing:` | :children_crossing: | Improve user experience / usability. | Melhorar experiência / usabilidade do usuário. |
+| `:sparkles:` | :sparkles: | Introduce new features. | Introduzir novos recursos. |
+| `:zap:` | :zap: | Improve performance. | Melhorar desempenho. |
 
 ## Project Management
 
