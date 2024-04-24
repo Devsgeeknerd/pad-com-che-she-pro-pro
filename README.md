@@ -140,7 +140,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:arrows_counterclockwise:` | :arrows_counterclockwise: | Revert or undo changes in version control. | Reverter ou desfazer alterações no controle de versão. |
 
 <!-- Informações -->
 ## &#8505; Informações
