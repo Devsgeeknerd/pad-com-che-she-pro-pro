@@ -110,7 +110,8 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:key:` | :key: | Sign or verify code signatures. | Assinar ou verificar assinaturas de código.rewind |
+| `:old_key:` | :old_key: | Update code signatures. | Atualizar assinaturas de código. |
+| `:key:` | :key: | Sign or verify code signatures. | Assinar ou verificar assinaturas de código. |
 
 ## Code Rollback
 
@@ -141,6 +142,13 @@
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:arrows_counterclockwise:` | :arrows_counterclockwise: | Revert or undo changes in version control. | Reverter ou desfazer alterações no controle de versão. |
+
+## File Management
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:file_folder:` | :file_folder: | Add or update folder. | Adicionar ou atualizar pasta. |
+| `:page_facing_up:` | :page_facing_up: | Add or update file content. | Adicionar ou atualizar o conteúdo do arquivo. |
 
 <!-- Informações -->
 ## &#8505; Informações
