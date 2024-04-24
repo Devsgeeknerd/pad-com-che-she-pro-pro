@@ -85,6 +85,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
 | `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Eliminar código que precisa ser limpo. |
 
 ## Code Optimization
