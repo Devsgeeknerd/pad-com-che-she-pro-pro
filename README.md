@@ -110,7 +110,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:key:` | :key: | Sign or verify code signatures. | Assinar ou verificar assinaturas de código. |
 
 ## Code Rollback
 
