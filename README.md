@@ -51,6 +51,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:page_with_curl:` | :page_with_curl: | Update documentation content. | Atualizar conteúdo da documentação. |
 | `:memo:` | :memo: | Add documentation. | Adicionar documentação. |
 
 ## Improvements and New Features
