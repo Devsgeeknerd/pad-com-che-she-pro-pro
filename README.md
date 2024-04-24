@@ -52,7 +52,7 @@
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:page_with_curl:` | :page_with_curl: | Update documentation content. | Atualizar conteúdo da documentação. |
-| `:memo:` | :memo: | Add documentation. | Adicionar documentação. |
+| `:pencil:` | :pencil: | Add documentation. | Adicionar documentação. |
 
 ## Improvements and New Features
 
@@ -66,6 +66,8 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:bookmark:` | :bookmark: | Release / version tags. | Tags de lançamento / versão. |
+| `:tada:` | :tada: | Begin a project. | Iniciar um projeto. |
 
 ## Security and Privacy
 
