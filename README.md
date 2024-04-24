@@ -98,6 +98,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:cd:` | :cd: | Perform database migrations. | Realizar migrações de banco de dados. |
 
 ## Continuous Integration / Deployment
 
