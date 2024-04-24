@@ -38,11 +38,14 @@
 | `:arrow_up:` | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
 | `:heavy_minus_sign:` | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
 | `:heavy_plus_sign:` | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
+| `:pushpin:` | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 
 ## Testing and Quality
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:white_check_mark:` | :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar em testes. |
+| `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 
 ## Documentation
 
