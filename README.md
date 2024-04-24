@@ -122,7 +122,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:fire_engine:` | :fire_engine: | Apply emergency hotfix. | Aplicar hotfix de emergência. |
 
 ## Configuration Changes
 
