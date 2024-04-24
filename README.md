@@ -128,7 +128,7 @@
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `::` | :: |  |  |
+| `:gear:` | :gear: | Add or update configuration settings. | Adicionar ou atualizar configurações. |
 
 ## Dependency Security Update
 
