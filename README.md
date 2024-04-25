@@ -148,7 +148,8 @@
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:file_folder:` | :file_folder: | Add or update folder. | Adicionar ou atualizar pasta. |
-| `:page_facing_up:` | :page_facing_up: | Add or update file content. | Adicionar ou atualizar o conteúdo do arquivo. |
+| `:page_facing_up:` | :page_facing_up: | Add file. | Adicionar arquivo. |
+| `:scroll:` | :scroll: | Update file content. | Atualizar conteúdo do arquivo. |
 
 <!-- Informações -->
 ## &#8505; Informações
