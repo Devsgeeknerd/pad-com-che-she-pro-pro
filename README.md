@@ -33,9 +33,14 @@ Este documento define os padrões de commits a serem seguidos(por mim), utilizan
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
+| `:apple:` | :apple: | Add support for macOS. | Adicionar suporte ao macOS. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
+| `:desktop_computer:` | :desktop_computer: | Add support for Windows. | Adicionar suporte ao Windows. |
 | `:hammer_and_wrench:` | :hammer_and_wrench: | Add or modify components. | Adicionar ou modificar componentes. |
 | `:hammer:` | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
+| `:iphone:` | :iphone: | Add support for iPhone. | Adicionar suporte ao iPhone. |
+| `:penguin:` | :penguin: | Add support for Linux. | Adicionar suporte ao Linux. |
+| `:robot:` | :robot: | Add support for Android. | Adicionar suporte ao Android. |
 | `:seedling:` | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de seed. |
 
 ## Dependency Management
