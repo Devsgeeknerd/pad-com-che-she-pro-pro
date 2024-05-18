@@ -1,26 +1,34 @@
 <!-- Título -->
-# Padrões de Commit's
+# Padrões de Commits
+
+Este documento define os padrões de commits a serem seguidos(por mim), utilizando emojis para representar diferentes tipos de alterações no código. A tabela abaixo lista os códigos, emojis, descrições e traduções para cada tipo de ação.
 
 ## Code Actions
+
+**Ações Gerais de Código**: Ações comuns relacionadas à adição, atualização e mesclagem de código.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:bento:` | :bento: | Add or update assets. | Adicionar ou atualizar recursos. |
-| `:label:` | :label: | Add or update typos. | Adicionar ou atualizar tipos. |
+| `:label:` | :label: | Add or update labels. | Adicionar ou atualizar etiquetas. |
 | `:package:` | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
 
 ## Code Quality
 
+**Qualidade do Código**: Melhorias relacionadas ao estilo, correção de erros e limpeza de código.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:art:` | :art: | Add or update theme, style files. | Adicionar ou atualizar o tema, arquivos de estilo. |
-| `:bug:` | :bug: | Fix a bug | Corrigir um erro. |
-| `:coffin:` | :coffin: | Remove dead code. | Remove código morto. |
+| `:art:` | :art: | Add or update theme, style files. | Adicionar ou atualizar tema, arquivos de estilo. |
+| `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
+| `:coffin:` | :coffin: | Remove dead code. | Remover código morto. |
 | `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
 | `:wrench:` | :wrench: | Add or update configuration files. | Adicionar ou atualizar arquivos de configuração. |
 
 ## Development
+
+**Desenvolvimento**: Ações específicas de desenvolvimento, como experimentos e trabalho em andamento.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -32,6 +40,8 @@
 
 ## Dependency Management
 
+**Gerenciamento de Dependências**: Ações relacionadas à atualização e gerenciamento de dependências.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Fazer downgrade de dependências. |
@@ -42,19 +52,26 @@
 
 ## Testing and Quality
 
+**Teste e Qualidade**: Ações relacionadas a testes e garantia de qualidade.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:white_check_mark:` | :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar em testes. |
+| `:white_check_mark:` | :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar testes. |
 | `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 
 ## Documentation
+
+**Documentação**: Atualizações e adições de documentação.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:page_with_curl:` | :page_with_curl: | Update documentation content. | Atualizar conteúdo da documentação. |
 | `:pencil:` | :pencil: | Add documentation. | Adicionar documentação. |
+| `:memo:` | memo | Correct writing in a document. | Corrigir a escrita em um documento. |
 
 ## Improvements and New Features
+
+**Melhorias e Novas Funcionalidades**: Introdução de novas funcionalidades e melhorias de desempenho.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -64,6 +81,8 @@
 
 ## Project Management
 
+**Gerenciamento de Projetos**: Ações relacionadas ao gerenciamento de versões e início de projetos.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:bookmark:` | :bookmark: | Release / version tags. | Tags de lançamento / versão. |
@@ -71,24 +90,32 @@
 
 ## Security and Privacy
 
+**Segurança e Privacidade**: Correções de problemas de segurança e privacidade.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:lock:` | :lock: | Fix security or privacy issues. | Corrigir problemas de segurança ou privacidade. |
 
 ## Code Review
 
+**Revisão de Código**: Revisão e análise de alterações no código.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:eyes:` | :eyes: | Review código changes. | Revisar alterações de código. |
+| `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
 
 ## Code Cleanup
+
+**Limpeza de Código**: Limpeza e depreciação de código obsoleto.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
-| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Eliminar código que precisa ser limpo. |
+| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Depreciar código que precisa ser limpo. |
 
 ## Code Optimization
+
+**Otimização de Código**: Otimizações para melhorar o desempenho do código.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -96,17 +123,23 @@
 
 ## Database Operations
 
+**Operações de Banco de Dados**: Migrações e outras ações relacionadas a bancos de dados.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:cd:` | :cd: | Perform database migrations. | Realizar migrações de banco de dados. |
 
 ## Continuous Integration / Deployment
 
+**Integração / Implantação Contínua**: Ações relacionadas à implantação e integração contínua.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:rocket:` | :rocket: | Deploy stuff. | Implantar coisas. |
+| `:rocket:` | :rocket: | Deploy stuff. | Implantar funcionalidades. |
 
 ## Code Signing / Verification
+
+**Assinatura / Verificação de Código**: Assinatura e verificação de assinaturas de código.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -115,11 +148,15 @@
 
 ## Code Rollback
 
+**Reversão de Código**: Reversão de alterações feitas no código.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:rewind:` | :rewind: | Revert changes. | Reverter alterações. |
 
 ## Code Hotfix
+
+**Correção Rápida de Código**: Correções emergenciais de código.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -127,11 +164,15 @@
 
 ## Configuration Changes
 
+**Alterações de Configuração**: Atualizações e adições de configurações.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:gear:` | :gear: | Add or update configuration settings. | Adicionar ou atualizar configurações. |
 
 ## Dependency Security Update
+
+**Atualização de Segurança de Dependências**: Atualizações de dependências por motivos de segurança.
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
@@ -139,17 +180,25 @@
 
 ## Version Control Operations
 
+**Operações de Controle de Versão**: Ações relacionadas ao controle de versão.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:arrows_counterclockwise:` | :arrows_counterclockwise: | Revert or undo changes in version control. | Reverter ou desfazer alterações no controle de versão. |
 
 ## File Management
 
+**Gerenciamento de Arquivos**: Adição e atualização de arquivos e pastas.
+
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:file_folder:` | :file_folder: | Add or update folder. | Adicionar ou atualizar pasta. |
 | `:page_facing_up:` | :page_facing_up: | Add file. | Adicionar arquivo. |
 | `:scroll:` | :scroll: | Update file content. | Atualizar conteúdo do arquivo. |
+
+## Notas Finais
+
+Esta tabela serve como um guia para padronizar as mensagens de commits, facilitando a identificação do tipo de alteração realizada no código. Siga estas diretrizes para manter a consistência e clareza nas suas mensagens de commit.
 
 <!-- Informações -->
 ## &#8505; Informações
