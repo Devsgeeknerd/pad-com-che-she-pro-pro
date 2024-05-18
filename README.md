@@ -67,7 +67,7 @@ Este documento define os padrões de commits a serem seguidos(por mim), utilizan
 | :--- | :---: | :---------- | :---------- |
 | `:page_with_curl:` | :page_with_curl: | Update documentation content. | Atualizar conteúdo da documentação. |
 | `:pencil:` | :pencil: | Add documentation. | Adicionar documentação. |
-| `:memo:` | :memo: | Correct writing in a document. | Corrigir a escrita em um documento. |
+| `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou documentação. |
 
 ## Improvements and New Features
 
