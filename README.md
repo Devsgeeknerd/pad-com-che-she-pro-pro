@@ -10,7 +10,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:bento:` | :bento: | Add, update or remove assets. | Adicionar, atualizar ou remover recursos. |
-| `:label:` | :label: | Add or update labels. | Adicionar ou atualizar etiquetas. |
+| `:label:` | :label: | Add, update or labels. | Adicionar, atualizar ou remove etiquetas. |
 | `:package:` | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
 
