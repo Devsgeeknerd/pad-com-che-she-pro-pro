@@ -35,7 +35,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
 | `:apple:` | :apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
-| `:desktop_computer:` | :desktop_computer: | Add support for Windows. | Adicionar suporte ao Windows. |
+| `:desktop_computer:` | :desktop_computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte ao Windows. |
 | `:hammer_and_wrench:` | :hammer_and_wrench: | Add or modify components. | Adicionar ou modificar componentes. |
 | `:hammer:` | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
 | `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
