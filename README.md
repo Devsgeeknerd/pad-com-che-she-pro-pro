@@ -33,7 +33,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
-| `:apple:` | :apple: | Add support for macOS. | Adicionar suporte ao macOS. |
+| `:apple:` | :apple: | Add, update or support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
 | `:desktop_computer:` | :desktop_computer: | Add support for Windows. | Adicionar suporte ao Windows. |
 | `:hammer_and_wrench:` | :hammer_and_wrench: | Add or modify components. | Adicionar ou modificar componentes. |
