@@ -11,7 +11,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | :--- | :---: | :---------- | :---------- |
 | `:bento:` | :bento: | Add, update or remove assets. | Adicionar, atualizar ou remover recursos. |
 | `:label:` | :label: | Add, update or labels. | Adicionar, atualizar ou remove etiquetas. |
-| `:package:` | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
+| `:package:` | :package: | Add, update or remove compiled files or packages. | Adicionar, atualizar ou remover arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
 
 ## Code Quality
@@ -38,6 +38,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | `:desktop_computer:` | :desktop_computer: | Add support for Windows. | Adicionar suporte ao Windows. |
 | `:hammer_and_wrench:` | :hammer_and_wrench: | Add or modify components. | Adicionar ou modificar componentes. |
 | `:hammer:` | :hammer: | Add or update development scripts. | Adicionar ou atualizar scripts de desenvolvimento. |
+| `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
 | `:iphone:` | :iphone: | Add support for iPhone. | Adicionar suporte ao iPhone. |
 | `:penguin:` | :penguin: | Add support for Linux. | Adicionar suporte ao Linux. |
 | `:robot:` | :robot: | Add support for Android. | Adicionar suporte ao Android. |
