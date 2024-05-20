@@ -1,7 +1,7 @@
 <!-- Título -->
 # Padrões de Commits
 
-Este documento define os padrões de commits a serem seguidos(por mim), utilizando emojis para representar diferentes tipos de alterações no código. A tabela abaixo lista os códigos, emojis, descrições e traduções para cada tipo de ação.
+Este documento define os padrões de commits a serem seguidos(para meus repositórios), utilizando emojis para representar diferentes tipos de alterações no código. A tabela abaixo lista os códigos, emojis, descrições e traduções para cada tipo de ação.
 
 ## Code Actions
 
@@ -9,7 +9,7 @@ Este documento define os padrões de commits a serem seguidos(por mim), utilizan
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:bento:` | :bento: | Add or update assets. | Adicionar ou atualizar recursos. |
+| `:bento:` | :bento: | Add, update or remove assets. | Adicionar, atualizar ou remover recursos. |
 | `:label:` | :label: | Add or update labels. | Adicionar ou atualizar etiquetas. |
 | `:package:` | :package: | Add or update compiled files or packages. | Adicionar ou atualizar arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
@@ -203,7 +203,7 @@ Este documento define os padrões de commits a serem seguidos(por mim), utilizan
 
 ## Notas Finais
 
-Esta tabela serve como um guia para padronizar as mensagens de commits, facilitando a identificação do tipo de alteração realizada no código. Siga estas diretrizes para manter a consistência e clareza nas suas mensagens de commit.
+Esta tabela serve como um guia(para meus repositórios) para padronizar as mensagens de commits, facilitando a identificação do tipo de alteração realizada no código, para manter a consistência e clareza nas suas mensagens de commit.
 
 <!-- Informações -->
 ## &#8505; Informações
