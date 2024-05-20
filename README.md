@@ -20,7 +20,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:art:` | :art: | Add or update theme, style files. | Adicionar ou atualizar tema, arquivos de estilo. |
+| `:art:` | :art: | Add, update or remove theme, style files. | Adicionar, atualizar ou remover tema, arquivos de estilo. |
 | `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
 | `:coffin:` | :coffin: | Remove dead code. | Remover código morto. |
 | `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
