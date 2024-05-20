@@ -24,7 +24,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
 | `:coffin:` | :coffin: | Remove dead code. | Remover código morto. |
 | `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
-| `:wrench:` | :wrench: | Add or update configuration files. | Adicionar ou atualizar arquivos de configuração. |
+| `:wrench:` | :wrench: | Add, update or remove configuration files. | Adicionar, atualizar ou remover arquivos de configuração. |
 
 ## Development
 
