@@ -39,7 +39,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
 | `:iphone:` | :iphone: | Add, update or remove support for iPhone. | Adicionar, atualizar ou remove suporte ao iPhone. |
 | `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remove suporte ao Linux. |
-| `:robot:` | :robot: | Add support for Android. | Adicionar suporte ao Android. |
+| `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte ao Android. |
 | `:seedling:` | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de seed. |
 
 ## Dependency Management
