@@ -96,6 +96,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | :--- | :---: | :---------- | :---------- |
 | `:bookmark:` | :bookmark: | Release / version tags. | Tags de lançamento / versão. |
 | `:checkered_flag:` | :checkered_flag: | Begin a project. | Iniciar um projeto. |
+| `:tada:` | :tada: | Initial commit. | Confirmação inicial. |
 
 ## Security and Privacy
 
