@@ -106,6 +106,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:eye:` | :eye: | Fix privacy issues. | Corrigir problemas de privacidade. |
 | `:lock:` | :lock: | Fix security issues. | Corrigir problemas de segurança. |
 
 ## Code Review
@@ -140,6 +141,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:cd:` | :cd: | Perform database migrations. | Realizar migrações de banco de dados. |
+| `:floppy_disk:` | :floppy_disk: | Perform database backup. | Realizar backup do banco de dados. |
 
 ## Continuous Integration / Deployment
 
