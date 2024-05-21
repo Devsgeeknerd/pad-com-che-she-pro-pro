@@ -97,6 +97,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | `:bookmark:` | :bookmark: | Release / version tags. | Tags de lançamento / versão. |
 | `:bow_and_arrow:` | :bow_and_arrow: | Add goals. | Adicionar metas. |
 | `:checkered_flag:` | :checkered_flag: | Begin a project. | Iniciar um projeto. |
+| `:dart:` | :dart: | Completed goals. | Metas concluídas. |
 | `:tada:` | :tada: | Initial commit. | Confirmação inicial. |
 
 ## Security and Privacy
