@@ -200,10 +200,10 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:file_folder:` | :file_folder: | Add or update folder. | Adicionar ou atualizar pasta. |
+| `:open_file_folder:` | :open_file_folder: | Add folder. | Adicionar pasta. |
 | `:page_facing_up:` | :page_facing_up: | Add file. | Adicionar arquivo. |
 | `:page_with_curl:` | :page_with_curl: | Update file content. | Atualizar conteúdo do arquivo. |
-| `:scroll:` | :scroll: | Update file content. | Atualizar conteúdo do arquivo. |
+| `:scroll:` | :scroll: | Add or update license. | Adicionar ou atualizar licença. |
 
 ## Notas Finais
 
