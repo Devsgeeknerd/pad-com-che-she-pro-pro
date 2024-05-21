@@ -37,7 +37,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 | `:construction:` | :construction: | Work in progress. | Trabalho em andamento. |
 | `:desktop_computer:` | :desktop_computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte ao Windows. |
 | `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
-| `:iphone:` | :iphone: | Add support for iPhone. | Adicionar suporte ao iPhone. |
+| `:iphone:` | :iphone: | Add, update or remove support for iPhone. | Adicionar, atualizar ou remove suporte ao iPhone. |
 | `:penguin:` | :penguin: | Add support for Linux. | Adicionar suporte ao Linux. |
 | `:robot:` | :robot: | Add support for Android. | Adicionar suporte ao Android. |
 | `:seedling:` | :seedling: | Add or update seed files. | Adicionar ou atualizar arquivos de seed. |
