@@ -202,6 +202,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | :--- | :---: | :---------- | :---------- |
 | `:file_folder:` | :file_folder: | Add or update folder. | Adicionar ou atualizar pasta. |
 | `:page_facing_up:` | :page_facing_up: | Add file. | Adicionar arquivo. |
+| `:page_with_curl:` | :page_with_curl: | Update file. | Atualizar arquivo. |
 | `:scroll:` | :scroll: | Update file content. | Atualizar conteúdo do arquivo. |
 
 ## Notas Finais
