@@ -72,8 +72,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | :--- | :---: | :---------- | :---------- |
 | `:book:` | :book: | Add documentation README. | Adicionar documentação README.|
 | `:blue_book:` | :blue_book: | Add documentation software. | Adicionar documentação de software. |
-| `:page_with_curl:` | :page_with_curl: | Update documentation content. | Atualizar conteúdo da documentação. |
-| `:pencil:` | :pencil: | Add documentation. | Adicionar documentação. |
+| `:pencil:` | :pencil: | Update documentation content. | Atualizar conteúdo da documentação. |
 | `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou documentação. |
 
 ## Improvements and New Features
