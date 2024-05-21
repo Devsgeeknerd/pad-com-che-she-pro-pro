@@ -104,7 +104,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:lock:` | :lock: | Fix security or privacy issues. | Corrigir problemas de segurança ou privacidade. |
+| `:lock:` | :lock: | Fix security issues. | Corrigir problemas de segurança. |
 
 ## Code Review
 
