@@ -59,7 +59,7 @@ Este documento define os padr√µes de commits a serem seguidos(para meus reposit√
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:white_check_mark:` | :white_check_mark: | Add, update, or pass tests. | Adicionar, atualizar ou passar testes. |
+| `:white_check_mark:` | :white_check_mark: | Pass tests. | Passar testes. |
 | `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 
 ## Documentation
