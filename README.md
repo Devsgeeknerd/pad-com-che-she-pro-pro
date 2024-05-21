@@ -95,7 +95,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:bookmark:` | :bookmark: | Release / version tags. | Tags de lançamento / versão. |
-| `:tada:` | :tada: | Begin a project. | Iniciar um projeto. |
+| `:checkered_flag:` | :checkered_flag: | Begin a project. | Iniciar um projeto. |
 
 ## Security and Privacy
 
