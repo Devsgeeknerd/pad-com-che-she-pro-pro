@@ -206,7 +206,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 ## Notas Finais
 
-Esta tabela serve como um guia(para meus repositórios) para padronizar as mensagens de commits, facilitando a identificação do tipo de alteração realizada no código, para manter a consistência e clareza nas suas mensagens de commit.
+Esta tabela serve como um guia(para meus repositórios) para padronizar as mensagens de commits, facilitando a identificação do tipo de alteração realizada no código, para manter a consistência e clareza nas minhas mensagens de commit.
 
 <!-- Informações -->
 ## &#8505; Informações
