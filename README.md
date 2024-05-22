@@ -177,6 +177,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | :--- | :---: | :---------- | :---------- |
 | `:adhesive_bandage:` | :adhesive_bandage: | Apply a temporary fix. | Aplicar uma correção temporária. |
 | `:ambulance:` | :ambulance: |Quick fix for a problem. | solução rápida para um problema. |
+| `:fire_engine:` | :fire_engine: | Quick response to combater code issues. | Resposta rápida para combater problemas no código. |
 | `:hammer_and_pick:` | :hammer_and_pick: | Apply a quick fix. | Aplicar uma correção rápida. |
 
 ## Configuration Changes
