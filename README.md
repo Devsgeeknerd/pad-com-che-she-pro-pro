@@ -72,7 +72,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:book:` | :book: | Add README documentation. | Adicionar documentação README.|
-| `:blue_book:` | :blue_book: | Add documentation software. | Adicionar documentação de software. |
+| `:blue_book:` | :blue_book: | Add software documentation. | Adicionar documentação do software. |
 | `:green_book:` | :green_book: | Add documentation app. | Adicionar documentação de aplicativo. |
 | `:orange_book:` | :orange_book: | Add documentation API.| Adicionar documentação de API. |
 | `:pencil:` | :pencil: | Update documentation content. | Atualizar conteúdo da documentação. |
