@@ -183,7 +183,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:gear:` | :gear: | Add or update configuration settings. | Adicionar ou atualizar configurações. |
+| `:gear:` | :gear: | Add, update or remove configuration settings. | Adicionar, atualizar ou remover configurações. |
 
 ## Dependency Security Update
 
