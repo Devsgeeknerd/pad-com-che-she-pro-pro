@@ -183,6 +183,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:bar_chart:` | :bar_chart: | Analyze andd adjust settings based on data. | Analisar e ajustar configurações com base em dados. |
 | `:gear:` | :gear: | Add, update or remove configuration settings. | Adicionar, atualizar ou remover configurações. |
 
 ## Dependency Security Update
