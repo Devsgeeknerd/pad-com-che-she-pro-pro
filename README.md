@@ -175,6 +175,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:adhesive_bandage:` | :adhesive_bandage: | Application of a quick fix. | Aplicação de uma correção rápida. |
 | `:fire_engine:` | :fire_engine: | Apply emergency hotfix. | Aplicar hotfix de emergência. |
 
 ## Configuration Changes
