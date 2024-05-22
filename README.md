@@ -191,6 +191,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:rotating_light:` | :rotating_light: | An urgent update to address a critical vulnerability. | Uma atualização urgente para lidar com uma vulnerabilidade crítica. |
 | `:no_entry_sign:` | :no_entry_sign: | A previous version of the dependency has a known vulnerability. | Uma versão anterior da dependência possui uma vulnerabilidade conhecida. |
 | `:shield:` | :shield: | Update dependencies for security reasons. | Atualizar dependências por motivos de segurança. |
 | `:warning:` | :warning: | A risky situation that requires a security update. | Uma situação de risco que requer uma atualização de segurança. |
