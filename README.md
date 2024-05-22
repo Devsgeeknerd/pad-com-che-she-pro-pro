@@ -73,6 +73,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 | :--- | :---: | :---------- | :---------- |
 | `:book:` | :book: | Add README documentation. | Adicionar documentação README.|
 | `:blue_book:` | :blue_book: | Add software documentation. | Adicionar documentação do software. |
+| `:clipboard:` | :clipboard: | Document in progress. | Documento em andamento. |
 | `:green_book:` | :green_book: | Add app documentation. | Adicionar documentação do aplicativo. |
 | `:orange_book:` | :orange_book: | Add API documentation.| Adicionar documentação da API. |
 | `:pencil:` | :pencil: | Update documentation content. | Atualizar conteúdo da documentação. |
