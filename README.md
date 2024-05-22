@@ -191,6 +191,7 @@ Este documento define os padrões de commits a serem seguidos(para meus reposit�
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
+| `:no_entry_sign:` | :no_entry_sign: | A previous version of the dependency has a known vulnerability. | Uma versão anterior da dependência possui uma vulnerabilidade conhecida. |
 | `:shield:` | :shield: | Update dependencies for security reasons. | Atualizar dependências por motivos de segurança. |
 
 ## Version Control Operations
