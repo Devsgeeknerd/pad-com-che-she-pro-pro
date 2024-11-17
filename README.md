@@ -1,7 +1,11 @@
 <!-- Título -->
 # Padrões de Commits
 
+## Introdução
 
+Este documento define os padrões de commits a serem seguidos (para meus repositórios), utilizando emojis para representar diferentes tipos de alterações no código.
+
+Seguir um padrão de commits me ajuda a manter a clareza e a consistência nas mensagens, facilitando a identificação do tipo de alteração realizada e melhorando a colaboração entre os desenvolvedores.
 
 <!-- Informações -->
 ## &#8505; Informações
