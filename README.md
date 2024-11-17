@@ -7,6 +7,16 @@ Este documento define os padrões de commits a serem seguidos (para meus reposit
 
 Seguir um padrão de commits me ajuda a manter a clareza e a consistência nas mensagens, facilitando a identificação do tipo de alteração realizada e melhorando a colaboração entre os desenvolvedores.
 
+## Exemplos de Commits
+
+Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
+
+* :sparkles: Introduce new feature for user authentication.
+* :bug: Fix issue with login not redirecting correctly.
+* :recycle: Refactor user profile component for better readability.
+* :wrench: Update configuration for deployment.
+* :book: Add README documentation for setup instruction.
+
 <!-- Informações -->
 ## &#8505; Informações
 
