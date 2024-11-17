@@ -17,6 +17,12 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 * :wrench: Update configuration for deployment.
 * :book: Add README documentation for setup instruction.
 
+## Dicas de Uso
+
+* Use de forma moderada e apenas quando fizer sentido para a alteração.
+* Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
+* Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das mensagens de commit.
+
 <!-- Informações -->
 ## &#8505; Informações
 
