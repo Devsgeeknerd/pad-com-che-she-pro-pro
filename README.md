@@ -23,6 +23,8 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 * Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
 * Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das mensagens de commit.
 
+## Code Actions
+
 <!-- Informações -->
 ## &#8505; Informações
 
