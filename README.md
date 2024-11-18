@@ -46,6 +46,21 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
 | `:wrench:` | :wrench: | Add, update or remove configuration files. | Adicionar, atualizar ou remover arquivos de configuração. |
 
+## Development
+
+**Desenvolvimento:** Ações específicas de desenvolvimento, como experimentos e trabalho em andamento.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
+| `:gree_apple:` | :gree_apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
+| `:construction:` | :construction: | Work in progress. | Trabalho em  andamento. |
+| `:desktop_computer:` | :computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte ao Windows. |
+| `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
+| `:iphone:` | :iphone: | Add, update or remove support for iPhone. | Adicionar, atualizar ou remover suporte ao iPhone. |
+| `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remover suporte ao Linux. |
+| `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte ao Android. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
