@@ -34,6 +34,18 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:package:` | :package: | Add, update or remove compiled files or packages. | Adicionar, atualizar ou remover arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
 
+## Code Quality
+
+**Qualidade do Código:** Melhorias relacionadas ao estilo, correção de erros e limpeza de código.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:art:` | :art: | Add, update or remove theme, style files. | Adicionar, atualizar ou remover tema, arquivos de estilo. |
+| `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
+| `:coffin:` | :coffin: | Remove dead code. | Remover código morto. |
+| `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
+| `:wrench:` | :wrench: | Add, update or remove configuration files. | Adicionar, atualizar ou remover arquivos de configuração. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
