@@ -32,7 +32,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:bento:` | :bento: | Add, update or remove assets. | Adicionar, atualizar ou remover recursos. |
 | `:label:` | :label: | Add, update or remove labels. | Adicionar, atualizar ou remover etiquetas. |
 | `:package:` | :package: | Add, update or remove compiled files or packages. | Adicionar, atualizar ou remover arquivos ou pacotes compilados. |
-| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar branches. |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
 
 ## Code Quality
 
