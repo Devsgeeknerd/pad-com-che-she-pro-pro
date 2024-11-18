@@ -53,7 +53,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
-| `:gree_apple:` | :gree_apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
+| `:green_apple:` | :green_apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em  andamento. |
 | `:desktop_computer:` | :computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte ao Windows. |
 | `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
