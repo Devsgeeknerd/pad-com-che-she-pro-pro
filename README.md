@@ -73,6 +73,18 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:heavy_plus_sign:` | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
 | `:pushpin:` | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 
+## Testing and Quality
+
+**Teste e Qualidade:** Ações relacionadas a testes e garantia de qualidade.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:ballot_box_with_check:` | :ballot_box_with_check: | Update tests. | Atualizar testes. |
+| `:x:` | :x: | Failed tests. | Testes reprovados. |
+| `:heavy_check_mark:` | :heavy_check_mark: | Add tests. | Adicionar testes. |
+| `:white_check_mark:` | :white_check_mark: | Passing tests. | Passar nos testes. |
+| `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
