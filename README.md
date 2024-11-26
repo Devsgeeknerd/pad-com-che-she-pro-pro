@@ -61,6 +61,18 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remover suporte ao Linux. |
 | `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte ao Android. |
 
+## Dependency Management
+
+**Gerenciamento de Dependências:** Ações relacionadas a atualização e gerenciamento de dependências.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Fazer downgrade de dependências. |
+| `:arrow_up:` | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
+| `:heavy_minus_sign:` | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
+| `:heavy_plus_sign:` | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
+| `:pushpin:` | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
