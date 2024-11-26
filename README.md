@@ -40,10 +40,10 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:art:` | :art: | Add, update or remove theme, style files. | Adicionar, atualizar ou remover tema, arquivos de estilo. |
+| `:art:` | :art: | Add, update or remove theme, style files. | Adicionar, atualizar ou remover arquivos de tema e estilo. |
 | `:bug:` | :bug: | Fix a bug. | Corrigir um erro. |
 | `:coffin:` | :coffin: | Remove dead code. | Remover código morto. |
-| `:recycle:` | :recycle: | Refactor code. | Refatorar código. |
+| `:recycle:` | :recycle: | Refactor code. | Refatorar o código. |
 | `:wrench:` | :wrench: | Add, update or remove configuration files. | Adicionar, atualizar ou remover arquivos de configuração. |
 
 ## Development
@@ -53,13 +53,13 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:alembic:` | :alembic: | Perform experiments. | Realizar experimentos. |
-| `:green_apple:` | :green_apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte ao macOS. |
+| `:green_apple:` | :green_apple: | Add, update or remove support for macOS. | Adicionar, atualizar ou remover suporte para macOS. |
 | `:construction:` | :construction: | Work in progress. | Trabalho em  andamento. |
-| `:desktop_computer:` | :computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte ao Windows. |
+| `:desktop_computer:` | :computer: | Add, update or remove support for Windows. | Adicionar, atualizar ou remover suporte para Windows. |
 | `:jigsaw:` | :jigsaw: | Add, update or remove components. | Adicionar, atualizar ou remover componentes. |
-| `:iphone:` | :iphone: | Add, update or remove support for iPhone. | Adicionar, atualizar ou remover suporte ao iPhone. |
-| `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remover suporte ao Linux. |
-| `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte ao Android. |
+| `:iphone:` | :iphone: | Add, update or remove support for iPhone. | Adicionar, atualizar ou remover suporte para iPhone. |
+| `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remover suporte para Linux. |
+| `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte para Android. |
 
 ## Dependency Management
 
@@ -67,10 +67,10 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
-| `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Fazer downgrade de dependências. |
+| `:arrow_down:` | :arrow_down: | Downgrade dependencies. | Rebaixar dependências. |
 | `:arrow_up:` | :arrow_up: | Upgrade dependencies. | Atualizar dependências. |
-| `:heavy_minus_sign:` | :heavy_minus_sign: | Remove a dependency. | Remover uma dependência. |
-| `:heavy_plus_sign:` | :heavy_plus_sign: | Add a dependency. | Adicionar uma dependência. |
+| `:heavy_minus_sign:` | :heavy_minus_sign: | Remove dependency. | Remover dependência. |
+| `:heavy_plus_sign:` | :heavy_plus_sign: | Add dependency. | Adicionar  dependência. |
 | `:pushpin:` | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 
 ## Testing and Quality
@@ -80,10 +80,10 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:ballot_box_with_check:` | :ballot_box_with_check: | Update tests. | Atualizar testes. |
-| `:x:` | :x: | Failed tests. | Testes reprovados. |
+| `:x:` | :x: | Failed tests. | Testes falhados. |
 | `:heavy_check_mark:` | :heavy_check_mark: | Add tests. | Adicionar testes. |
-| `:white_check_mark:` | :white_check_mark: | Passing tests. | Passar nos testes. |
-| `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
+| `:white_check_mark:` | :white_check_mark: | Passing tests. | Testes aprovados. |
+| `:test_tube:` | :test_tube: | Add failing test. | Adicionar teste que falha. |
 
 ## Documentation
 
@@ -92,12 +92,12 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | CODE | EMOJI | DESCRIPTION | TRANSLATION |
 | :--- | :---: | :---------- | :---------- |
 | `:book:` | :book: | Add or remove README documentation. | Adicionar ou remover documentação README. |
-| `:blue_book:` | :blue_book: | Add or remove software documentation. | Adicionar ou remover documentação do software. |
-| `:clipboard:` | :clipboard: | Document in progress. | Documento em andamento. |
+| `:blue_book:` | :blue_book: | Add or remove software documentation. | Adicionar ou remover documentação de software. |
+| `:clipboard:` | :clipboard: | Documentation in progress. | Documentação em andamento. |
 | `:green_book:` | :green_book: | Add or remove app documentation. | Adicionar ou remover documentação do aplicativo. |
 | `:orange_book:` | :orange_book: | Add or remove API documentation. | Adicionar ou remover documentação da API. |
-| `:pencil:` | :pencil: | Update documentation. | Atualizar conteúdo da documentação. |
-| `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou documentação. |
+| `:pencil:` | :pencil: | Update documentation content. | Atualizar o conteúdo da documentação. |
+| `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou na documentação. |
 
 <!-- Informações -->
 ## &#8505; Informações
