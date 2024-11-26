@@ -85,6 +85,20 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:white_check_mark:` | :white_check_mark: | Passing tests. | Passar nos testes. |
 | `:test_tube:` | :test_tube: | Add a failing test. | Adicionar um teste com falha. |
 
+## Documentation
+
+**Documentação:** Atualizações e adições de documentação.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:book:` | :book: | Add or remove README documentation. | Adicionar ou remover documentação README. |
+| `:blue_book:` | :blue_book: | Add or remove software documentation. | Adicionar ou remover documentação do software. |
+| `:clipboard:` | :clipboard: | Document in progress. | Documento em andamento. |
+| `:green_book:` | :green_book: | Add or remove app documentation. | Adicionar ou remover documentação do aplicativo. |
+| `:orange_book:` | :orange_book: | Add or remove API documentation. | Adicionar ou remover documentação da API. |
+| `:pencil:` | :pencil: | Update documentation. | Atualizar conteúdo da documentação. |
+| `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou documentação. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
