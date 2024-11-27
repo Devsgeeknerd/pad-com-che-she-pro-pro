@@ -99,6 +99,16 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:pencil:` | :pencil: | Update documentation content. | Atualizar o conteúdo da documentação. |
 | `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou na documentação. |
 
+## Improvements and New Features
+
+**Melhorias e Novas Funcionalidades:** Introdução de novas funcionalidades e melhorias de desempenho.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:children_crossing:` | :children_crossing: | Improve user experience / usability. | Melhorar a experiência do usuário / usabilidade. |
+| `:sparkles:` | :sparkles: | Introduce new features. | Introduzir novos recursos. |
+| `:zap:` | :zap: | Improve performance. | Melhorar o desempenho. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
