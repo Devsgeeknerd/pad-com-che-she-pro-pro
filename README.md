@@ -130,6 +130,14 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:eye:` | :eye: | Fix privacy issues. | Corrigir problemas de privacidade. |
 | `:lock:` | :lock: | Fix security issues. | Corrigir problemas de segurança. |
 
+## Code Review
+
+**Revisão de Código:** Ações relacionadas a revisão e análise de alterações no código.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
