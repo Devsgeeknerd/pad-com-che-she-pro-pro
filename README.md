@@ -109,6 +109,18 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:sparkles:` | :sparkles: | Introduce new features. | Introduzir novos recursos. |
 | `:zap:` | :zap: | Improve performance. | Melhorar o desempenho. |
 
+## Project Management
+
+**Gerenciamento de Projetos:** Ações relacionados ao gerenciamento de versões e início de projetos.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:bookmark:` | :bookmark: | Version tags. | Tags de versão. |
+| `:bow_and_arrow:` | :bow_and_arrow: | Add, update or remove goals. | Adicionar, atualizar ou remover metas. |
+| `:checked_flag:` | :checked_flag: | Begin a project. | Iniciar um projeto. |
+| `:dart:` | :dart: | Completed goals. | Metas concluídas. |
+| `:tada:` | :tada: | Initial commit. | Commit inicial. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
