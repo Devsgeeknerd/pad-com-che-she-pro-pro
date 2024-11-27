@@ -117,7 +117,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | :--- | :---: | :---------- | :---------- |
 | `:bookmark:` | :bookmark: | Version tags. | Tags de versão. |
 | `:bow_and_arrow:` | :bow_and_arrow: | Add, update or remove goals. | Adicionar, atualizar ou remover metas. |
-| `:checked_flag:` | :checked_flag: | Begin a project. | Iniciar um projeto. |
+| `:checkered_flag:` | :checkered_flag:  | Begin a project. | Iniciar um projeto. |
 | `:dart:` | :dart: | Completed goals. | Metas concluídas. |
 | `:tada:` | :tada: | Initial commit. | Commit inicial. |
 
@@ -146,6 +146,14 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | :--- | :---: | :---------- | :---------- |
 | `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
 | `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Depreciar o código que precisa ser limpo. |
+
+## Code Optimization
+
+**Otimização de Código:** Otimizações para melhorar o desempenho do código.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:chart_with_downwards_trend:` | :chart_with_downwards_trend: | Optimize code for performance. | Otimizar o código para desempenho. |
 
 <!-- Informações -->
 ## &#8505; Informações
