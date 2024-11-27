@@ -138,6 +138,15 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | :--- | :---: | :---------- | :---------- |
 | `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
 
+## Code Cleanup
+
+**Limpeza de Código:** Limpeza e depreciação de código obsoleto.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
+| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Depreciar o código que precisa ser limpo. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
