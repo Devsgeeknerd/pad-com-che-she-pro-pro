@@ -121,6 +121,15 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:dart:` | :dart: | Completed goals. | Metas concluídas. |
 | `:tada:` | :tada: | Initial commit. | Commit inicial. |
 
+## Security and Privacy
+
+**Segurança e Privacidade:** Correções de problemas de segurança e privacidade.
+
+| CODE | EMOJI | DESCRIPTION | TRANSLATION |
+| :--- | :---: | :---------- | :---------- |
+| `:eye:` | :eye: | Fix privacy issues. | Corrigir problemas de privacidade. |
+| `:lock:` | :lock: | Fix security issues. | Corrigir problemas de segurança. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
