@@ -66,6 +66,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
   * Aprimorar uma funcionalidade já existente, como otimizar um algoritmo de busca ou melhorar a usabilidade de um formulário.
 
 * **Integração com APIs Externas**:
+  * Conectar o sistema a serviços externos, como APIs de pagamento, redes sociais ou serviços de geolocalização.
 
 * **Adição de novos componentes de UI**:
 
