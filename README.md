@@ -26,6 +26,16 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 * **Limpeza de código**:
   * Remover código não utilizado, comentários obsoletos ou arquivos desnecessários.
 
+* **Configuração de ferramentas**:
+
+* **Documentação**:
+
+* **Testes**:
+
+* **Configuração de ambiente**:
+
+* **Gerenciamento de issues**:
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
