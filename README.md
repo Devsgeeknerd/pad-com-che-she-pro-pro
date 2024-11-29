@@ -15,7 +15,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 
 `Chore` é uma categoria de tarefas que envolvem manutenção, organização e melhorias no código ou na infraestrutura do projeto. Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código permaneça limpa e gerenciável.
 
-#### Exemplo de tarefas
+#### Exemplo de tarefas Chore
 
 * **Atualização de dependências**:
   * Manter bibliotecas e pacotes atualizados para garantir segurança e compatibilidade.
@@ -41,7 +41,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 * **Gerenciamento de issues**:
   * Organizar e priorizar tarefas e bugs no sistema de rastreamento de problemas.
 
-#### Importância
+#### Importância do Chore
 
 * **Manutenção da qualidade do código**;
   * Tarefas que ajudam a manter a qualidade do código, evitando a acumulação de dívidas técnicas.
@@ -55,13 +55,15 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 * **Colaboração**;
   * Uma boa documentação e um código bem estruturado tornam mais fácil para novos desenvolvedores entenderem e contribuírem para o projeto.
 
-#### Conclusão
+#### Conclusão do Chore
 
 O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de software. Embora essas tarefas possam não parecer tão emocionantes quando a implementação de novas funcionalidades, elas são essenciais para a saúde a longo prazo do projeto. Ignorar as tarefas "chore" pode levar a problemas maiores no futuro, como aumento da complexidade do código, dificuldades na colaboração e riscos de segurança. Portanto, é importante que as equipes de desenvolvimento reconheçam e priorizem essas atividades em seu fluxo de trabalho.
 
 ### Feat
 
 `Feat` é uma categoria de commits ou tarefas que introduzem novas funcionalidades ou melhorias que agregam valor ao produto final. Amplamente utilizado no desenvolvimento de software, especialmente em práticas de controle de versão e metologias ágeis. Ele se refere a "feature" (funcionalidade, em português) e abrange a implementação de novas funcionalidades ou melhorias significativas em um sistema ou aplicativo. Essas mudanças são geralmente visíveis para os usuários e podem impactar diretamente a experiência do usuário ou a capacidade do sistema.
+
+#### Exemplo de tarefas Feat
 
 ### Exemplos de Commits
 
