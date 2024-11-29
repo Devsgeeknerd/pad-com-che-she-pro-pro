@@ -47,6 +47,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Tarefas que ajudam a manter a qualidade do código, evitando a acumulação de dívidas técnicas.
 
 * **Facilitação de novas funcionalidades**;
+  * Um código limpo e bem organizado facilita a implementação de novas funcionalidades e a correção de bugs.
 
 * **Segurança**;
 
