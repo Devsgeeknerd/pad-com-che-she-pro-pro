@@ -60,6 +60,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de software. Embora essas tarefas possam não parecer tão emocionantes quando a implementação de novas funcionalidades, elas são essenciais para a saúde a longo prazo do projeto. Ignorar as tarefas "chore" pode levar a problemas maiores no futuro, como aumento da complexidade do código, dificuldades na colaboração e riscos de segurança. Portanto, é importante que as equipes de desenvolvimento reconheçam e priorizem essas atividades em seu fluxo de trabalho.
 
 * **Implementação de novas funcionalidades**:
+  * Adicionar uma nova funcionalidade ao aplicativo, como um sistema de autenticação, um novo módulo de relatórios ou uma nova interface de usuário.
 
 * **Melhorias em funcionalidades existentes**:
 
