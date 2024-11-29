@@ -50,6 +50,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Um código limpo e bem organizado facilita a implementação de novas funcionalidades e a correção de bugs.
 
 * **Segurança**;
+  * Atualizações regulares de dependências e a remoção de código obsoleto ajudam a proteger o projeto contra vulnerabilidades.
 
 * **Colaboração**;
 
