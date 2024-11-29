@@ -53,6 +53,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Atualizações regulares de dependências e a remoção de código obsoleto ajudam a proteger o projeto contra vulnerabilidades.
 
 * **Colaboração**;
+  * Uma boa documentação e um código bem estruturado tornam mais fácil para novos desenvolvedores entenderem e contribuírem para o projeto.
 
 #### Conclusão
 
