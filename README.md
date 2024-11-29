@@ -11,15 +11,9 @@ Seguir um padrão de commits me ajuda a manter a clareza e a consistência nas m
 
 As seguintes categorias devem (ou não) ser usadas para classificar as alterações no código:
 
-* ***chore***:
-  * alterações que não se enquadram em nenhuma das categorias abaixo, geralmente relacionadas a tarefas de manutenção, como atualizações de dependências ou configurações de ferramentas.
+### Chore
 
-* ***revert***:
-  * Usado para revert um commit anterior.
-  * geralmente, é seguido pela mensagem do commit que esta sendo revertido.
-
-* ***build***:
-  * Alterações que afetam o sistema de build ou dependências externas.
+`Chore` é uma categoria de tarefas que envolvem manutenção, organização e melhorias no código ou na infraestrutura do projeto. Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código permaneça limpa e gerenciável.
 
 ### Exemplos de Commits
 
