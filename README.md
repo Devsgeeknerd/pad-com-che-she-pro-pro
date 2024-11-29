@@ -61,7 +61,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
 
 ### Exemplos de Commits
 
-Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
+Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão já definido neste documento:
 
 * :heavy_plus_sign: chore(deps): Adiciona Redux para gerenciamento de estado.
 
