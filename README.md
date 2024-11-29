@@ -75,6 +75,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
   * Expandir o aplicativo para suportar novas plataformas, como versões desktop ou web.
 
 * **Implementação de funcionalidades de acessibilidade**:
+  * Adicionar recursos que tornam o aplicativo mais acessível a usuários com deficiência, com suporte a leitores de tela ou navegação por teclado.
 
 * ****:
 
