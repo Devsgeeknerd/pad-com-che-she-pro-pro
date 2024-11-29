@@ -11,7 +11,7 @@ Seguir um padrão de commits me ajuda a manter a clareza e a consistência nas m
 
 As seguintes categorias devem (ou não) ser usadas para classificar as alterações no código:
 
-## Exemplos de Commits
+### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
 
@@ -21,7 +21,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 * Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
 * Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das mensagens de commit.
 
-## Code Actions
+### Code Actions
 
 **Ações Gerais de Código:** Ações comuns relacionadas a adição, atualização e mesclagem de código.
 
@@ -32,7 +32,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:package:` | :package: | Add, update or remove compiled files or packages. | Adicionar, atualizar ou remover arquivos ou pacotes compilados. |
 | `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Merge branches. | Mesclar ramificações. |
 
-## Code Quality
+### Code Quality
 
 **Qualidade do Código:** Melhorias relacionadas ao estilo, correção de erros e limpeza de código.
 
@@ -44,7 +44,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:recycle:` | :recycle: | Refactor code. | Refatorar o código. |
 | `:wrench:` | :wrench: | Add, update or remove configuration files. | Adicionar, atualizar ou remover arquivos de configuração. |
 
-## Development
+### Development
 
 **Desenvolvimento:** Ações específicas de desenvolvimento, como experimentos e trabalho em andamento.
 
@@ -59,7 +59,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:penguin:` | :penguin: | Add, update or remove support for Linux. | Adicionar, atualizar ou remover suporte para Linux. |
 | `:robot:` | :robot: | Add, update or remove support for Android. | Adicionar, atualizar ou remover suporte para Android. |
 
-## Dependency Management
+### Dependency Management
 
 **Gerenciamento de Dependências:** Ações relacionadas a atualização e gerenciamento de dependências.
 
@@ -71,7 +71,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:heavy_plus_sign:` | :heavy_plus_sign: | Add dependency. | Adicionar  dependência. |
 | `:pushpin:` | :pushpin: | Pin dependencies to specific versions. | Fixar dependências em versões específicas. |
 
-## Testing and Quality
+### Testing and Quality
 
 **Teste e Qualidade:** Ações relacionadas a testes e garantia de qualidade.
 
@@ -83,7 +83,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:white_check_mark:` | :white_check_mark: | Passing tests. | Testes aprovados. |
 | `:test_tube:` | :test_tube: | Add failing test. | Adicionar teste que falha. |
 
-## Documentation
+### Documentation
 
 **Documentação:** Atualizações e adições de documentação.
 
@@ -97,7 +97,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:pencil:` | :pencil: | Update documentation content. | Atualizar o conteúdo da documentação. |
 | `:pencil2:` | :pencil2: | Fix typos in files or documentation. | Corrigir erros de digitação em arquivos ou na documentação. |
 
-## Improvements and New Features
+### Improvements and New Features
 
 **Melhorias e Novas Funcionalidades:** Introdução de novas funcionalidades e melhorias de desempenho.
 
@@ -107,7 +107,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:sparkles:` | :sparkles: | Introduce new features. | Introduzir novos recursos. |
 | `:zap:` | :zap: | Improve performance. | Melhorar o desempenho. |
 
-## Project Management
+### Project Management
 
 **Gerenciamento de Projetos:** Ações relacionados ao gerenciamento de versões e início de projetos.
 
@@ -119,7 +119,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:dart:` | :dart: | Completed goals. | Metas concluídas. |
 | `:tada:` | :tada: | Initial commit. | Commit inicial. |
 
-## Security and Privacy
+### Security and Privacy
 
 **Segurança e Privacidade:** Correções de problemas de segurança e privacidade.
 
@@ -128,7 +128,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:eye:` | :eye: | Fix privacy issues. | Corrigir problemas de privacidade. |
 | `:lock:` | :lock: | Fix security issues. | Corrigir problemas de segurança. |
 
-## Code Review
+### Code Review
 
 **Revisão de Código:** Ações relacionadas a revisão e análise de alterações no código.
 
@@ -136,7 +136,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | :--- | :---: | :---------- | :---------- |
 | `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
 
-## Code Cleanup
+### Code Cleanup
 
 **Limpeza de Código:** Limpeza e depreciação de código obsoleto.
 
@@ -145,7 +145,7 @@ Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão j
 | `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
 | `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Depreciar o código que precisa ser limpo. |
 
-## Code Optimization
+### Code Optimization
 
 **Otimização de Código:** Otimizações para melhorar o desempenho do código.
 
