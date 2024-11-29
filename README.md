@@ -27,6 +27,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Remover código não utilizado, comentários obsoletos ou arquivos desnecessários.
 
 * **Configuração de ferramentas**:
+  * Configurar ou atualizar ferramentas de desenvolvimento, como linters, formatadores de código ou sistemas de integração contínua.
 
 * **Documentação**:
 
