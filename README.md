@@ -23,6 +23,9 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 * **Refatoração de código**:
   * Melhorar a estrutura do código existente sem alterar seu comportamento externo, visando aumentar a legibilidade e a manutenibilidade.
 
+* **Limpeza de código**:
+  * Remover código não utilizado, comentários obsoletos ou arquivos desnecessários.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
