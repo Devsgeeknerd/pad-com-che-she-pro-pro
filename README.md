@@ -18,7 +18,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 #### Exemplo de tarefas
 
 * **Atualização de dependências**:
-  * Mater bibliotecas e pacotes atualizados para garantir segurança e compatibilidade.
+  * Manter bibliotecas e pacotes atualizados para garantir segurança e compatibilidade.
 
 * **Refatoração de código**:
   * Melhorar a estrutura do código existente sem alterar seu comportamento externo, visando aumentar a legibilidade e a manutenibilidade.
@@ -40,6 +40,19 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 
 * **Gerenciamento de issues**:
   * Organizar e priorizar tarefas e bugs no sistema de rastreamento de problemas.
+
+#### Importância
+
+* **Manutenção da qualidade do código**;
+  * Tarefas que ajudam a manter a qualidade do código, evitando a acumulação de dívidas técnicas.
+
+* **Facilitação de novas funcionalidades**;
+
+* **Segurança**;
+
+* **Colaboração**;
+
+#### Conclusão
 
 ### Exemplos de Commits
 
