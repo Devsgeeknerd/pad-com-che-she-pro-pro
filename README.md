@@ -59,6 +59,10 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 
 O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de software. Embora essas tarefas possam não parecer tão emocionantes quando a implementação de novas funcionalidades, elas são essenciais para a saúde a longo prazo do projeto. Ignorar as tarefas "chore" pode levar a problemas maiores no futuro, como aumento da complexidade do código, dificuldades na colaboração e riscos de segurança. Portanto, é importante que as equipes de desenvolvimento reconheçam e priorizem essas atividades em seu fluxo de trabalho.
 
+### Feat
+
+`Feat` é uma categoria de commits ou tarefas que introduzem novas funcionalidades ou melhorias que agregam valor ao produto final. Amplamente utilizado no desenvolvimento de software, especialmente em práticas de controle de versão e metologias ágeis. Ele se refere a "feature" (funcionalidade, em português) e abrange a implementação de novas funcionalidades ou melhorias significativas em um sistema ou aplicativo. Essas mudanças são geralmente visíveis para os usuários e podem impactar diretamente a experiência do usuário ou a capacidade do sistema.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão já definido neste documento:
