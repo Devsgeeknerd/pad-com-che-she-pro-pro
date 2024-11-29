@@ -14,6 +14,10 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 * ***chore***:
   * alterações que não se enquadram em nenhuma das categorias abaixo, geralmente relacionadas a tarefas de manutenção, como atualizações de dependências ou configurações de ferramentas.
 
+* ***revert***:
+  * Usado para revert um commit anterior.
+  * geralmente, é seguido pela mensagem do commit que esta sendo revertido.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
