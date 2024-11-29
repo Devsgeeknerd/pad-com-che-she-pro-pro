@@ -63,6 +63,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
   * Adicionar uma nova funcionalidade ao aplicativo, como um sistema de autenticação, um novo módulo de relatórios ou uma nova interface de usuário.
 
 * **Melhorias em funcionalidades existentes**:
+  * Aprimorar uma funcionalidade já existente, como otimizar um algoritmo de busca ou melhorar a usabilidade de um formulário.
 
 * **Integração com APIs Externas**:
 
