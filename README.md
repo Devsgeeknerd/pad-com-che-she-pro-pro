@@ -97,6 +97,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
   * Novas funcionalidades frequentemente resultam em feedback dos usuários, que pode ser utilizado para futuras melhorias e iterações.
 
 * **Crescimento do produto**:
+  * A adição de funcionalidades pode abrir novas oportunidades de mercado e expandir a base de usuários.
 
 ### Exemplos de Commits
 
