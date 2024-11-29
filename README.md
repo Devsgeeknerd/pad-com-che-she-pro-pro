@@ -91,6 +91,7 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
   * Funcionalidades novas e aprimoradas são essenciais para atender às necessidades dos usuários e melhorar a experiência geral.
 
 * **Competitividade**:
+  * A introdução de novas funcionalidades pode diferenciar um produto no mercado, tornando-o mais atraente em comparação com concorrentes.
 
 * **Feedback do usuário**:
 
