@@ -88,13 +88,13 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
 #### Importância do Feat
 
 * **Valor para o usuário**:
+  * Funcionalidades novas e aprimoradas são essenciais para atender às necessidades dos usuários e melhorar a experiência geral.
 
 * **Competitividade**:
 
 * **Feedback do usuário**:
 
 * **Crescimento do produto**:
-
 
 ### Exemplos de Commits
 
