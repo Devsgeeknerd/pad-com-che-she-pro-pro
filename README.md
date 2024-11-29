@@ -15,6 +15,11 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 
 `Chore` é uma categoria de tarefas que envolvem manutenção, organização e melhorias no código ou na infraestrutura do projeto. Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código permaneça limpa e gerenciável.
 
+#### Exemplo de tarefas
+
+* **Atualização de dependências**:
+  * Mater bibliotecas e pacotes atualizados para garantir segurança e compatibilidade.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
