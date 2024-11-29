@@ -33,6 +33,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Atualizar ou criar documentação do projeto, incluindo README, guias de contribuição e comentários no código.
 
 * **Testes**:
+  * Adicionar ou melhorar testes automatizados para garantir que o código funcione conforme o esperado.
 
 * **Configuração de ambiente**:
 
