@@ -36,6 +36,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Adicionar ou melhorar testes automatizados para garantir que o código funcione conforme o esperado.
 
 * **Configuração de ambiente**:
+  * Ajustar configurações de ambiente de desenvolvimento ou produção, como variáveis de ambiente ou arquivos de configurações.
 
 * **Gerenciamento de issues**:
 
