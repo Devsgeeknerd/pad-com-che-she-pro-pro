@@ -39,6 +39,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Ajustar configurações de ambiente de desenvolvimento ou produção, como variáveis de ambiente ou arquivos de configurações.
 
 * **Gerenciamento de issues**:
+  * Organizar e priorizar tarefas e bugs no sistema de rastreamento de problemas.
 
 ### Exemplos de Commits
 
