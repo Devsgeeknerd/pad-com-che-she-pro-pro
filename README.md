@@ -57,6 +57,8 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
 
 #### Conclusão
 
+O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de software. Embora essas tarefas possam não parecer tão emocionantes quando a implementação de novas funcionalidades, elas são essenciais para a saúde a longo prazo do projeto. Ignorar as tarefas "chore" pode levar a problemas maiores no futuro, como aumento da complexidade do código, dificuldades na colaboração e riscos de segurança. Portanto, é importante que as equipes de desenvolvimento reconheçam e priorizem essas atividades em seu fluxo de trabalho.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
