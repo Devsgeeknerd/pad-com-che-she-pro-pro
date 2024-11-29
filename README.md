@@ -11,6 +11,9 @@ Seguir um padrão de commits me ajuda a manter a clareza e a consistência nas m
 
 As seguintes categorias devem (ou não) ser usadas para classificar as alterações no código:
 
+* ***chore***:
+  * alterações que não se enquadram em nenhuma das categorias abaixo, geralmente relacionadas a tarefas de manutenção, como atualizações de dependências ou configurações de ferramentas.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
