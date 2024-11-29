@@ -63,6 +63,8 @@ O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de softw
 
 Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão já definido neste documento:
 
+`emoji categoria(tipo): titulo do commit.`
+
 * :heavy_plus_sign: chore(deps): Adiciona Redux para gerenciamento de estado.
 
   * (Opcional): Inclui a biblioteca Redux para gerenciamento de estado global no aplicativo e atualiza a documentação para refletir essa nova dependência.
