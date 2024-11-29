@@ -296,9 +296,9 @@ Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão
 
 **Revisão de Código:** Ações relacionadas a revisão e análise de alterações no código.
 
-| CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :--- | :---: | :---------- | :---------- |
-| `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
+| CÓDIGO | EMOJI | DESCRIÇÃO |
+| :--- | :---: | :---------- |
+| `:eyes:` | :eyes: | Revisar alterações de código. |
 
 ***
 
@@ -306,7 +306,7 @@ Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão
 
 Limpeza e depreciação de código obsoleto.
 
-| CODE | EMOJI | DESCRIPTION |
+| CÓDIGO | EMOJI | DESCRIÇÃO |
 | :--- | :---: | :---------- |
 | `:broom:` | :broom: | Realizar limpeza de código. |
 | `:wastebasket:` | :wastebasket: | Depreciar o código que precisa ser limpo. |
@@ -317,7 +317,7 @@ Limpeza e depreciação de código obsoleto.
 
 Otimizações para melhorar o desempenho do código.
 
-| CODE | EMOJI | DESCRIPTION |
+| CÓDIGO | EMOJI | DESCRIÇÃO |
 | :--- | :---: | :---------- |
 | `:chart_with_downwards_trend:` | :chart_with_downwards_trend: | Otimizar o código para desempenho. |
 
