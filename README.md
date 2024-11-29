@@ -18,6 +18,9 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Usado para revert um commit anterior.
   * geralmente, é seguido pela mensagem do commit que esta sendo revertido.
 
+* ***build***:
+  * Alterações que afetam o sistema de build ou dependências externas.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que podem ser criados em vez do padrão já definido neste documento:
