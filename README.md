@@ -300,22 +300,26 @@ Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão
 | :--- | :---: | :---------- | :---------- |
 | `:eyes:` | :eyes: | Review code changes. | Revisar alterações de código. |
 
-### Code Cleanup
+***
 
-**Limpeza de Código:** Limpeza e depreciação de código obsoleto.
+### Limpeza de Código
 
-| CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :--- | :---: | :---------- | :---------- |
-| `:broom:` | :broom: | Perform code cleanup. | Realizar limpeza de código. |
-| `:wastebasket:` | :wastebasket: | Deprecate code that needs to be cleaned. | Depreciar o código que precisa ser limpo. |
+Limpeza e depreciação de código obsoleto.
 
-### Code Optimization
+| CODE | EMOJI | DESCRIPTION |
+| :--- | :---: | :---------- |
+| `:broom:` | :broom: | Realizar limpeza de código. |
+| `:wastebasket:` | :wastebasket: | Depreciar o código que precisa ser limpo. |
 
-**Otimização de Código:** Otimizações para melhorar o desempenho do código.
+***
 
-| CODE | EMOJI | DESCRIPTION | TRANSLATION |
-| :--- | :---: | :---------- | :---------- |
-| `:chart_with_downwards_trend:` | :chart_with_downwards_trend: | Optimize code for performance. | Otimizar o código para desempenho. |
+### Otimização de Código
+
+Otimizações para melhorar o desempenho do código.
+
+| CODE | EMOJI | DESCRIPTION |
+| :--- | :---: | :---------- |
+| `:chart_with_downwards_trend:` | :chart_with_downwards_trend: | Otimizar o código para desempenho. |
 
 <!-- Informações -->
 ## &#8505; Informações
