@@ -30,6 +30,7 @@ As seguintes categorias devem (ou não) ser usadas para classificar as alteraç�
   * Configurar ou atualizar ferramentas de desenvolvimento, como linters, formatadores de código ou sistemas de integração contínua.
 
 * **Documentação**:
+  * Atualizar ou criar documentação do projeto, incluindo README, guias de contribuição e comentários no código.
 
 * **Testes**:
 
