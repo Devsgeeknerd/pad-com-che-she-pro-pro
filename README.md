@@ -340,7 +340,7 @@ Otimizações para melhorar o desempenho do código.
 
 <!-- Informações -->
 
-## ![Informações](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&width=435&lines=Informa%C3%A7%C3%B5es&color=007BFF)
+![Informações](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&width=435&lines=Informa%C3%A7%C3%B5es&color=007BFF)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpad-com-che-she-pro-pro&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
