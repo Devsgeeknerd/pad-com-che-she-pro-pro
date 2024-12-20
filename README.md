@@ -370,6 +370,16 @@ Assinatura e verificação de assinaturas de código.
 | `:old_key:` | :old_key: | Atualizar assinaturas de código. |
 | `:key:` | :key: | Assinar ou verificar assinaturas de código. |
 
+---
+
+## Reversão de Código
+
+Reversão de alterações feitas no código.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:rewind:` | :rewind: | Reverter alterações. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
