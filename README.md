@@ -349,6 +349,16 @@ Migrações e outras ações relacionadas a bancos dados.
 | `:cd:` | :cd: | Realizar migrações de banco de dados. |
 | `:floppy_disk:` | :floppy_disk: | Realizar backup de banco de dados. |
 
+---
+
+## Integração / Implantação Contínua
+
+Ações relacionadas a implantação e integração contínua.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:rocket:` | :rocket: | Implantar funcionalidades. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
