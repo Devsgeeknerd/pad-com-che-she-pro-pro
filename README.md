@@ -340,7 +340,7 @@ Otimizações para melhorar o desempenho do código.
 
 ---
 
-## Operações de banco de Dados
+## Operações de Banco de Dados
 
 Migrações e outras ações relacionadas a bancos dados.
 
@@ -392,6 +392,18 @@ Correções emergenciais de código.
 | `:ambulance:` | :ambulance: | Solução rápida para um problema. |
 | `:fire_engine:` | :fire_engine: | Resposta rápida para combater problemas no código. |
 | `:toolbox:` | :toolbox: | Atividades de manutenção do código. |
+
+---
+
+## Alterações de Configuração
+
+Atualizações e adições de configurações.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:bar_chart:` | :bar_chart: | Analisar e ajustar configurações com base em dados. |
+| `:gear:` | :gear: | Adicionar, atualizar ou remover configurações. |
+| `:level_slider:` | :level_slider: | Adicionar ou ajustar a configurações em diferentes níveis. |
 
 <!-- Informações -->
 ## &#8505; Informações
