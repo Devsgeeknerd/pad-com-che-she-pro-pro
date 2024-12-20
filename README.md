@@ -380,6 +380,19 @@ Reversão de alterações feitas no código.
 | :-------------- | :-----------: | :---------------------------------------- |
 | `:rewind:` | :rewind: | Reverter alterações. |
 
+---
+
+## Correção Rápida de Código
+
+Correções emergenciais de código.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:adhesive_bandage:` | :adhesive_bandage: | Aplicar uma correção temporária. |
+| `:ambulance:` | :ambulance: | Solução rápida para um problema. |
+| `:fire_engine:` | :fire_engine: | Resposta rápida para combater problemas no código. |
+| `:toolbox:` | :toolbox: | Atividades de manutenção do código. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
