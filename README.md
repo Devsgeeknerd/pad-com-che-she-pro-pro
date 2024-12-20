@@ -405,6 +405,19 @@ Atualizações e adições de configurações.
 | `:gear:` | :gear: | Adicionar, atualizar ou remover configurações. |
 | `:level_slider:` | :level_slider: | Adicionar ou ajustar a configurações em diferentes níveis. |
 
+---
+
+## Atualização de Segurança de Dependências
+
+Atualizações de dependências por motivos de segurança.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:rotating_light:` | :rotating_light: | Uma atualização urgente para lidar com vulnerabilidade crítica. |
+| `:no_entry_sign:` | :no_entry_sign: | Uma versão anterior da dependência possui vulnerabilidade conhecida. |
+| `:shield:` | :shield: | Atualizar dependência por motivo de segurança. |
+| `:warning:` | :warning: | Uma situação de risco requer atualização de segurança. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
