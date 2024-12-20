@@ -418,6 +418,8 @@ Atualizações de dependências por motivos de segurança.
 | `:shield:` | :shield: | Atualizar dependência por motivo de segurança. |
 | `:warning:` | :warning: | Uma situação de risco requer atualização de segurança. |
 
+---
+
 ## Operações de Controle de Versão
 
 Ações relacionadas ao controle de versão.
@@ -425,6 +427,19 @@ Ações relacionadas ao controle de versão.
 | CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
 | :-------------- | :-----------: | :---------------------------------------- |
 | `:arrows_counterclockwise:` | :arrows_counterclockwise: | Reverter ou desfazer alterações no controle de versão. |
+
+---
+
+## Gerenciamento de Arquivos e Pastas
+
+Adição, atualização e remoção de arquivos e pastas.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:open_file_folder:` | :open_file_folder: | Adicionar pasta. |
+| `:page_facing_up:` | :page_facing_up: | Adicionar arquivo. |
+| `:page_with_curl:` | :page_with_curl: | Atualizar conteúdo do arquivo. |
+| `:scroll:` | :scroll: | Adicionar, atualizar ou remover licença. |
 
 <!-- Informações -->
 ## &#8505; Informações
