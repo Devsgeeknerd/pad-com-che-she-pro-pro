@@ -418,6 +418,14 @@ Atualizações de dependências por motivos de segurança.
 | `:shield:` | :shield: | Atualizar dependência por motivo de segurança. |
 | `:warning:` | :warning: | Uma situação de risco requer atualização de segurança. |
 
+## Operações de Controle de Versão
+
+Ações relacionadas ao controle de versão.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:arrows_counterclockwise:` | :arrows_counterclockwise: | Reverter ou desfazer alterações no controle de versão. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
