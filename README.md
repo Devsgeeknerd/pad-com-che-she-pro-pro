@@ -440,6 +440,7 @@ Adição, atualização e remoção de arquivos e pastas.
 | `:page_facing_up:` | :page_facing_up: | Adicionar arquivo. |
 | `:page_with_curl:` | :page_with_curl: | Atualizar conteúdo do arquivo. |
 | `:scroll:` | :scroll: | Adicionar, atualizar ou remover licença. |
+| `:wastebasket:` | :wastebasket: | Remover pasta ou arquivo. |
 
 <!-- Informações -->
 ## &#8505; Informações
