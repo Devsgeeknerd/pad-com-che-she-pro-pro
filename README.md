@@ -359,6 +359,17 @@ Ações relacionadas a implantação e integração contínua.
 | :-------------- | :-----------: | :---------------------------------------- |
 | `:rocket:` | :rocket: | Implantar funcionalidades. |
 
+---
+
+## Assinatura / Verificação de Código
+
+Assinatura e verificação de assinaturas de código.
+
+| CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
+| :-------------- | :-----------: | :---------------------------------------- |
+| `:old_key:` | :old_key: | Atualizar assinaturas de código. |
+| `:key:` | :key: | Assinar ou verificar assinaturas de código. |
+
 <!-- Informações -->
 ## &#8505; Informações
 
