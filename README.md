@@ -159,7 +159,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Docs
 
-`Docs` refere-se a alteracoes na docuemntacao do proejto, como atualiacoes no README ou comentarios no coidgo.
+`Docs` refere-se a alterações na documentação do projeto, como atualizações no README ou comentários no código.
 
 ---
 
