@@ -135,7 +135,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Fix
 
-`Fix` é a categoria usada para correções de bugs no codigo, garatindo que o sistema funcione conforme esperado.
+`Fix` é a categoria usada para correções de bugs no código, garantindo que o sistema funcione conforme esperado.
 
 #### Exemplo de tarefas Fix
 
