@@ -153,7 +153,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Test
 
-`Test` é reservado para commits relacionados a criacao, atualizacao ou exclusao de testes automatizados.
+`Test` é reservado para commits relacionados a criação, atualização ou exclusão de testes automatizados.
 
 ---
 
