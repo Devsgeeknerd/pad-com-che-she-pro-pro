@@ -147,7 +147,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Refactor
 
-`Refactor` é usado para alteracoes que melhoram a estrtura do codigo sem impactar seu comportamento externo. Essas mudancas focam tornar o codigo mais legivel e sustentavel.
+`Refactor` é usado para alterações que melhoram a estrutura do código sem impactar seu comportamento externo. Essas mudanças focam tornar o código mais legível e sustentável.
 
 ---
 
