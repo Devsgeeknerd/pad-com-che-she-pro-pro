@@ -183,7 +183,8 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Hotfix
 
-`Hotfix` refere-se a correcoes rapidas e emergenciais de erros criticos em producao.
+`Hotfix` refere-se a correções rápidas e emergenciais de erros criticos em produção.
+
 ---
 
 ### Build
