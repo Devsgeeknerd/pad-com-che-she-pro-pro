@@ -177,7 +177,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### CI
 
-`CI` é usado para alteracoes em scripts e configuracoes de integracao continua.
+`CI` é usado para alterações em scripts e configurações de integração continua.
 
 ---
 
