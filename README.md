@@ -165,7 +165,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Perf
 
-`Perf` é usado para otimizacoes de desempenho, garatindo que o sistema funcione de forma mais eficiente.
+`Perf` é usado para otimizações de desempenho, garantindo que o sistema funcione de forma mais eficiente.
 
 ---
 
