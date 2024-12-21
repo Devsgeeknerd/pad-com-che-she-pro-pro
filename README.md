@@ -139,7 +139,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 #### Exemplo de tarefas Fix
 
-* **Correcao de erros de logica**: Resolver problemas que impedem o funcionamento correto do sistema.
+* **Correção de erros de logica**: Resolver problemas que impedem o funcionamento correto do sistema.
 * **Ajustes em funcionalidades existentes**: Corrigir falhas em recursos previamente implementados.
 * **Reparos em testes automatizados**: Garantir que os testes reflitam o comportamento esperando.
 
