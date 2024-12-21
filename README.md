@@ -134,6 +134,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 ---
 
 ### Fix
+
 `Fix` é a categoria usada para correcoes de bugs no codigo, garatindo que o sistema funcione conforme esperado.
 
 #### Exemplo de tarefas Fix
@@ -145,36 +146,43 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 ---
 
 ### Refactor
+
 `Refactor` é usado para alteracoes que melhoram a estrtura do codigo sem impactar seu comportamento externo. Essas mudancas focam tornar o codigo mais legivel e sustentavel.
 
 ---
 
 ### Test
+
 `Test` é reservado para commits relacionados a criacao, atualizacao ou exclusao de testes automatizados.
 
 ---
 
 ### Docs
+
 `Docs` refere-se a alteracoes na docuemntacao do proejto, como atualiacoes no README ou comentarios no coidgo.
 
 ---
 
 ### Perf
+
 `Perf` é usado para otimizacoes de desempenho, garatindo que o sistema funcione de forma mais eficiente.
 
 ---
 
 ### Style
+
 `Style` abrange mudancas puramente esteticas no codigo, como formatacao ou ajustes em espacamento, sem impacto funcional.
 
 ---
 
 ### CI
+
 `CI` é usado para alteracoes em scripts e configuracoes de integracao continua.
 
 ---
 
 ### Hotfix
+
 `Hotfix` refere-se a correcoes rapidas e emergenciais de erros criticos em producao.
 ---
 
@@ -216,16 +224,16 @@ Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão
 
 `emoji categoria(tipo): descrição.`
 
-- :heavy_plus_sign: chore(deps): Adiciona Riverpod para gerenciamento de estado.
+* :heavy_plus_sign: chore(deps): Adiciona Riverpod para gerenciamento de estado.
 
-  - (Opcional): Inclui o package Riverpod para gerenciamento de estado global no aplicativo e atualiza a documentação
+  * (Opcional): Inclui o package Riverpod para gerenciamento de estado global no aplicativo e atualiza a documentação
     para refletir essa nova dependência.
 
 ## Dicas de Uso
 
-- Use de forma moderada e apenas quando fizer sentido para a alteração.
-- Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
-- Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das
+* Use de forma moderada e apenas quando fizer sentido para a alteração.
+* Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
+* Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das
   mensagens de commit.
 
 ### Ações Gerais de Código
@@ -233,7 +241,7 @@ Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão
 Ações comuns relacionadas a adição, atualização e mesclagem de código.
 
 | CÓDIGO                        |            EMOJI            | DESCRIÇÃO                                                       |
-|:------------------------------|:---------------------------:|:----------------------------------------------------------------|
+| :---------------------------- | :-------------------------: | :-------------------------------------------------------------- |
 | `:bento:`                     |           :bento:           | Adicionar, atualizar ou remover recursos.                       |
 | `:label:`                     |           :label:           | Adicionar, atualizar ou remover etiquetas.                      |
 | `:package:`                   |          :package:          | Adicionar, atualizar ou remover arquivos ou pacotes compilados. |
@@ -246,7 +254,7 @@ Ações comuns relacionadas a adição, atualização e mesclagem de código.
 Melhorias relacionadas ao estilo, correção de erros e limpeza de código.
 
 | CÓDIGO      |   EMOJI   | DESCRIÇÃO                                                  |
-|:------------|:---------:|:-----------------------------------------------------------|
+| :---------- | :-------: | :--------------------------------------------------------- |
 | `:art:`     |   :art:   | Adicionar, atualizar ou remover arquivos de tema e estilo. |
 | `:bug:`     |   :bug:   | Corrigir um erro.                                          |
 | `:coffin:`  | :coffin:  | Remover código morto.                                      |
@@ -260,7 +268,7 @@ Melhorias relacionadas ao estilo, correção de erros e limpeza de código.
 Ações específicas de desenvolvimento, como experimentos e trabalho em andamento.
 
 | CÓDIGO               |     EMOJI      | DESCRIÇÃO                                             |
-|:---------------------|:--------------:|:------------------------------------------------------|
+| :------------------- | :------------: | :---------------------------------------------------- |
 | `:alembic:`          |   :alembic:    | Realizar experimentos.                                |
 | `:green_apple:`      | :green_apple:  | Adicionar, atualizar ou remover suporte para macOS.   |
 | `:construction:`     | :construction: | Trabalho em andamento.                                |
@@ -277,7 +285,7 @@ Ações específicas de desenvolvimento, como experimentos e trabalho em andamen
 Ações relacionadas a atualização e gerenciamento de dependências.
 
 | CÓDIGO               |       EMOJI        | DESCRIÇÃO                                  |
-|:---------------------|:------------------:|:-------------------------------------------|
+| :------------------- | :----------------: | :----------------------------------------- |
 | `:arrow_down:`       |    :arrow_down:    | Rebaixar dependências.                     |
 | `:arrow_up:`         |     :arrow_up:     | Atualizar dependências.                    |
 | `:heavy_minus_sign:` | :heavy_minus_sign: | Remover dependência.                       |
@@ -291,7 +299,7 @@ Ações relacionadas a atualização e gerenciamento de dependências.
 Ações relacionadas a testes e garantia de qualidade.
 
 | CÓDIGO                    |          EMOJI          | DESCRIÇÃO                  |
-|:--------------------------|:-----------------------:|:---------------------------|
+| :------------------------ | :---------------------: | :------------------------- |
 | `:ballot_box_with_check:` | :ballot_box_with_check: | Atualizar testes.          |
 | `:x:`                     |           :x:           | Testes falhados.           |
 | `:heavy_check_mark:`      |   :heavy_check_mark:    | Adicionar testes.          |
@@ -305,7 +313,7 @@ Ações relacionadas a testes e garantia de qualidade.
 Atualizações e adições de documentação.
 
 | CÓDIGO          |     EMOJI     | DESCRIÇÃO                                                   |
-|:----------------|:-------------:|:------------------------------------------------------------|
+| :-------------- | :-----------: | :---------------------------------------------------------- |
 | `:book:`        |    :book:     | Adicionar ou remover documentação README.                   |
 | `:blue_book:`   |  :blue_book:  | Adicionar ou remover documentação de software.              |
 | `:clipboard:`   |  :clipboard:  | Documentação em andamento.                                  |
@@ -321,7 +329,7 @@ Atualizações e adições de documentação.
 Introdução de novas funcionalidades e melhorias de desempenho.
 
 | CÓDIGO                |        EMOJI        | DESCRIÇÃO                                        |
-|:----------------------|:-------------------:|:-------------------------------------------------|
+| :-------------------- | :-----------------: | :----------------------------------------------- |
 | `:children_crossing:` | :children_crossing: | Melhorar a experiência do usuário / usabilidade. |
 | `:sparkles:`          |     :sparkles:      | Introduzir novos recursos.                       |
 | `:zap:`               |        :zap:        | Melhorar o desempenho.                           |
@@ -333,7 +341,7 @@ Introdução de novas funcionalidades e melhorias de desempenho.
 Ações relacionados ao gerenciamento de versões e início de projetos.
 
 | CÓDIGO             |      EMOJI       | DESCRIÇÃO                              |
-|:-------------------|:----------------:|:---------------------------------------|
+| :----------------- | :--------------: | :------------------------------------- |
 | `:bookmark:`       |    :bookmark:    | Tags de versão.                        |
 | `:bow_and_arrow:`  | :bow_and_arrow:  | Adicionar, atualizar ou remover metas. |
 | `:checkered_flag:` | :checkered_flag: | Iniciar um projeto.                    |
@@ -347,7 +355,7 @@ Ações relacionados ao gerenciamento de versões e início de projetos.
 Correções de problemas de segurança e privacidade.
 
 | CÓDIGO   | EMOJI  | DESCRIÇÃO                          |
-|:---------|:------:|:-----------------------------------|
+| :------- | :----: | :--------------------------------- |
 | `:eye:`  | :eye:  | Corrigir problemas de privacidade. |
 | `:lock:` | :lock: | Corrigir problemas de segurança.   |
 
@@ -358,7 +366,7 @@ Correções de problemas de segurança e privacidade.
 Ações relacionadas a revisão e análise de alterações no código.
 
 | CÓDIGO   | EMOJI  | DESCRIÇÃO                     |
-|:---------|:------:|:------------------------------|
+| :------- | :----: | :---------------------------- |
 | `:eyes:` | :eyes: | Revisar alterações de código. |
 
 ---
@@ -368,7 +376,7 @@ Ações relacionadas a revisão e análise de alterações no código.
 Limpeza e depreciação de código obsoleto.
 
 | CÓDIGO          |     EMOJI     | DESCRIÇÃO                                 |
-|:----------------|:-------------:|:------------------------------------------|
+| :-------------- | :-----------: | :---------------------------------------- |
 | `:broom:`       |    :broom:    | Realizar limpeza de código.               |
 | `:wastebasket:` | :wastebasket: | Depreciar o código que precisa ser limpo. |
 
@@ -379,7 +387,7 @@ Limpeza e depreciação de código obsoleto.
 Otimizações para melhorar o desempenho do código.
 
 | CÓDIGO                         |            EMOJI             | DESCRIÇÃO                          |
-|:-------------------------------|:----------------------------:|:-----------------------------------|
+| :----------------------------- | :--------------------------: | :--------------------------------- |
 | `:chart_with_downwards_trend:` | :chart_with_downwards_trend: | Otimizar o código para desempenho. |
 
 ---
@@ -389,7 +397,7 @@ Otimizações para melhorar o desempenho do código.
 Migrações e outras ações relacionadas a bancos dados.
 
 | CÓDIGO          |     EMOJI     | DESCRIÇÃO                             |
-|:----------------|:-------------:|:--------------------------------------|
+| :-------------- | :-----------: | :------------------------------------ |
 | `:cd:`          |     :cd:      | Realizar migrações de banco de dados. |
 | `:floppy_disk:` | :floppy_disk: | Realizar backup de banco de dados.    |
 
@@ -400,7 +408,7 @@ Migrações e outras ações relacionadas a bancos dados.
 Ações relacionadas a implantação e integração contínua.
 
 | CÓDIGO     |  EMOJI   | DESCRIÇÃO                  |
-|:-----------|:--------:|:---------------------------|
+| :--------- | :------: | :------------------------- |
 | `:rocket:` | :rocket: | Implantar funcionalidades. |
 
 ---
@@ -410,7 +418,7 @@ Ações relacionadas a implantação e integração contínua.
 Assinatura e verificação de assinaturas de código.
 
 | CÓDIGO      |   EMOJI   | DESCRIÇÃO                                   |
-|:------------|:---------:|:--------------------------------------------|
+| :---------- | :-------: | :------------------------------------------ |
 | `:old_key:` | :old_key: | Atualizar assinaturas de código.            |
 | `:key:`     |   :key:   | Assinar ou verificar assinaturas de código. |
 
@@ -421,7 +429,7 @@ Assinatura e verificação de assinaturas de código.
 Reversão de alterações feitas no código.
 
 | CÓDIGO     |  EMOJI   | DESCRIÇÃO            |
-|:-----------|:--------:|:---------------------|
+| :--------- | :------: | :------------------- |
 | `:rewind:` | :rewind: | Reverter alterações. |
 
 ---
@@ -431,7 +439,7 @@ Reversão de alterações feitas no código.
 Correções emergenciais de código.
 
 | CÓDIGO               |       EMOJI        | DESCRIÇÃO                                          |
-|:---------------------|:------------------:|:---------------------------------------------------|
+| :------------------- | :----------------: | :------------------------------------------------- |
 | `:adhesive_bandage:` | :adhesive_bandage: | Aplicar uma correção temporária.                   |
 | `:ambulance:`        |    :ambulance:     | Solução rápida para um problema.                   |
 | `:fire_engine:`      |   :fire_engine:    | Resposta rápida para combater problemas no código. |
@@ -444,7 +452,7 @@ Correções emergenciais de código.
 Atualizações e adições de configurações.
 
 | CÓDIGO           |     EMOJI      | DESCRIÇÃO                                                  |
-|:-----------------|:--------------:|:-----------------------------------------------------------|
+| :--------------- | :------------: | :--------------------------------------------------------- |
 | `:bar_chart:`    |  :bar_chart:   | Analisar e ajustar configurações com base em dados.        |
 | `:gear:`         |     :gear:     | Adicionar, atualizar ou remover configurações.             |
 | `:level_slider:` | :level_slider: | Adicionar ou ajustar a configurações em diferentes níveis. |
@@ -456,7 +464,7 @@ Atualizações e adições de configurações.
 Atualizações de dependências por motivos de segurança.
 
 | CÓDIGO             |      EMOJI       | DESCRIÇÃO                                                            |
-|:-------------------|:----------------:|:---------------------------------------------------------------------|
+| :----------------- | :--------------: | :------------------------------------------------------------------- |
 | `:rotating_light:` | :rotating_light: | Uma atualização urgente para lidar com vulnerabilidade crítica.      |
 | `:no_entry_sign:`  | :no_entry_sign:  | Uma versão anterior da dependência possui vulnerabilidade conhecida. |
 | `:shield:`         |     :shield:     | Atualizar dependência por motivo de segurança.                       |
@@ -469,7 +477,7 @@ Atualizações de dependências por motivos de segurança.
 Ações relacionadas ao controle de versão.
 
 | CÓDIGO                      |           EMOJI           | DESCRIÇÃO                                              |
-|:----------------------------|:-------------------------:|:-------------------------------------------------------|
+| :-------------------------- | :-----------------------: | :----------------------------------------------------- |
 | `:arrows_counterclockwise:` | :arrows_counterclockwise: | Reverter ou desfazer alterações no controle de versão. |
 
 ---
@@ -479,7 +487,7 @@ Ações relacionadas ao controle de versão.
 Adição, atualização e remoção de arquivos e pastas.
 
 | CÓDIGO               |       EMOJI        | DESCRIÇÃO                                |
-|:---------------------|:------------------:|:-----------------------------------------|
+| :------------------- | :----------------: | :--------------------------------------- |
 | `:open_file_folder:` | :open_file_folder: | Adicionar pasta.                         |
 | `:page_facing_up:`   |  :page_facing_up:  | Adicionar arquivo.                       |
 | `:page_with_curl:`   |  :page_with_curl:  | Atualizar conteúdo do arquivo.           |
