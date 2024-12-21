@@ -171,7 +171,7 @@ A gestão eficaz de tarefas "feat" é crucial para o sucesso a longo prazo de qu
 
 ### Style
 
-`Style` abrange mudancas puramente esteticas no codigo, como formatacao ou ajustes em espacamento, sem impacto funcional.
+`Style` abrange mudanças puramente estéticas no código, como formatação ou ajustes em espaçamento, sem impacto funcional.
 
 ---
 
