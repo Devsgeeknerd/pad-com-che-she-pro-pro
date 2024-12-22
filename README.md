@@ -173,6 +173,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Config
 
+`Config` é para mudanças em configurações do projeto, como ajustes em arquivos de configuração.
+
 ---
 
 ### Data
