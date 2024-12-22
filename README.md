@@ -25,7 +25,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Refatoração de código**: Melhorar a estrutura do código sem alterar seu comportamento externo, aumentando a legibilidade e a manutenção.
 
-* **Limpeza de código**: Remover código não utilizado, comentários obsoletos ou arquivos desnecessários.
+* **Limpeza de código**: Remover código não utilizado, comentários desnecessários ou arquivos obsoletos.
 
 * **Configuração de ferramentas**: Configurar ou atualizar ferramentas de desenvolvimento, como linters, formatadores de
   código ou sistemas de integração contínua.
