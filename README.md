@@ -95,7 +95,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Refactor
 
-`Refactor` é usado para alterações que melhoram a estrutura do código sem impactar seu comportamento externo. Essas mudanças focam tornar o código mais legível e sustentável.
+`Refactor` é usado para alterações que melhoram a estrutura do código sem impactar seu comportamento externo. Essas mudanças focam em tornar o código mais legível e sustentável.
 
 ---
 
