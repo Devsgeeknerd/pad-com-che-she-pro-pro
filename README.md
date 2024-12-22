@@ -47,19 +47,6 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Colaboração**: Boa documentação e estrutura de código ajudam novos desenvolvedores a se integrarem mais facilmente ao projeto.
 
-#### Conclusão do Chore
-
-O escopo "chore" é uma parte vital do ciclo de vida de desenvolvimento de software.
-
-Embora essas tarefas possam não parecer tão emocionantes quando a implementação de novas funcionalidades, elas são
-essenciais para a saúde a longo prazo do projeto.
-
-Ignorar as tarefas "chore" pode levar a problemas maiores no futuro, como aumento da complexidade do código,
-dificuldades na colaboração e riscos de segurança.
-
-Portanto, é importante que as equipes de desenvolvimento reconheçam e priorizem essas atividades em seu fluxo de
-trabalho.
-
 ---
 
 ### Feat
