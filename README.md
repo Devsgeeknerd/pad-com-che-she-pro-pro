@@ -73,8 +73,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Competitividade**: Diferencia o produto no mercado, aumentando sua atratividade.
 
-* **Feedback do usuário**: Novas funcionalidades frequentemente resultam em feedback dos usuários, que pode ser utilizado
-para futuras melhorias e iterações.
+* **Feedback do usuário**: Novas funcionalidades geram feedback valioso para futuras melhorias.
 
 * **Crescimento do produto**: A adição de funcionalidades pode abrir novas oportunidades de mercado e expandir a base de
 usuários.
