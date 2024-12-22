@@ -23,8 +23,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Atualização de dependências**: Garantir que bibliotecas e pacotes estejam atualizados para maior segurança e compatibilidade.
 
-* **Refatoração de código**: Melhorar a estrutura do código existente sem alterar seu comportamento externo, visando
-  aumentar a legibilidade e a manutenibilidade.
+* **Refatoração de código**: Melhorar a estrutura do código sem alterar seu comportamento externo, aumentando a legibilidade e a manutenção.
 
 * **Limpeza de código**: Remover código não utilizado, comentários obsoletos ou arquivos desnecessários.
 
