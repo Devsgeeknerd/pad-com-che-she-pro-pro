@@ -59,8 +59,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Melhorias em funcionalidades existentes**: Otimizar algoritmos ou melhorar a usabilidade de interfaces.
 
-* **Integração com APIs Externas**: Conectar o sistema a serviços externos, como APIs de pagamento, redes sociais ou
-serviços de geolocalização.
+* **Integração com APIs externas**: Conectar o sistema a serviços externos, como APIs de pagamento ou redes sociais.
 
 * **Adição de novos componentes de UI**: Criar novos componentes de interface do usuário que melhorem a experiência do
 usuário, como menus, botões ou modais.
