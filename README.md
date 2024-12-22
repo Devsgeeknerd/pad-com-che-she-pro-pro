@@ -179,6 +179,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Data
 
+`Data` abrange alterações em bancos de dados, como scripts de migração ou ajustes no esquema.
+
 ---
 
 ### Exemplos de Commits
