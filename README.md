@@ -65,8 +65,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Suporte a novas plataformas**: Expandir o sistema para novas plataformas, como versões web ou desktop.
 
-* **Implementação de funcionalidades de acessibilidade**: Adicionar recursos que tornam o aplicativo mais acessível a
-usuários com deficiência, com suporte a leitores de tela ou navegação por teclado.
+* **Funcionalidades de acessibilidade**: Tornar o aplicativo mais acessível para usuários com deficiência.
 
 #### Importância do Feat
 
