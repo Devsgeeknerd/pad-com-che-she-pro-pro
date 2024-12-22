@@ -131,7 +131,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Hotfix
 
-`Hotfix` refere-se a correções rápidas e emergenciais de erros criticos em produção.
+`Hotfix` refere-se a correções rápidas e emergenciais de erros críticos em produção.
 
 ---
 
