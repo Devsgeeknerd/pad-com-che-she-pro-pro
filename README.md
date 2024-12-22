@@ -189,9 +189,9 @@ Aqui estão alguns exemplos de commits que seguem este padrão:
 
 `emoji categoria(tipo): descrição.`
 
-* `:sparkles: feat(auth): adiciona sistema de autenticação com JWT.`
-* `:bug: fix(api): corrige erro na validação de dados.`
-* `:memo: docs(README): atualiza instruções de instalação.`
+* :sparkles: feat(auth): adiciona sistema de autenticação com JWT.
+* :bug: fix(api): corrige erro na validação de dados.
+* :memo: docs(README): atualiza instruções de instalação.
 
   * (Opcional): Inclui o package Riverpod para gerenciamento de estado global no aplicativo e atualiza a documentação
     para refletir essa nova dependência.
