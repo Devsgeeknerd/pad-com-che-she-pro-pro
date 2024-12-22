@@ -41,8 +41,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Manutenção da qualidade do código**: Previne o acúmulo de dívidas técnicas.
 
-* **Facilitação de novas funcionalidades**: Um código limpo e bem organizado facilita a implementação de novas
-funcionalidades e a correção de bugs.
+* **Facilidade para novas funcionalidades**: Um código limpo facilita a adição de novas funcionalidades e correções de bugs.
 
 * **Segurança**: Atualizações regulares de dependências e a remoção de código obsoleto ajudam a proteger o projeto contra
 vulnerabilidades.
