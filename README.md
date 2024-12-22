@@ -33,8 +33,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Testes**: Adicionar ou melhorar testes automatizados para garantir a funcionalidade do código.
 
-* **Configuração de ambiente**: Ajustar configurações de ambiente de desenvolvimento ou produção, como variáveis de
-ambiente ou arquivos de configurações.
+* **Configuração de ambiente**: Ajustar configurações do ambiente de desenvolvimento ou produção, como variáveis de ambiente.
 
 * **Gerenciamento de issues**: Organizar e priorizar tarefas e bugs no sistema de rastreamento de problemas.
 
