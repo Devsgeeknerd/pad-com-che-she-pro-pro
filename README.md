@@ -185,7 +185,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Exemplos de Commits
 
-Aqui estão alguns exemplos de commits que podem ser adaptados em vez do padrão já definido neste documento:
+Aqui estão alguns exemplos de commits que seguem este padrão:
 
 `emoji categoria(tipo): descrição.`
 
