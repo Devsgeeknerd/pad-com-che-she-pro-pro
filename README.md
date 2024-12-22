@@ -161,6 +161,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### API
 
+`API` refere-se a mudanças nas interfaces de programação do sistema, como ajustes em endpoints ou contratos.
+
 ---
 
 ### Locale
