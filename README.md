@@ -197,7 +197,7 @@ Aqui estão alguns exemplos de commits que seguem este padrão:
 ## Dicas de Uso
 
 * Use emojis com moderação e apenas quando fizer sentido para a alteração.
-* Certifique-se de que a descrição do commit seja clara e concisa, explicado o que foi alterado.
+* Certifique-se de que a descrição do commit seja clara e concisa.
 * Mantenha um padrão consistente em todos os repositórios e projetos para facilitar a leitura e compreensão das
   mensagens de commit.
 
