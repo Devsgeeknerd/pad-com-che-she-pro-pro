@@ -39,8 +39,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 #### Importância do Chore
 
-* **Manutenção da qualidade do código**: Tarefas que ajudam a manter a qualidade do código, evitando a acumulação de
-dívidas técnicas.
+* **Manutenção da qualidade do código**: Previne o acúmulo de dívidas técnicas.
 
 * **Facilitação de novas funcionalidades**: Um código limpo e bem organizado facilita a implementação de novas
 funcionalidades e a correção de bugs.
