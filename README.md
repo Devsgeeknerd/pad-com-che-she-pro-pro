@@ -29,7 +29,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Configuração de ferramentas**: Configurar ou atualizar ferramentas de desenvolvimento, como linters ou sistemas de CI/CD.
 
-* **Documentação**: Atualizar ou criar documentação do projeto, como guias de contribuição e comentários no código.
+* **Testes**: Adicionar ou melhorar testes automatizados para garantir a funcionalidade do código.
 
 * **Testes**: Adicionar ou melhorar testes automatizados para garantir que o código funcione conforme o esperado.
 
