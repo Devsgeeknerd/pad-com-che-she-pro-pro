@@ -57,8 +57,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Implementação de novas funcionalidades**: Adicionar sistemas como autenticação ou relatórios.
 
-* **Melhorias em funcionalidades existentes**: Aprimorar uma funcionalidade já existente, como otimizar um algoritmo de
-busca ou melhorar a usabilidade de um formulário.
+* **Melhorias em funcionalidades existentes**: Otimizar algoritmos ou melhorar a usabilidade de interfaces.
 
 * **Integração com APIs Externas**: Conectar o sistema a serviços externos, como APIs de pagamento, redes sociais ou
 serviços de geolocalização.
