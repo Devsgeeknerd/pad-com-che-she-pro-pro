@@ -13,11 +13,11 @@ As seguintes categorias devem ser usadas para classificar as alterações no có
 
 ### Chore
 
-`Chore` é uma categoria de tarefas que envolvem manutenção, organização e melhorias no código ou na infraestrutura do
-projeto.
+`Chore` é a categoria para tarefas relacionadas à manutenção, organização e melhorias no código ou na infraestrutura do projeto.
 
-Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código
-permaneça limpa e gerenciável.
+Embora essas tarefas não resultem em mudanças visíveis para os usuários, elas são essenciais para a saúde do projeto a longo prazo.
+
+Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código permaneça limpa e gerenciável.
 
 #### Exemplo de tarefas Chore
 
