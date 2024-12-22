@@ -69,8 +69,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 #### Importância do Feat
 
-* **Valor para o usuário**: Funcionalidades novas e aprimoradas são essenciais para atender às necessidades dos usuários e
-melhorar a experiência geral.
+* **Valor para o usuário**: Atende às necessidades dos usuários e melhora a experiência geral.
 
 * **Competitividade**: A introdução de novas funcionalidades pode diferenciar um produto no mercado, tornando-o mais
 atraente em comparação com concorrentes.
