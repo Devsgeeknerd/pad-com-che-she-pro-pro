@@ -189,7 +189,7 @@ Aqui estão alguns exemplos de commits que seguem este padrão:
 
 `emoji categoria(tipo): descrição.`
 
-* :heavy_plus_sign: chore(deps): Adiciona Riverpod para gerenciamento de estado.
+* `:sparkles: feat(auth): adiciona sistema de autenticação com JWT.`
 
   * (Opcional): Inclui o package Riverpod para gerenciamento de estado global no aplicativo e atualiza a documentação
     para refletir essa nova dependência.
