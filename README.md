@@ -143,6 +143,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Improvement
 
+`Improvement` é reservado para melhorias incrementais em funcionalidades existentes, sem introduzir novas funcionalidades.
+
 ---
 
 ### Security
