@@ -51,8 +51,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Feat
 
-`Feat` é uma categoria de commits ou tarefas que introduzem novas funcionalidades ou melhorias que agregam valor ao
-produto final.
+`Feat` é a categoria para commits que introduzem novas funcionalidades ou melhorias significativas no produto. Essas mudanças agregam valor direto ao usuário final e são frequentemente visíveis.
 
 Amplamente utilizado no desenvolvimento de software, especialmente em práticas de controle de versão e metologias ágeis.
 
