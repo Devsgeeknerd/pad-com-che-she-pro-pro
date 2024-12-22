@@ -43,8 +43,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Facilidade para novas funcionalidades**: Um código limpo facilita a adição de novas funcionalidades e correções de bugs.
 
-* **Segurança**: Atualizações regulares de dependências e a remoção de código obsoleto ajudam a proteger o projeto contra
-vulnerabilidades.
+* **Segurança**: Atualizações de dependências reduzem vulnerabilidades.
 
 * **Colaboração**: Uma boa documentação e um código bem estruturado tornam mais fácil para novos desenvolvedores
 entenderem e contribuírem para o projeto.
