@@ -9,7 +9,7 @@ Seguir um padrão de commits ajuda a manter a clareza e a consistência nas mens
 
 ## Categorias de Commits
 
-As seguintes categorias devem (ou não) ser usadas para classificar as alterações no código:
+As seguintes categorias devem ser usadas para classificar as alterações no código:
 
 ### Chore
 
