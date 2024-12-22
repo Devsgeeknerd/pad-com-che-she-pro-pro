@@ -75,8 +75,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Feedback do usuário**: Novas funcionalidades geram feedback valioso para futuras melhorias.
 
-* **Crescimento do produto**: A adição de funcionalidades pode abrir novas oportunidades de mercado e expandir a base de
-usuários.
+* **Crescimento do produto**: Expande oportunidades de mercado e base de usuários.
 
 #### Conclusão do Feat
 
