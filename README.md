@@ -86,8 +86,10 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 #### Exemplo de tarefas Fix
 
 * **Correção de erros de lógica**: Resolver problemas que impedem o funcionamento correto do sistema.
+
 * **Ajustes em funcionalidades existentes**: Corrigir falhas em recursos previamente implementados.
-* **Reparos em testes automatizados**: Garantir que os testes reflitam o comportamento esperando.
+
+* **Reparos em testes automatizados**: Garantir que os testes reflitam o comportamento esperado.
 
 ---
 
