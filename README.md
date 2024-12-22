@@ -61,8 +61,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Integração com APIs externas**: Conectar o sistema a serviços externos, como APIs de pagamento ou redes sociais.
 
-* **Adição de novos componentes de UI**: Criar novos componentes de interface do usuário que melhorem a experiência do
-usuário, como menus, botões ou modais.
+* **Adição de novos componentes de UI**: Criar elementos que melhorem a experiência do usuário.
 
 * **Suporte a novas plataformas**: Expandir o aplicativo para suportar novas plataformas, como versões desktop ou web.
 
