@@ -21,7 +21,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 #### Exemplo de tarefas Chore
 
-* **Atualização de dependências**: Manter bibliotecas e pacotes atualizados para garantir segurança e compatibilidade.
+* **Atualização de dependências**: Garantir que bibliotecas e pacotes estejam atualizados para maior segurança e compatibilidade.
 
 * **Refatoração de código**: Melhorar a estrutura do código existente sem alterar seu comportamento externo, visando
   aumentar a legibilidade e a manutenibilidade.
