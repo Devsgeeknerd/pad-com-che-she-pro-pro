@@ -155,6 +155,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### UI
 
+`UI` é usado para alterações na interface do usuário, incluindo ajustes de design e experiência visual.
+
 ---
 
 ### API
