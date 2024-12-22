@@ -149,6 +149,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Security
 
+`Security` cobre mudanças voltadas à segurança, como correções de vulnerabilidades ou melhorias na autenticação.
+
 ---
 
 ### UI
