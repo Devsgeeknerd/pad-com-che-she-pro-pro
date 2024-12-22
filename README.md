@@ -125,7 +125,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### CI
 
-`CI` é usado para alterações em scripts e configurações de integração continua.
+`CI` é usado para alterações em scripts e configurações de integração contínua.
 
 ---
 
