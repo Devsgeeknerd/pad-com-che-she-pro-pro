@@ -53,14 +53,6 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 `Feat` é a categoria para commits que introduzem novas funcionalidades ou melhorias significativas no produto. Essas mudanças agregam valor direto ao usuário final e são frequentemente visíveis.
 
-Amplamente utilizado no desenvolvimento de software, especialmente em práticas de controle de versão e metologias ágeis.
-
-Ele se refere a "feature" (funcionalidade, em português) e abrange a implementação de novas funcionalidades ou melhorias
-significativas em um sistema ou aplicativo.
-
-Essas mudanças são geralmente visíveis para os usuários e podem impactar diretamente a experiência do usuário ou a
-capacidade do sistema.
-
 #### Exemplo de tarefas Feat
 
 * **Implementação de novas funcionalidades**: Adicionar uma nova funcionalidade ao aplicativo, como um sistema de
