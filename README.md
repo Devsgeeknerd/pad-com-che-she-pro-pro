@@ -55,8 +55,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 #### Exemplo de tarefas Feat
 
-* **Implementação de novas funcionalidades**: Adicionar uma nova funcionalidade ao aplicativo, como um sistema de
-autenticação, um novo módulo de relatórios ou uma nova interface de usuário.
+* **Implementação de novas funcionalidades**: Adicionar sistemas como autenticação ou relatórios.
 
 * **Melhorias em funcionalidades existentes**: Aprimorar uma funcionalidade já existente, como otimizar um algoritmo de
 busca ou melhorar a usabilidade de um formulário.
