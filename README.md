@@ -101,7 +101,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Test
 
-`Test` é reservado para commits relacionados a criação, atualização ou exclusão de testes automatizados.
+`Test` é reservado para commits relacionados à criação, atualização ou exclusão de testes automatizados.
 
 ---
 
