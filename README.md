@@ -27,8 +27,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Limpeza de código**: Remover código não utilizado, comentários desnecessários ou arquivos obsoletos.
 
-* **Configuração de ferramentas**: Configurar ou atualizar ferramentas de desenvolvimento, como linters, formatadores de
-  código ou sistemas de integração contínua.
+* **Configuração de ferramentas**: Configurar ou atualizar ferramentas de desenvolvimento, como linters ou sistemas de CI/CD.
 
 * **Documentação**: Atualizar ou criar documentação do projeto, incluindo README, guias de contribuição e comentários no
 código.
