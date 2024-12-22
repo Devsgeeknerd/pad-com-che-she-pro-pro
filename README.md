@@ -45,8 +45,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Segurança**: Atualizações de dependências reduzem vulnerabilidades.
 
-* **Colaboração**: Uma boa documentação e um código bem estruturado tornam mais fácil para novos desenvolvedores
-entenderem e contribuírem para o projeto.
+* **Colaboração**: Boa documentação e estrutura de código ajudam novos desenvolvedores a se integrarem mais facilmente ao projeto.
 
 #### Conclusão do Chore
 
