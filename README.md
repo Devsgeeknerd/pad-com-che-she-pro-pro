@@ -167,6 +167,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Locale
 
+`Locale` cobre alterações relacionadas a localização e internacionalização, como adição de traduções ou ajustes de idioma.
+
 ---
 
 ### Config
