@@ -137,6 +137,8 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 ### Build
 
+`Build` é para alterações que impactam o sistema de build, como scripts de compilação ou dependências.
+
 ---
 
 ### Improvement
