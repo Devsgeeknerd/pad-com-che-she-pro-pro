@@ -63,7 +63,7 @@ Essas tarefas são essências para garantir que o projeto continue a funcionar d
 
 * **Adição de novos componentes de UI**: Criar elementos que melhorem a experiência do usuário.
 
-* **Suporte a novas plataformas**: Expandir o aplicativo para suportar novas plataformas, como versões desktop ou web.
+* **Suporte a novas plataformas**: Expandir o sistema para novas plataformas, como versões web ou desktop.
 
 * **Implementação de funcionalidades de acessibilidade**: Adicionar recursos que tornam o aplicativo mais acessível a
 usuários com deficiência, com suporte a leitores de tela ou navegação por teclado.
