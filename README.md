@@ -202,6 +202,21 @@ Alterações em **configurações** do projeto.
 
 ---
 
+### :calendar: Revert
+
+Reversão de commits anteriores.
+
+#### Exemplos de tarefas Revert
+
+:white_check_mark: Reverter mudanças problemáticas.
+:white_check_mark: Desfazer commits incorretos.
+
+:pushpin: **Exemplo de commit**:
+> :calendar: revert(user-service): reverte alteração que causava erro.
+
+---
+---
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
