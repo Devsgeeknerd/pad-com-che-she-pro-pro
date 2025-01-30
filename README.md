@@ -126,7 +126,7 @@ Adição, atualização e remoção de **testes automatizados**.
 :white_check_mark: Correção de testes falhos.
 :white_check_mark: Melhoria na cobertura de testes.
 
-:pushpin: **Exemplos de commit**:
+:pushpin: **Exemplo de commit**:
 > :test_tube: test(user-service): adiciona testes unitários para autenticação.
 
 ---
