@@ -1,7 +1,7 @@
 <!-- Título -->
 # Padrões de Commits :rocket:
 
-## Introdução
+## :pushpin: Introdução
 
 Este documento define os padrões de commits a serem seguidos em meus repositórios, utilizando emojis para representar diferentes tipos de alterações no código.
 
