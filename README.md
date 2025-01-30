@@ -17,10 +17,10 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 
 #### Exemplo de tarefas Chore
 
-:white_check_mark: Atualização de dependências.
-:white_check_mark: Limpeza de código morto.
-:white_check_mark: Configuração de ferramentas como linters e CI/CD.
-:white_check_mark: Ajustes de ambiente de desenvolvimento.
+* :white_check_mark: Atualização de dependências.
+* :white_check_mark: Limpeza de código morto.
+* :white_check_mark: Configuração de ferramentas como linters e CI/CD.
+* :white_check_mark: Ajustes de ambiente de desenvolvimento.
 
 :pushpin: **Exemplo de commit**:
 > :hammer_and_wrench: chore(deps): atualiza dependências para a versão mais recente.
