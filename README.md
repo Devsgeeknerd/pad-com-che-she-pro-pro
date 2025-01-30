@@ -87,6 +87,19 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 ---
 
+### :arrows_counterclockwise: Refactor
+
+Melhorias na **estrutura do código** sem alterar seu comportamento.
+
+### Exemplos de tarefas Refactor
+
+:white_check_mark: Melhor organização do código.
+:white_check_mark: Simplificação de funções complexas.
+:white_check_mark: Redução da repetição de código.
+
+:pushpin: Exemplo de commit:
+> :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
