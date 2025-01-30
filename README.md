@@ -215,24 +215,25 @@ Reversão de commits anteriores.
 > :calendar: revert(user-service): reverte alteração que causava erro.
 
 ---
+
+## :dart: Exemplos de Commits
+
+Formato recomendado:
+
+```markdown
+emoji categoria(escopo): descrição breve.
+```
+
+### :white_check_mark: Exemplos
+
+* :sparkles: feat(api): adiciona suporte à API de pagamento.
+* :lady_beetle: fix(ui): corrige bug no botão de login.
+* :book: docs(README): adiciona seção sobre instalação.
+* :racing_car: perf(db): otimiza query de busca de usuários.
+* :lock: security(auth): adiciona verificação de senha forte.
+* :package: build(webpack): remove pacote desnecessário.
+
 ---
-
-### Exemplos de Commits
-
-Aqui estão alguns exemplos de commits que seguem este padrão:
-
-`emoji categoria(tipo): descrição.`
-
-* :sparkles: feat(auth): adiciona sistema de autenticação com JWT.
-* :bug: fix(api): corrige erro na validação de dados.
-* :pencil: docs(README): atualiza instruções de instalação.
-* :rocket: perf(algoritmo): otimiza busca para reduzir tempo de execução.
-
-## Dicas de Uso
-
-* Use emojis com moderação e apenas quando fizer sentido para a alteração.
-* Certifique-se de que a descrição do commit seja clara e concisa.
-* Mantenha um padrão consistente em todos os repositórios para facilitar a leitura e compreensão das mensagens de commit.
 
 <!-- Informações -->
 
