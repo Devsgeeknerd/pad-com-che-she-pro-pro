@@ -11,33 +11,19 @@ O uso de **emojis** facilita a identificação visual do tipo de alteração rea
 
 ## :file_folder: Categorias de Commits
 
-As seguintes categorias devem ser usadas para classificar as alterações no código:
+### :wrench: Chore
 
-### Chore
-
-`Chore` é a categoria para tarefas relacionadas à manutenção, organização e melhorias no código ou na infraestrutura do projeto.
-
-Embora essas tarefas não resultem em mudanças visíveis para os usuários, elas são essenciais para a saúde do projeto a longo prazo.
-
-Essas tarefas são essências para garantir que o projeto continue a funcionar de maneira eficiente e que a base de código permaneça limpa e gerenciável.
+Alterações de manutenção e organização que não impactam diretamente a funcionalidade do projeto.
 
 #### Exemplo de tarefas Chore
 
-* **Atualização de dependências**: Garantir que bibliotecas e pacotes estejam atualizados para maior segurança e compatibilidade.
+:white_check_mark: Atualização de dependências.
+:white_check_mark: Limpeza de código morto.
+:white_check_mark: Configuração de ferramentas como linters e CI/CD.
+:white_check_mark: Ajustes de ambiente de desenvolvimento.
 
-* **Refatoração de código**: Melhorar a estrutura do código sem alterar seu comportamento externo, aumentando a legibilidade e a manutenção.
-
-* **Limpeza de código**: Remover código não utilizado, comentários desnecessários ou arquivos obsoletos.
-
-* **Configuração de ferramentas**: Configurar ou atualizar ferramentas de desenvolvimento, como linters ou sistemas de CI/CD.
-
-* **Documentação**: Atualizar ou criar documentação do projeto, como guias de contribuição e comentários no código.
-
-* **Testes**: Adicionar ou melhorar testes automatizados para garantir a funcionalidade do código.
-
-* **Configuração de ambiente**: Ajustar configurações do ambiente de desenvolvimento ou produção, como variáveis de ambiente.
-
-* **Gerenciamento de issues**: Organizar e priorizar tarefas e bugs no sistema de rastreamento de problemas.
+:pushpin: Exemplo de commit:
+> :hammer_and_wrench: chore(deps) atualiza dependências para a versão mais recente.
 
 #### Importância do Chore
 
