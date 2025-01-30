@@ -102,6 +102,20 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 
 ---
 
+### :wastebasket: Cleanup
+
+Limpeza de código desnecessário ou **removido**.
+
+#### Exemplos de tarefas Cleanup
+
+:white_check_mark: Remoção de código obsoleto.
+:white_check_mark: Exclusão de arquivos não utilizados.
+
+:pushpin: **Exemplo de commit**:
+> :wastebasket: cleanup(legacy): remove métodos não utilizados.
+
+---
+
 ### :racing_car: Perf
 
 Otimizações de **desempenho** para melhorar a eficiência do código.
