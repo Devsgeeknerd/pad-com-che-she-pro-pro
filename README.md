@@ -172,6 +172,20 @@ Mudança no sistema de **build** do projeto.
 
 ---
 
+### :gear: Config
+
+Alterações em **configurações** do projeto.
+
+#### Exemplos de tarefas Config
+
+:white_check_mark: Modificações em arquivos de configuração.
+:white_check_mark: Ajustes de variáveis de ambiente.
+
+:pushpin: **Exemplo de commit**:
+> :gear: config(env): adiciona nova variável de ambiente para API.
+
+---
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
