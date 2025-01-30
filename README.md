@@ -72,87 +72,18 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 ---
 
-### Test
+### :art: Style
 
 `Test` é reservado para commits relacionados à criação, atualização ou exclusão de testes automatizados.
 
----
+### Exemplos de tarefas Style
 
-### Docs
+:white_check_mark: Ajustes de indentação e espaçamentos.
+:white_check_mark: Correção de formatação de código.
+:white_check_mark: Alterações em estilos.
 
-`Docs` refere-se a alterações na documentação do projeto, como atualizações no README ou comentários no código.
-
----
-
-### Perf
-
-`Perf` é usado para otimizações de desempenho, garantindo que o sistema funcione de forma mais eficiente.
-
----
-
-### Style
-
-`Style` abrange mudanças puramente estéticas no código, como formatação ou ajustes em espaçamento, sem impacto funcional.
-
----
-
-### CI
-
-`CI` é usado para alterações em scripts e configurações de integração contínua.
-
----
-
-### Hotfix
-
-`Hotfix` refere-se a correções rápidas e emergenciais de erros críticos em produção.
-
----
-
-### Build
-
-`Build` é para alterações que impactam o sistema de build, como scripts de compilação ou dependências.
-
----
-
-### Improvement
-
-`Improvement` é reservado para melhorias incrementais em funcionalidades existentes, sem introduzir novas funcionalidades.
-
----
-
-### Security
-
-`Security` cobre mudanças voltadas à segurança, como correções de vulnerabilidades ou melhorias na autenticação.
-
----
-
-### UI
-
-`UI` é usado para alterações na interface do usuário, incluindo ajustes de design e experiência visual.
-
----
-
-### API
-
-`API` refere-se a mudanças nas interfaces de programação do sistema, como ajustes em endpoints ou contratos.
-
----
-
-### Locale
-
-`Locale` cobre alterações relacionadas a localização e internacionalização, como adição de traduções ou ajustes de idioma.
-
----
-
-### Config
-
-`Config` é para mudanças em configurações do projeto, como ajustes em arquivos de configuração.
-
----
-
-### Data
-
-`Data` abrange alterações em bancos de dados, como scripts de migração ou ajustes no esquema.
+:pushpin: Exemplo de commit:
+> :art: style(ui): ajusta espaçamento entre botões.
 
 ---
 
