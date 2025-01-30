@@ -25,45 +25,21 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 :pushpin: Exemplo de commit:
 > :hammer_and_wrench: chore(deps) atualiza dependências para a versão mais recente.
 
-#### Importância do Chore
-
-* **Manutenção da qualidade do código**: Previne o acúmulo de dívidas técnicas.
-
-* **Facilidade para novas funcionalidades**: Um código limpo facilita a adição de novas funcionalidades e correções de bugs.
-
-* **Segurança**: Atualizações de dependências reduzem vulnerabilidades.
-
-* **Colaboração**: Boa documentação e estrutura de código ajudam novos desenvolvedores a se integrarem mais facilmente ao projeto.
-
 ---
 
-### Feat
+### :sparkles: Feat
 
-`Feat` é a categoria para commits que introduzem novas funcionalidades ou melhorias significativas no produto. Essas mudanças agregam valor direto ao usuário final e são frequentemente visíveis.
+Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 
-#### Exemplo de tarefas Feat
+#### Exemplos de tarefas Feat
 
-* **Implementação de novas funcionalidades**: Adicionar sistemas como autenticação ou relatórios.
+:white_check_mark: Implementação de novas funcionalidades.
+:white_check_mark: Melhorias na UI/UX.
+:white_check_mark: Suporte a novos dispositivos ou plataformas.
+:white_check_mark: Integração com APIs externas.
 
-* **Melhorias em funcionalidades existentes**: Otimizar algoritmos ou melhorar a usabilidade de interfaces.
-
-* **Integração com APIs externas**: Conectar o sistema a serviços externos, como APIs de pagamento ou redes sociais.
-
-* **Adição de novos componentes de UI**: Criar elementos que melhorem a experiência do usuário.
-
-* **Suporte a novas plataformas**: Expandir o sistema para novas plataformas, como versões web ou desktop.
-
-* **Funcionalidades de acessibilidade**: Tornar o aplicativo mais acessível para usuários com deficiência.
-
-#### Importância do Feat
-
-* **Valor para o usuário**: Atende às necessidades dos usuários e melhora a experiência geral.
-
-* **Competitividade**: Diferencia o produto no mercado, aumentando sua atratividade.
-
-* **Feedback do usuário**: Novas funcionalidades geram feedback valioso para futuras melhorias.
-
-* **Crescimento do produto**: Expande oportunidades de mercado e base de usuários.
+:pushpin: Exemplo de commit:
+> :sparkles: feat(auth) adicionar sistema de autenticação JWT.
 
 ---
 
