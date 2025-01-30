@@ -114,6 +114,23 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 :pushpin: Exemplo de commit:
 > :racing_car: perf(algoritmo): otimiza busca para reduzir tem de execução.
 
+---
+
+### :test_tube: Test
+
+Adição, atualização e remoção de **testes automatizados**.
+
+#### Exemplos de tarefas Test
+
+:white_check_mark: Criação de novos testes.
+:white_check_mark: Correção de testes falhos.
+:white_check_mark: Melhoria na cobertura de testes.
+
+:pushpin: **Exemplos de commit**:
+> :test_tube: test(user-service): adiciona testes unitários para autenticação.
+
+---
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
