@@ -23,7 +23,7 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 :white_check_mark: Ajustes de ambiente de desenvolvimento.
 
 :pushpin: Exemplo de commit:
-> :hammer_and_wrench: chore(deps) atualiza dependências para a versão mais recente.
+> :hammer_and_wrench: chore(deps): atualiza dependências para a versão mais recente.
 
 ---
 
@@ -39,7 +39,7 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 :white_check_mark: Integração com APIs externas.
 
 :pushpin: Exemplo de commit:
-> :sparkles: feat(auth) adicionar sistema de autenticação JWT.
+> :sparkles: feat(auth): adicionar sistema de autenticação JWT.
 
 ---
 
