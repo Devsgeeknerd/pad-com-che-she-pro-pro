@@ -58,9 +58,17 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 
 ---
 
-### Refactor
+### :ambulance: Hotfix
 
-`Refactor` é usado para alterações que melhoram a estrutura do código sem impactar seu comportamento externo. Essas mudanças focam em tornar o código mais legível e sustentável.
+Correções **críticas e emergenciais** que precisam ser aplicadas imediatamente.
+
+#### Exemplos de tarefas Hotfix
+
+:white_check_mark: Resolver erro crítico em produção.  
+:white_check_mark: Ajustes rápidos de segurança.  
+
+:pushpin: Exemplo de commit:
+> :ambulance: hotfix(login): corrige erro impedindo login de usuários
 
 ---
 
