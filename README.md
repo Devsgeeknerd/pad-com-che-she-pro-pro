@@ -1,5 +1,5 @@
 <!-- Título -->
-# Padrões de Commits
+# Padrões de Commits :rocket:
 
 ## Introdução
 
