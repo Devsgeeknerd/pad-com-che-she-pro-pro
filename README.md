@@ -74,9 +74,9 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 ### :art: Style
 
-`Test` é reservado para commits relacionados à criação, atualização ou exclusão de testes automatizados.
+Mudanças **cosméticas** no código que não afetam a funcionalidade.
 
-### Exemplos de tarefas Style
+#### Exemplos de tarefas Style
 
 :white_check_mark: Ajustes de indentação e espaçamentos.
 :white_check_mark: Correção de formatação de código.
@@ -91,7 +91,7 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 Melhorias na **estrutura do código** sem alterar seu comportamento.
 
-### Exemplos de tarefas Refactor
+#### Exemplos de tarefas Refactor
 
 :white_check_mark: Melhor organização do código.
 :white_check_mark: Simplificação de funções complexas.
