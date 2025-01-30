@@ -33,10 +33,10 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 
 #### Exemplos de tarefas Feat
 
-:white_check_mark: Implementação de novas funcionalidades.
-:white_check_mark: Melhorias na UI/UX.
-:white_check_mark: Suporte a novos dispositivos ou plataformas.
-:white_check_mark: Integração com APIs externas.
+* :white_check_mark: Implementação de novas funcionalidades.
+* :white_check_mark: Melhorias na UI/UX.
+* :white_check_mark: Suporte a novos dispositivos ou plataformas.
+* :white_check_mark: Integração com APIs externas.
 
 :pushpin: **Exemplo de commit**:
 > :sparkles: feat(auth): adicionar sistema de autenticação JWT.
@@ -49,9 +49,9 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 
 #### Exemplos de tarefas Fix
 
-:white_check_mark: Correção de erros de lógica.
-:white_check_mark: Ajustes em validações.
-:white_check_mark: Correção de falhas na interface.
+* :white_check_mark: Correção de erros de lógica.
+* :white_check_mark: Ajustes em validações.
+* :white_check_mark: Correção de falhas na interface.
 
 :pushpin: **Exemplo de commit**:
 > :lady_beetle: fix(api): corrige validação de email.
@@ -64,8 +64,8 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 #### Exemplos de tarefas Hotfix
 
-:white_check_mark: Resolver erro crítico em produção.  
-:white_check_mark: Ajustes rápidos de segurança.  
+* :white_check_mark: Resolver erro crítico em produção.  
+* :white_check_mark: Ajustes rápidos de segurança.  
 
 :pushpin: **Exemplo de commit**:
 > :ambulance: hotfix(login): corrige erro impedindo login de usuários
@@ -78,9 +78,9 @@ Mudanças **cosméticas** no código que não afetam a funcionalidade.
 
 #### Exemplos de tarefas Style
 
-:white_check_mark: Ajustes de indentação e espaçamentos.
-:white_check_mark: Correção de formatação de código.
-:white_check_mark: Alterações em estilos.
+* :white_check_mark: Ajustes de indentação e espaçamentos.
+* :white_check_mark: Correção de formatação de código.
+* :white_check_mark: Alterações em estilos.
 
 :pushpin: **Exemplo de commit**:
 > :art: style(ui): ajusta espaçamento entre botões.
@@ -93,9 +93,9 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 
 #### Exemplos de tarefas Refactor
 
-:white_check_mark: Melhor organização do código.
-:white_check_mark: Simplificação de funções complexas.
-:white_check_mark: Redução da repetição de código.
+* :white_check_mark: Melhor organização do código.
+* :white_check_mark: Simplificação de funções complexas.
+* :white_check_mark: Redução da repetição de código.
 
 :pushpin: **Exemplo de commit**:
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
@@ -108,8 +108,8 @@ Limpeza de código desnecessário ou **removido**.
 
 #### Exemplos de tarefas Cleanup
 
-:white_check_mark: Remoção de código obsoleto.
-:white_check_mark: Exclusão de arquivos não utilizados.
+* :white_check_mark: Remoção de código obsoleto.
+* :white_check_mark: Exclusão de arquivos não utilizados.
 
 :pushpin: **Exemplo de commit**:
 > :wastebasket: cleanup(legacy): remove métodos não utilizados.
@@ -122,8 +122,8 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 
 ### Exemplos de tarefas Perf
 
-:white_check_mark: Redução do tempo de execução de um algoritmo.
-:white_check_mark: Melhor uso de recursos do sistema.
+* :white_check_mark: Redução do tempo de execução de um algoritmo.
+* :white_check_mark: Melhor uso de recursos do sistema.
 
 :pushpin: **Exemplo de commit**:
 > :racing_car: perf(algoritmo): otimiza busca para reduzir tem de execução.
@@ -136,9 +136,9 @@ Adição, atualização e remoção de **testes automatizados**.
 
 #### Exemplos de tarefas Test
 
-:white_check_mark: Criação de novos testes.
-:white_check_mark: Correção de testes falhos.
-:white_check_mark: Melhoria na cobertura de testes.
+* :white_check_mark: Criação de novos testes.
+* :white_check_mark: Correção de testes falhos.
+* :white_check_mark: Melhoria na cobertura de testes.
 
 :pushpin: **Exemplo de commit**:
 > :test_tube: test(user-service): adiciona testes unitários para autenticação.
@@ -151,9 +151,9 @@ Alterações na **documentação** do projeto.
 
 #### Exemplos de tarefas Docs
 
-:white_check_mark: Atualização do README.
-:white_check_mark: Comentários no código.
-:white_check_mark: Documentação de APIs.
+* :white_check_mark: Atualização do README.
+* :white_check_mark: Comentários no código.
+* :white_check_mark: Documentação de APIs.
 
 :pushpin: **Exemplo de commit**:
 > :book: docs(README): atualiza guia de instalação.
@@ -166,8 +166,8 @@ Correções e melhorias à **segurança** do projeto.
 
 #### Exemplos de tarefas Security
 
-:white_check_mark: Correção de vulnerabilidade.
-:white_check_mark: Melhorias na autenticação e autorização.
+* :white_check_mark: Correção de vulnerabilidade.
+* :white_check_mark: Melhorias na autenticação e autorização.
 
 :pushpin: **Exemplo de commit**:
 > :lock: security(auth): corrige vulnerabilidade no token JWT.
@@ -180,8 +180,8 @@ Mudança no sistema de **build** do projeto.
 
 #### Exemplos de tarefas Build
 
-:white_check_mark: Ajuste em scripts de compilação.
-:white_check_mark: Modificações em dependências.
+* :white_check_mark: Ajuste em scripts de compilação.
+* :white_check_mark: Modificações em dependências.
 
 :pushpin: **Exemplo de commit**:
 > :package: build(webpack): ajusta configuração para otimizar bundle.
@@ -194,8 +194,8 @@ Alterações em **configurações** do projeto.
 
 #### Exemplos de tarefas Config
 
-:white_check_mark: Modificações em arquivos de configuração.
-:white_check_mark: Ajustes de variáveis de ambiente.
+* :white_check_mark: Modificações em arquivos de configuração.
+* :white_check_mark: Ajustes de variáveis de ambiente.
 
 :pushpin: **Exemplo de commit**:
 > :gear: config(env): adiciona nova variável de ambiente para API.
@@ -208,8 +208,8 @@ Reversão de commits anteriores.
 
 #### Exemplos de tarefas Revert
 
-:white_check_mark: Reverter mudanças problemáticas.
-:white_check_mark: Desfazer commits incorretos.
+* :white_check_mark: Reverter mudanças problemáticas.
+* :white_check_mark: Desfazer commits incorretos.
 
 :pushpin: **Exemplo de commit**:
 > :calendar: revert(user-service): reverte alteração que causava erro.
@@ -237,9 +237,9 @@ emoji categoria(escopo): descrição breve.
 
 ## :rocket: Benefícios do Padrão
 
-:white_check_mark: **Facilidade de leitura** - Identificação rápida do tipo de mudança.
-:white_check_mark: **Histórico organizado** - Mensagens de commit padronizadas ajudam na auditoria.
-:white_check_mark: **Melhora na colaboração** - Equipes entendem rapidamente as alterações.
+* :white_check_mark: **Facilidade de leitura** - Identificação rápida do tipo de mudança.
+* :white_check_mark: **Histórico organizado** - Mensagens de commit padronizadas ajudam na auditoria.
+* :white_check_mark: **Melhora na colaboração** - Equipes entendem rapidamente as alterações.
 
 :pushpin: Mantenha as mensagens concisas e use outros emojis com moderação!
 
