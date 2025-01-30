@@ -131,6 +131,23 @@ Adição, atualização e remoção de **testes automatizados**.
 
 ---
 
+### :book: Docs
+
+Alterações na **documentação** do projeto.
+
+#### Exemplos de tarefas Docs
+
+:white_check_mark: Atualização do README.
+:white_check_mark: Comentários no código.
+:white_check_mark: Documentação de APIs.
+
+:pushpin: **Exemplo de commit**:
+> :book: docs(README): atualiza guia de instalação.
+
+---
+
+---
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
