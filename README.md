@@ -244,6 +244,13 @@ emoji categoria(escopo): descrição breve.
 :pushpin: Mantenha as mensagens concisas e use outros emojis com moderação!
 
 ---
+
+## Tabela para consulta
+
+| CÓDIGO | EMOJI | DESCRIÇÃO |
+| :----- | :---: | :-------- |
+|  |  |  |
+
 <!-- Informações -->
 
 ## &#8505; Informações
