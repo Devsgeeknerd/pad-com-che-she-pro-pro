@@ -100,6 +100,20 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 :pushpin: Exemplo de commit:
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
 
+---
+
+### :racing_car: Perf
+
+Otimizações de **desempenho** para melhorar a eficiência do código.
+
+### Exemplos de tarefas Perf
+
+:white_check_mark: Redução do tempo de execução de um algoritmo.
+:white_check_mark: Melhor uso de recursos do sistema.
+
+:pushpin: Exemplo de commit:
+> :racing_car: perf(algoritmo): otimiza busca para reduzir tem de execução.
+
 ### Exemplos de Commits
 
 Aqui estão alguns exemplos de commits que seguem este padrão:
