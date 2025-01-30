@@ -43,17 +43,18 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 
 ---
 
-### Fix
+### :beetle: Fix
 
-`Fix` é a categoria usada para correções de bugs no código, garantindo que o sistema funcione conforme esperado.
+Correção de **bugs** que impactam o funcionamento esperado do sistema.
 
-#### Exemplo de tarefas Fix
+#### Exemplos de tarefas Fix
 
-* **Correção de erros de lógica**: Resolver problemas que impedem o funcionamento correto do sistema.
+:white_check_mark: Correção de erros de lógica.
+:white_check_mark: Ajustes em validações.
+:white_check_mark: Correção de falhas na interface.
 
-* **Ajustes em funcionalidades existentes**: Corrigir falhas em recursos previamente implementados.
-
-* **Reparos em testes automatizados**: Garantir que os testes reflitam o comportamento esperado.
+:pushpin: Exemplo de commit:
+> :beetle: fix(api): corrige validação de email
 
 ---
 
