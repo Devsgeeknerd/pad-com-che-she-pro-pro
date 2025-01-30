@@ -43,7 +43,7 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 
 ---
 
-### :beetle: Fix
+### :lady_beetle: Fix
 
 Correção de **bugs** que impactam o funcionamento esperado do sistema.
 
@@ -54,7 +54,7 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 :white_check_mark: Correção de falhas na interface.
 
 :pushpin: Exemplo de commit:
-> :beetle: fix(api): corrige validação de email
+> :lady_beetle: fix(api): corrige validação de email.
 
 ---
 
