@@ -22,7 +22,7 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 :white_check_mark: Configuração de ferramentas como linters e CI/CD.
 :white_check_mark: Ajustes de ambiente de desenvolvimento.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :hammer_and_wrench: chore(deps): atualiza dependências para a versão mais recente.
 
 ---
@@ -38,7 +38,7 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 :white_check_mark: Suporte a novos dispositivos ou plataformas.
 :white_check_mark: Integração com APIs externas.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :sparkles: feat(auth): adicionar sistema de autenticação JWT.
 
 ---
@@ -53,7 +53,7 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 :white_check_mark: Ajustes em validações.
 :white_check_mark: Correção de falhas na interface.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :lady_beetle: fix(api): corrige validação de email.
 
 ---
@@ -67,7 +67,7 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 :white_check_mark: Resolver erro crítico em produção.  
 :white_check_mark: Ajustes rápidos de segurança.  
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :ambulance: hotfix(login): corrige erro impedindo login de usuários
 
 ---
@@ -82,7 +82,7 @@ Mudanças **cosméticas** no código que não afetam a funcionalidade.
 :white_check_mark: Correção de formatação de código.
 :white_check_mark: Alterações em estilos.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :art: style(ui): ajusta espaçamento entre botões.
 
 ---
@@ -97,7 +97,7 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 :white_check_mark: Simplificação de funções complexas.
 :white_check_mark: Redução da repetição de código.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
 
 ---
@@ -111,7 +111,7 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 :white_check_mark: Redução do tempo de execução de um algoritmo.
 :white_check_mark: Melhor uso de recursos do sistema.
 
-:pushpin: Exemplo de commit:
+:pushpin: **Exemplo de commit**:
 > :racing_car: perf(algoritmo): otimiza busca para reduzir tem de execução.
 
 ---
