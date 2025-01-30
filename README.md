@@ -164,6 +164,8 @@ Correções e melhorias à **segurança** do projeto.
 
 Mudança no sistema de **build** do projeto.
 
+#### Exemplos de tarefas Build
+
 :white_check_mark: Ajuste em scripts de compilação.
 :white_check_mark: Modificações em dependências.
 
