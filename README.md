@@ -3,9 +3,9 @@
 
 ## :pushpin: Introdução
 
-Este documento define os padrões de commits a serem seguidos em meus repositórios, utilizando emojis para representar diferentes tipos de alterações no código.
+Este documento define um padrão de commits para manter **clareza, consistência e eficiência** nos repositórios.
 
-Seguir um padrão de commits ajuda a manter a clareza e a consistência nas mensagens, facilitando a identificação do tipo de alteração realizada e promovendo uma melhor colaboração entre desenvolvedores.
+O uso de **emojis** facilita a identificação visual do tipo de alteração realizada, promovendo melhor colaboração e organização.
 
 ## Categorias de Commits
 
