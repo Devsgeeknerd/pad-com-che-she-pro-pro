@@ -159,6 +159,17 @@ Correções e melhorias à **segurança** do projeto.
 > :lock: security(auth): corrige vulnerabilidade no token JWT.
 
 ---
+
+### :package: Build
+
+Mudança no sistema de **build** do projeto.
+
+:white_check_mark: Ajuste em scripts de compilação.
+:white_check_mark: Modificações em dependências.
+
+:pushpin: **Exemplo de commit**:
+> :package: build(webpack): ajusta configuração para otimizar bundle.
+
 ---
 
 ### Exemplos de Commits
