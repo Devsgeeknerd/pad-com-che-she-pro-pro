@@ -7,7 +7,9 @@ Este documento define um padrão de commits para manter **clareza, consistência
 
 O uso de **emojis** facilita a identificação visual do tipo de alteração realizada, promovendo melhor colaboração e organização.
 
-## Categorias de Commits
+---
+
+## :file_folder: Categorias de Commits
 
 As seguintes categorias devem ser usadas para classificar as alterações no código:
 
