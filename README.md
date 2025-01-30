@@ -146,6 +146,19 @@ Alterações na **documentação** do projeto.
 
 ---
 
+### :lock: Security
+
+Correções e melhorias à **segurança** do projeto.
+
+#### Exemplos de tarefas Security
+
+:white_check_mark: Correção de vulnerabilidade.
+:white_check_mark: Melhorias na autenticação e autorização.
+
+:pushpin: **Exemplo de commit**:
+> :lock: security(auth): corrige vulnerabilidade no token JWT.
+
+---
 ---
 
 ### Exemplos de Commits
