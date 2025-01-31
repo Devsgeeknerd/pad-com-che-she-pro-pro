@@ -245,7 +245,7 @@ emoji categoria(escopo): descrição breve.
 
 ---
 
-## Tabela para consulta outros emojis
+## Tabela para consultar outros emojis
 
 | CÓDIGO | EMOJI | DESCRIÇÃO |
 | :----- | :---: | :-------- |
