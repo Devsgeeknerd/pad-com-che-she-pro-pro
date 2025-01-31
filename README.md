@@ -11,7 +11,7 @@ O uso de **emojis** facilita a identificação visual do tipo de alteração rea
 
 ## :file_folder: Categorias de Commits
 
-### :wrench: Chore
+### :hammer_and_wrench: Chore
 
 Alterações de manutenção e organização que não impactam diretamente a funcionalidade do projeto.
 
@@ -126,7 +126,7 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 * :white_check_mark: Melhor uso de recursos do sistema.
 
 :pushpin: **Exemplo de commit**:
-> :racing_car: perf(algoritmo): otimiza busca para reduzir tem de execução.
+> :racing_car: perf(algoritmo): otimiza busca para reduzir tempo de execução.
 
 ---
 
@@ -245,11 +245,35 @@ emoji categoria(escopo): descrição breve.
 
 ---
 
-## Tabela para consulta
+## Tabela para consulta outros emojis
 
 | CÓDIGO | EMOJI | DESCRIÇÃO |
 | :----- | :---: | :-------- |
-|  |  |  |
+| `:hammer_and_wrench:` | :hammer_and_wrench: | Tarefa. |
+| `:sparkles:` | :sparkles: | funcionalidade. |
+| `:lady_beetle:` | :lady_beetle: | Correção. |
+| `:ambulance:` | :ambulance: | Correção rápida. |
+| `:art:` | :art: | Estilo. |
+| `:arrows_counterclockwise:` | :arrows_counterclockwise: | Refatoração. |
+| `:wastebasket:` | :wastebasket: | Limpeza. |
+| `:racing_car:` | :racing_car: | Desempenho. |
+| `:test_tube:` | :test_tube: | Teste. |
+| `:book:` | :book: | Documentação. |
+| `:lock:` | :lock: | Segurança. |
+| `:package:` | :package: | Construção. |
+| `:gear:` | :gear: | Configuração. |
+| `:calendar:` | :calendar: | Reverter. |
+| `:label:` | :label: | Adicionar, atualizar ou remover tags. |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Mesclar ramificações. |
+| `:alembic:` | :alembic: | Realizar experimentos. |
+| `:construction:` | :construction: | Trabalho em andamento. |
+| `:jigsaw:` | :jigsaw: | Adicionar, atualizar ou remover componente. |
+| `:pushpin:` | :pushpin: | Fixar dependência em versão especifica. |
+| `:clipboard:` | :clipboard: | Documentação em andamento. |
+| `:pencil:` | :pencil: | Atualizar conteúdo da documentação. |
+| `:pencil2:` | :pencil2: | Corrigir erros de digitação. |
+| `:dart:` | :dart: | Metas concluídas. |
+| `:tada:` | :tada: | Commit inicial. |
 
 <!-- Informações -->
 
