@@ -275,6 +275,7 @@ emoji categoria(escopo): descrição breve.
 | `:dart:` | :dart: | Metas concluídas. |
 | `:tada:` | :tada: | Commit inicial. |
 
+<!--  -->
 <!-- Informações -->
 
 ## &#8505; Informações
