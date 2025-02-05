@@ -17,10 +17,29 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 
 #### Exemplo de tarefas Chore
 
-* :white_check_mark: Atualização de dependências.
-* :white_check_mark: Limpeza de código morto.
-* :white_check_mark: Configuração de ferramentas como linters e CI/CD.
+Aqui está a lista organizada em ordem alfabética:
+
+* :white_check_mark: Alterações nas configurações de segurança, como TLS/SSL.
+* :white_check_mark: Ajuste de configurações de cache.
+* :white_check_mark: Ajuste na configuração de pre-commit hooks.
+* :white_check_mark: Ajuste no arquivo `.gitignore`.
 * :white_check_mark: Ajustes de ambiente de desenvolvimento.
+* :white_check_mark: Ajustes nas configurações de deploy.
+* :white_check_mark: Atualização de bibliotecas de análise estática de código.
+* :white_check_mark: Atualização de dependências.
+* :white_check_mark: Atualização de documentação interna.
+* :white_check_mark: Atualização de versões.
+* :white_check_mark: Atualização de versões de bibliotecas de testes.
+* :white_check_mark: Configuração de backup de banco de dados.
+* :white_check_mark: Configuração de ferramentas como linters e CI/CD.
+* :white_check_mark: Inclusão de novas variáveis de ambiente.
+* :white_check_mark: Limpeza de código morto.
+* :white_check_mark: Limpeza de logs antigos.
+* :white_check_mark: Melhoria no processo de build.
+* :white_check_mark: Organização de arquivos de configuração.
+* :white_check_mark: Refatoração de estrutura de pastas.
+* :white_check_mark: Remoção de dependências não utilizadas.
+* :white_check_mark: Revisão de arquivos de configuração de ambiente (dev, prod, test).
 
 :pushpin: **Exemplo de commit**:
 > :hammer_and_wrench: chore(deps): atualiza dependências para a versão mais recente.
