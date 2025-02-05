@@ -95,14 +95,23 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 * :white_check_mark: Introdução de novas ferramentas de edição.
 
 :pushpin: **Exemplo de commit**:
+
 > :sparkles: feat(auth): adicionar sistema de autenticação JWT.
+
 > :sparkles: feat(notifications): adicionar notificações push para novos conteúdos.
+
 > :sparkles: feat(theme): permitir que usuários escolham temas personalizados no app.
+
 > :sparkles: feat(sharing): integrar com Facebook e Twitter para compartilhamento.
+
 > :sparkles: feat(performance): otimizar carregamento de imagens para melhor desempenho.
+
 > :sparkles: feat(content): adicionar suporte para vídeos na seção de conteúdo interativo.
+
 > :sparkles: feat(language): adicionar suporte ao idioma espanhol.
+
 > :sparkles: feat(search): adicionar funcionalidade de busca por voz.
+
 > :sparkles: feat(editing): adicionar filtro de imagem para edição de fotos.
 
 ---
