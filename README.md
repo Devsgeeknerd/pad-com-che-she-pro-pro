@@ -17,8 +17,6 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 
 #### Exemplo de tarefas Chore
 
-Aqui está a lista organizada em ordem alfabética:
-
 * :white_check_mark: Alterações nas configurações de segurança, como TLS/SSL.
 * :white_check_mark: Ajuste de configurações de cache.
 * :white_check_mark: Ajuste na configuração de pre-commit hooks.
