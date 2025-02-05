@@ -87,9 +87,25 @@ Adição de novas funcionalidades ou melhorias que agregam valor ao usuário.
 * :white_check_mark: Melhorias na UI/UX.
 * :white_check_mark: Suporte a novos dispositivos ou plataformas.
 * :white_check_mark: Integração com APIs externas.
+* :white_check_mark: Implementação de funcionalidades de notificação.
+* :white_check_mark: Implementação de novas opções de personalização.
+* :white_check_mark: Adição de novas opções de compartilhamento.
+* :white_check_mark: Implementação de funcionalidades para melhoria de desempenho.
+* :white_check_mark: Adição de novos tipos de conteúdo.
+* :white_check_mark: Suporte a novas linguagens ou traduções.
+* :white_check_mark: Implementação de novos tipos de busca.
+* :white_check_mark: Introdução de novas ferramentas de edição.
 
 :pushpin: **Exemplo de commit**:
 > :sparkles: feat(auth): adicionar sistema de autenticação JWT.
+> :sparkles: feat(notifications): adicionar notificações push para novos conteúdos.
+> :sparkles: feat(theme): permitir que usuários escolham temas personalizados no app.
+> :sparkles: feat(sharing): integrar com Facebook e Twitter para compartilhamento.
+> :sparkles: feat(performance): otimizar carregamento de imagens para melhor desempenho.
+> :sparkles: feat(content): adicionar suporte para vídeos na seção de conteúdo interativo.
+> :sparkles: feat(language): adicionar suporte ao idioma espanhol.
+> :sparkles: feat(search): adicionar funcionalidade de busca por voz.
+> :sparkles: feat(editing): adicionar filtro de imagem para edição de fotos.
 
 ---
 
@@ -297,33 +313,33 @@ emoji categoria(escopo): descrição breve.
 
 ## Tabela para consultar outros emojis
 
-| CÓDIGO | EMOJI | DESCRIÇÃO |
-| :----- | :---: | :-------- |
-| `:hammer_and_wrench:` | :hammer_and_wrench: | Tarefa. |
-| `:sparkles:` | :sparkles: | funcionalidade. |
-| `:lady_beetle:` | :lady_beetle: | Correção. |
-| `:ambulance:` | :ambulance: | Correção rápida. |
-| `:art:` | :art: | Estilo. |
-| `:arrows_counterclockwise:` | :arrows_counterclockwise: | Refatoração. |
-| `:wastebasket:` | :wastebasket: | Limpeza. |
-| `:racing_car:` | :racing_car: | Desempenho. |
-| `:test_tube:` | :test_tube: | Teste. |
-| `:book:` | :book: | Documentação. |
-| `:lock:` | :lock: | Segurança. |
-| `:package:` | :package: | Construção. |
-| `:gear:` | :gear: | Configuração. |
-| `:calendar:` | :calendar: | Reverter. |
-| `:label:` | :label: | Adicionar, atualizar ou remover tags. |
-| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Mesclar ramificações. |
-| `:alembic:` | :alembic: | Realizar experimentos. |
-| `:construction:` | :construction: | Trabalho em andamento. |
-| `:jigsaw:` | :jigsaw: | Adicionar, atualizar ou remover componente. |
-| `:pushpin:` | :pushpin: | Fixar dependência em versão especifica. |
-| `:clipboard:` | :clipboard: | Documentação em andamento. |
-| `:pencil:` | :pencil: | Atualizar conteúdo da documentação. |
-| `:pencil2:` | :pencil2: | Corrigir erros de digitação. |
-| `:dart:` | :dart: | Metas concluídas. |
-| `:tada:` | :tada: | Commit inicial. |
+| CÓDIGO                        |            EMOJI            | DESCRIÇÃO                                   |
+| :---------------------------- | :-------------------------: | :------------------------------------------ |
+| `:hammer_and_wrench:`         |     :hammer_and_wrench:     | Tarefa.                                     |
+| `:sparkles:`                  |         :sparkles:          | funcionalidade.                             |
+| `:lady_beetle:`               |        :lady_beetle:        | Correção.                                   |
+| `:ambulance:`                 |         :ambulance:         | Correção rápida.                            |
+| `:art:`                       |            :art:            | Estilo.                                     |
+| `:arrows_counterclockwise:`   |  :arrows_counterclockwise:  | Refatoração.                                |
+| `:wastebasket:`               |        :wastebasket:        | Limpeza.                                    |
+| `:racing_car:`                |        :racing_car:         | Desempenho.                                 |
+| `:test_tube:`                 |         :test_tube:         | Teste.                                      |
+| `:book:`                      |           :book:            | Documentação.                               |
+| `:lock:`                      |           :lock:            | Segurança.                                  |
+| `:package:`                   |          :package:          | Construção.                                 |
+| `:gear:`                      |           :gear:            | Configuração.                               |
+| `:calendar:`                  |         :calendar:          | Reverter.                                   |
+| `:label:`                     |           :label:           | Adicionar, atualizar ou remover tags.       |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Mesclar ramificações.                       |
+| `:alembic:`                   |          :alembic:          | Realizar experimentos.                      |
+| `:construction:`              |       :construction:        | Trabalho em andamento.                      |
+| `:jigsaw:`                    |          :jigsaw:           | Adicionar, atualizar ou remover componente. |
+| `:pushpin:`                   |          :pushpin:          | Fixar dependência em versão especifica.     |
+| `:clipboard:`                 |         :clipboard:         | Documentação em andamento.                  |
+| `:pencil:`                    |          :pencil:           | Atualizar conteúdo da documentação.         |
+| `:pencil2:`                   |          :pencil2:          | Corrigir erros de digitação.                |
+| `:dart:`                      |           :dart:            | Metas concluídas.                           |
+| `:tada:`                      |           :tada:            | Commit inicial.                             |
 
 <!--  -->
 <!-- Informações -->
