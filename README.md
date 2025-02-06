@@ -339,11 +339,20 @@ Correções e melhorias à **segurança** do projeto.
 #### Exemplos de tarefas Security
 
 * :white_check_mark: Correção de vulnerabilidade.
+* :white_check_mark: Melhoria na segurança.
 * :white_check_mark: Melhorias na autenticação e autorização.
+* :white_check_mark: Melhoria no tratamento de erros.
+* :white_check_mark: Melhoria na limpeza de código.
+* :white_check_mark: Melhoria na qualidade de código.
+* :white_check_mark: Melhoria na velocidade de execução.
 
 :pushpin: **Exemplo de commit**:
 > :lock: security(auth): corrige vulnerabilidade no token JWT.
-
+> :lock: security(auth): melhora autenticação e autorização.
+> :lock: security(error-handling): melhora tratamento de erros.
+> :lock: security(code-cleanup): melhora limpeza de código.
+> :lock: security(code-quality): melhora qualidade de código.
+> :lock: security(code-speed): melhora velocidade de execução.
 ---
 
 ### :package: Build
@@ -353,7 +362,21 @@ Mudança no sistema de **build** do projeto.
 #### Exemplos de tarefas Build
 
 * :white_check_mark: Ajuste em scripts de compilação.
-* :white_check_mark: Modificações em dependências.
+* :white_check_mark: Ajuste em configurações de build.
+* :white_check_mark: Ajuste em scripts de testes.
+* :white_check_mark: Ajuste em dependências.
+* :white_check_mark: Ajuste em configurações de deploys.
+* :white_check_mark: Ajuste em scripts de linting.
+* :white_check_mark: Ajuste em scripts de formatação.
+* :white_check_mark: Ajuste em configurações de segurança.
+* :white_check_mark: Ajuste em configurações de cache.
+* :white_check_mark: Ajuste em configurações de pre-commit hooks.
+* :white_check_mark: Ajuste em arquivos de configuração.
+* :white_check_mark: Ajuste em arquivos de log.
+* :white_check_mark: Ajuste em arquivos de testes.
+* :white_check_mark: Ajuste em arquivos de estilo.
+* :white_check_mark: Ajuste em arquivos de tradução.
+* :white_check_mark: Ajuste em arquivos de documentos.
 
 :pushpin: **Exemplo de commit**:
 > :package: build(webpack): ajusta configuração para otimizar bundle.
@@ -368,9 +391,31 @@ Alterações em **configurações** do projeto.
 
 * :white_check_mark: Modificações em arquivos de configuração.
 * :white_check_mark: Ajustes de variáveis de ambiente.
+* :white_check_mark: Ajustes de variáveis de ambiente.
+* :white_check_mark: Ajustes no sistema de gerenciamento de pacotes.
+* :white_check_mark: Ajustes no sistema de gerenciamento de cache.
+* :white_check_mark: Ajustes no sistema de gerenciamento de pre-commit hooks.
+* :white_check_mark: Ajustes no sistema de gerenciamento de versões.
+* :white_check_mark: Ajustes no sistema de gerenciamento de build.
+* :white_check_mark: Ajustes no sistema de gerenciamento de linting.
+* :white_check_mark: Ajustes no sistema de gerenciamento de formatação.
+* :white_check_mark: Ajustes no sistema de gerenciamento de tradução.
+* :white_check_mark: Ajustes no sistema de gerenciamento de documentos.
+* :white_check_mark: Ajustes no sistema de gerenciamento de segurança.
 
 :pushpin: **Exemplo de commit**:
 > :gear: config(env): adiciona nova variável de ambiente para API.
+> :gear: config(env): ajusta configuração de ambiente.
+> :gear: config(env): ajusta configuração de segurança.
+> :gear: config(env): ajusta configuração de cache.
+> :gear: config(env): ajusta configuração de pre-commit hooks.
+> :gear: config(env): ajusta configuração de versões.
+> :gear: config(env): ajusta configuração de build.
+> :gear: config(env): ajusta configuração de linting.
+> :gear: config(env): ajusta configuração de formatação.
+> :gear: config(env): ajusta configuração de tradução.
+> :gear: config(env): ajusta configuração de documentos.
+> :gear: config(env): ajusta configuração de segurança.
 
 ---
 
@@ -381,10 +426,39 @@ Reversão de commits anteriores.
 #### Exemplos de tarefas Revert
 
 * :white_check_mark: Reverter mudanças problemáticas.
+* :white_check_mark: Reverter mudanças de configuração.
+* :white_check_mark: Reverter mudanças de build.
+* :white_check_mark: Reverter mudanças de linting.
+* :white_check_mark: Reverter mudanças de formatação.
+* :white_check_mark: Reverter mudanças de tradução.
+* :white_check_mark: Reverter mudanças de documentos.
+* :white_check_mark: Reverter mudanças de segurança.
+* :white_check_mark: Reverter mudanças de cache.
+* :white_check_mark: Reverter mudanças de pre-commit hooks.
+* :white_check_mark: Reverter mudanças de versões.
+* :white_check_mark: Reverter mudanças de build.
+* :white_check_mark: Reverter mudanças de linting.
+* :white_check_mark: Reverter mudanças de formatação.
+* :white_check_mark: Reverter mudanças de tradução.
+* :white_check_mark: Reverter mudanças de documentos.
+* :white_check_mark: Reverter mudanças de segurança.
+* :white_check_mark: Reverter mudanças de cache.
+* :white_check_mark: Reverter mudanças de pre-commit hooks.
+* :white_check_mark: Reverter mudanças de versões.
+* :white_check_mark: Reverter mudanças de build.
 * :white_check_mark: Desfazer commits incorretos.
 
 :pushpin: **Exemplo de commit**:
 > :calendar: revert(user-service): reverte alteração que causava erro.
+> :calendar: revert(env): reverte alteração que causava erro.
+> :calendar: revert(cache): reverte alteração que causava erro.
+> :calendar: revert(pre-commit): reverte alteração que causava erro.  
+> :calendar: revert(build): reverte alteração que causava erro.  
+> :calendar: revert(lint): reverte alteração que causava erro.  
+> :calendar: revert(format): reverte alteração que causava erro.
+> :calendar: revert(tran): reverte alteração que causava erro.
+> :calendar: revert(docs): reverte alteração que causava erro.
+> :calendar: revert(sec): reverte alteração que causava erro.
 
 ---
 
