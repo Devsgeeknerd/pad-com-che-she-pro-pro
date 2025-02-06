@@ -127,23 +127,25 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 * :white_check_mark: Ajustes em validações.
 * :white_check_mark: Correção de falhas na interface.
 * :white_check_mark: Ajustes em mensagens de erro.
-* :white_check_mark: Correção de bugs na interface.
+* :white_check_mark: Correção de bugs na interface do usuário.
 * :white_check_mark: Correção de bugs de segurança.
 * :white_check_mark: Correção de bugs de performance.
-* :white_check_mark: Correção de bugs em validações.
+* :white_check_mark: Correção de bugs em validações de entrada.
+* :white_check_mark: Correção de comportamentos inesperados em funcionalidades.
+* :white_check_mark: Ajustes em interações do usuário que não funcionam como esperado.
 
 :pushpin: **Exemplo de commit**:
+
 > :lady_beetle: fix(api): corrige validação de email.
 > :lady_beetle: fix(auth): corrige erro de autenticação.
-> :lady_beetle: fix(cache): corrige erro de cache.
-> :lady_beetle: fix(dart): corrige versão do Dart.
-> :lady_beetle: fix(docs): corrige erro de documentação.
-> :lady_beetle: fix(env): corrige erro de configuração de ambiente.
-> :lady_beetle: fix(hooks): corrige erro de pre-commit hooks.
-> :lady_beetle: fix(logs): corrige erro de logs.
-> :lady_beetle: fix(security): corrige erro de segurança.
-> :lady_beetle: fix(structure): corrige erro de estrutura de pastas.
-> :lady_beetle: fix(tests): corrige erro de testes.
+> :lady_beetle: fix(interface): corrige falha na exibição de botões.
+> :lady_beetle: fix(validation): ajusta validação de campos obrigatórios.
+> :lady_beetle: fix(error-messages): corrige mensagens de erro exibidas ao usuário.
+> :lady_beetle: fix(security): corrige vulnerabilidade de segurança em formulários.
+> :lady_beetle: fix(performance): corrige lentidão em carregamento de dados.
+> :lady_beetle: fix(user-input): corrige erro ao processar entrada do usuário.
+> :lady_beetle: fix(tests): corrige falhas em testes automatizados.
+> :lady_beetle: fix(compatibility): corrige problemas de compatibilidade com navegadores.
 
 ---
 
