@@ -319,16 +319,28 @@ Alterações na **documentação** do projeto.
 #### Exemplos de tarefas Docs
 
 * :white_check_mark: Atualização do README.
-* :white_check_mark: Atualização de documentação.
+* :white_check_mark: Atualização de documentação de funcionalidades.
+* :white_check_mark: Adição de exemplos de uso.
 * :white_check_mark: Comentários no código.
 * :white_check_mark: Documentação de APIs.
+* :white_check_mark: Criação de guias de contribuição.
+* :white_check_mark: Atualização de changelog.
+* :white_check_mark: Melhoria na estrutura da documentação.
+* :white_check_mark: Adição de diagramas e ilustrações.
+* :white_check_mark: Revisão de documentação existente para clareza.
 
 :pushpin: **Exemplo de commit**:
+
 > :book: docs(README): atualiza guia de instalação.
-> :book: docs(documentation): atualiza documentação.
+> :book: docs(features): atualiza documentação de funcionalidades.
+> :book: docs(examples): adiciona exemplos de uso.
 > :book: docs(code-comments): adiciona comentários no código.
 > :book: docs(api-documentation): documenta APIs.
-> :book: docs(translation): adiciona documentação de tradução.
+> :book: docs(contributing): cria guia de contribuição.
+> :book: docs(changelog): atualiza changelog.
+> :book: docs(structure): melhora estrutura da documentação.
+> :book: docs(diagrams): adiciona diagramas e ilustrações.
+> :book: docs(review): revisa documentação existente para clareza.
 
 ---
 
