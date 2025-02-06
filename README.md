@@ -436,25 +436,16 @@ Reversão de commits anteriores.
 * :white_check_mark: Reverter mudanças de cache.
 * :white_check_mark: Reverter mudanças de pre-commit hooks.
 * :white_check_mark: Reverter mudanças de versões.
-* :white_check_mark: Reverter mudanças de build.
-* :white_check_mark: Reverter mudanças de linting.
-* :white_check_mark: Reverter mudanças de formatação.
-* :white_check_mark: Reverter mudanças de tradução.
-* :white_check_mark: Reverter mudanças de documentos.
-* :white_check_mark: Reverter mudanças de segurança.
-* :white_check_mark: Reverter mudanças de cache.
-* :white_check_mark: Reverter mudanças de pre-commit hooks.
-* :white_check_mark: Reverter mudanças de versões.
-* :white_check_mark: Reverter mudanças de build.
 * :white_check_mark: Desfazer commits incorretos.
 
 :pushpin: **Exemplo de commit**:
+
 > :calendar: revert(user-service): reverte alteração que causava erro.
 > :calendar: revert(env): reverte alteração que causava erro.
 > :calendar: revert(cache): reverte alteração que causava erro.
-> :calendar: revert(pre-commit): reverte alteração que causava erro.  
-> :calendar: revert(build): reverte alteração que causava erro.  
-> :calendar: revert(lint): reverte alteração que causava erro.  
+> :calendar: revert(pre-commit): reverte alteração que causava erro.
+> :calendar: revert(build): reverte alteração que causava erro.
+> :calendar: revert(lint): reverte alteração que causava erro.
 > :calendar: revert(format): reverte alteração que causava erro.
 > :calendar: revert(tran): reverte alteração que causava erro.
 > :calendar: revert(docs): reverte alteração que causava erro.
