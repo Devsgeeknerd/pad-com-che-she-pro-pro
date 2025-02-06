@@ -217,14 +217,23 @@ Mudanças **cosméticas** no código que não afetam a funcionalidade.
 :pushpin: **Exemplo de commit**:
 
 > :art: style(ui): ajusta espaçamento entre botões.
+>
 > :art: style(css): corrige formatação de CSS.
+>
 > :art: style(colors): altera cores de fundo e texto.
+>
 > :art: style(fonts): ajusta tamanhos de fonte para melhor legibilidade.
+>
 > :art: style(layout): melhora layout responsivo para dispositivos móveis.
+>
 > :art: style(accessibility): melhora acessibilidade visual.
+>
 > :art: style(naming): padroniza nomenclaturas de classes e IDs.
+>
 > :art: style(margins): ajusta margens e preenchimentos em componentes.
+>
 > :art: style(icons): atualiza ícones para nova versão.
+>
 > :art: style(images): substitui imagens por versões otimizadas.
 
 ---
