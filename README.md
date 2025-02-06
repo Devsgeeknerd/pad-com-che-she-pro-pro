@@ -258,14 +258,26 @@ Limpeza de código desnecessário ou **removido**.
 * :white_check_mark: Remoção de código obsoleto.
 * :white_check_mark: Exclusão de arquivos não utilizados.
 * :white_check_mark: Redução de complexidade de código.
+* :white_check_mark: Remoção de comentários desatualizados ou irrelevantes.
+* :white_check_mark: Exclusão de testes não utilizados.
+* :white_check_mark: Limpeza de imports não utilizados.
+* :white_check_mark: Remoção de variáveis não utilizadas.
+* :white_check_mark: Refatoração de código para melhorar a clareza.
+* :white_check_mark: Remoção de configurações desnecessárias.
+* :white_check_mark: Exclusão de documentação obsoleta.
 
 :pushpin: **Exemplo de commit**:
+
 > :wastebasket: cleanup(legacy): remove métodos não utilizados.
 > :wastebasket: cleanup(legacy): remove funções obsoletas.
-> :wastebasket: cleanup(legacy): remove arquivos não utilizados.
-> :wastebasket: cleanup(legacy): remove pastas não utilizadas.
-> :wastebasket: cleanup(legacy): remove dependências não utilizadas.
-> :wastebasket: cleanup(legacy): remove arquivos temporários.
+> :wastebasket: cleanup(arquivos): remove arquivos não utilizados.
+> :wastebasket: cleanup(pastas): remove pastas não utilizadas.
+> :wastebasket: cleanup(dependencias): remove dependências não utilizadas.
+> :wastebasket: cleanup(temporarios): remove arquivos temporários.
+> :wastebasket: cleanup(comentarios): remove comentários desatualizados.
+> :wastebasket: cleanup(teste): remove testes não utilizados.
+> :wastebasket: cleanup(imports): limpa imports não utilizados.
+> :wastebasket: cleanup(variaveis): remove variáveis não utilizadas.
 
 ---
 
