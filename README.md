@@ -395,31 +395,32 @@ Alterações em **configurações** do projeto.
 
 * :white_check_mark: Modificações em arquivos de configuração.
 * :white_check_mark: Ajustes de variáveis de ambiente.
-* :white_check_mark: Ajustes de variáveis de ambiente.
-* :white_check_mark: Ajustes no sistema de gerenciamento de pacotes.
-* :white_check_mark: Ajustes no sistema de gerenciamento de cache.
-* :white_check_mark: Ajustes no sistema de gerenciamento de pre-commit hooks.
-* :white_check_mark: Ajustes no sistema de gerenciamento de versões.
-* :white_check_mark: Ajustes no sistema de gerenciamento de build.
-* :white_check_mark: Ajustes no sistema de gerenciamento de linting.
-* :white_check_mark: Ajustes no sistema de gerenciamento de formatação.
-* :white_check_mark: Ajustes no sistema de gerenciamento de tradução.
-* :white_check_mark: Ajustes no sistema de gerenciamento de documentos.
-* :white_check_mark: Ajustes no sistema de gerenciamento de segurança.
+* :white_check_mark: Atualização de configurações de sistema de gerenciamento de pacotes.
+* :white_check_mark: Ajustes nas configurações de cache.
+* :white_check_mark: Ajustes nas configurações de pre-commit hooks.
+* :white_check_mark: Ajustes nas configurações de gerenciamento de versões.
+* :white_check_mark: Ajustes nas configurações de linting.
+* :white_check_mark: Ajustes nas configurações de formatação de código.
+* :white_check_mark: Ajustes nas configurações de segurança do projeto.
+* :white_check_mark: Atualização de arquivos de configuração de integração contínua.
+* :white_check_mark: Remoção de configurações obsoletas.
+* :white_check_mark: Adição de novos arquivos de configuração.
+* :white_check_mark: Ajustes nas configurações de tradução.
+* :white_check_mark: Ajustes nas configurações de documentação.
 
 :pushpin: **Exemplo de commit**:
+
 > :gear: config(env): adiciona nova variável de ambiente para API.
 > :gear: config(env): ajusta configuração de ambiente.
-> :gear: config(env): ajusta configuração de segurança.
-> :gear: config(env): ajusta configuração de cache.
-> :gear: config(env): ajusta configuração de pre-commit hooks.
-> :gear: config(env): ajusta configuração de versões.
-> :gear: config(env): ajusta configuração de build.
-> :gear: config(env): ajusta configuração de linting.
-> :gear: config(env): ajusta configuração de formatação.
-> :gear: config(env): ajusta configuração de tradução.
-> :gear: config(env): ajusta configuração de documentos.
-> :gear: config(env): ajusta configuração de segurança.
+> :gear: config(pacotes): atualiza configurações do gerenciador de pacotes.
+> :gear: config(cache): ajusta configuração de cache.
+> :gear: config(pre-commit): ajusta configuração de pre-commit hooks.
+> :gear: config(versões): ajusta configuração de gerenciamento de versões.
+> :gear: config(linting): ajusta configuração de linting.
+> :gear: config(formatação): ajusta configuração de formatação de código.
+> :gear: config(seguranca): ajusta configuração de segurança.
+> :gear: config(traducao): ajusta configuração de tradução.
+> :gear: config(documentacao): ajusta configuração de documentação.
 
 ---
 
