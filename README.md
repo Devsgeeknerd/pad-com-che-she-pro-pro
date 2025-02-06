@@ -261,7 +261,7 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 >
 > :arrows_counterclockwise: refactor(algoritmo): simplifica função de cálculo.
 >
-> :arrows_counterclockwise: refactor(var): renomeia variáveis para melhor clareza.
+> :arrows_counterclockwise: refactor(variable): renomeia variáveis para melhor clareza.
 >
 > :arrows_counterclockwise: refactor(methods): extrai método para reduzir complexidade.
 >
@@ -293,15 +293,24 @@ Limpeza de código desnecessário ou **removido**.
 :pushpin: **Exemplo de commit**:
 
 > :wastebasket: cleanup(legacy): remove métodos não utilizados.
+>
 > :wastebasket: cleanup(legacy): remove funções obsoletas.
-> :wastebasket: cleanup(arquivos): remove arquivos não utilizados.
-> :wastebasket: cleanup(pastas): remove pastas não utilizadas.
-> :wastebasket: cleanup(dependencias): remove dependências não utilizadas.
-> :wastebasket: cleanup(temporarios): remove arquivos temporários.
-> :wastebasket: cleanup(comentarios): remove comentários desatualizados.
-> :wastebasket: cleanup(teste): remove testes não utilizados.
+>
+> :wastebasket: cleanup(files): remove arquivos não utilizados.
+>
+> :wastebasket: cleanup(folders): remove pastas não utilizadas.
+>
+> :wastebasket: cleanup(dependencies): remove dependências não utilizadas.
+>
+> :wastebasket: cleanup(temporary): remove arquivos temporários.
+>
+> :wastebasket: cleanup(comments): remove comentários desatualizados.
+>
+> :wastebasket: cleanup(test): remove testes não utilizados.
+>
 > :wastebasket: cleanup(imports): limpa imports não utilizados.
-> :wastebasket: cleanup(variaveis): remove variáveis não utilizadas.
+>
+> :wastebasket: cleanup(variable): remove variáveis não utilizadas.
 
 ---
 
