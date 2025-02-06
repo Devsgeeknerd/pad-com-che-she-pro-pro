@@ -41,18 +41,31 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 :pushpin: **Exemplo de commit**:
 
 > :hammer_and_wrench: chore(analysis): atualiza ferramentas de análise estática de código.
+>
 > :hammer_and_wrench: chore(build): melhora processo de build com novos scripts.
+>
 > :hammer_and_wrench: chore(cache): ajusta configurações de cache para melhorar o desempenho.
+>
 > :hammer_and_wrench: chore(cleanup): remove dependências não utilizadas do projeto.
+>
 > :hammer_and_wrench: chore(deploy): ajusta configurações de deploy para integração contínua.
+>
 > :hammer_and_wrench: chore(deps): atualiza dependências para a versão mais recente.
+>
 > :hammer_and_wrench: chore(gitignore): ajusta o arquivo .gitignore para excluir novos arquivos temporários.
+>
 > :hammer_and_wrench: chore(hooks): adiciona e configura pre-commit hooks no projeto.
+>
 > :hammer_and_wrench: chore(logs): limpa logs antigos que não são mais necessários.
+>
 > :hammer_and_wrench: chore(security): atualiza configurações de segurança para reforçar TLS/SSL.
+>
 > :hammer_and_wrench: chore(structure): refatora estrutura de pastas para melhor organização.
+>
 > :hammer_and_wrench: chore(tests): atualiza bibliotecas de testes para versões mais recentes.
+>
 > :hammer_and_wrench: chore(env): revisa arquivos de configuração de ambiente para otimização.
+>
 > :hammer_and_wrench: chore(backup): configura backup automático do banco de dados.
 
 ---
