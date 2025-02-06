@@ -198,35 +198,27 @@ Mudanças **cosméticas** no código que não afetam a funcionalidade.
 
 * :white_check_mark: Ajustes de indentação e espaçamentos.
 * :white_check_mark: Correção de formatação de código.
-* :white_check_mark: Alterações em estilos.
-* :white_check_mark: Ajustes de cores.
+* :white_check_mark: Alterações em estilos de CSS.
+* :white_check_mark: Ajustes de cores em elementos da interface.
 * :white_check_mark: Ajustes de tamanhos de fonte.
-* :white_check_mark: Ajustes de layouts.
-* :white_check_mark: Ajustes de tamanhos de tela.
-* :white_check_mark: Ajustes de arquitetura.
-* :white_check_mark: Ajustes de arquivos de configuração.
-* :white_check_mark: Ajustes de arquivos de log.
-* :white_check_mark: Ajustes de arquivos de testes.
-* :white_check_mark: Ajustes de arquivos de estilo.
-* :white_check_mark: Ajustes de arquivos de tradução.
-* :white_check_mark: Ajustes de arquivos de documentos.
+* :white_check_mark: Ajustes de layouts responsivos.
+* :white_check_mark: Melhoria na acessibilidade visual.
+* :white_check_mark: Padronização de nomenclaturas de classes e IDs.
+* :white_check_mark: Ajustes de margens e preenchimentos.
+* :white_check_mark: Atualização de ícones e imagens.
 
 :pushpin: **Exemplo de commit**:
+
 > :art: style(ui): ajusta espaçamento entre botões.
-> :art: style(env): ajusta configurações de ambiente.
-> :art: style(hooks): ajusta pre-commit hooks.
-> :art: style(logs): ajusta logs.
-> :art: style(security): ajusta configurações de segurança.
-> :art: style(structure): ajusta estrutura de pastas.
-> :art: style(tests): ajusta testes.
-> :art: style(translations): ajusta tradução.
-> :art: style(ui): ajusta interface.
-> :art: style(utils): ajusta utilidades.
-> :art: style(videos): ajusta reprodução de vídeos.
-> :art: style(web): ajusta acesso a Internet.
-> :art: style(website): ajusta acesso ao site.
-> :art: style(workflow): ajusta fluxo de trabalho.
-> :art: style(zoom): ajusta acesso ao Zoom.
+> :art: style(css): corrige formatação de CSS.
+> :art: style(colors): altera cores de fundo e texto.
+> :art: style(fonts): ajusta tamanhos de fonte para melhor legibilidade.
+> :art: style(layout): melhora layout responsivo para dispositivos móveis.
+> :art: style(accessibility): melhora acessibilidade visual.
+> :art: style(naming): padroniza nomenclaturas de classes e IDs.
+> :art: style(margins): ajusta margens e preenchimentos em componentes.
+> :art: style(icons): atualiza ícones para nova versão.
+> :art: style(images): substitui imagens por versões otimizadas.
 
 ---
 
