@@ -135,14 +135,23 @@ Correção de **bugs** que impactam o funcionamento esperado do sistema.
 :pushpin: **Exemplo de commit**:
 
 > :lady_beetle: fix(api): corrige validação de email.
+>
 > :lady_beetle: fix(auth): corrige erro de autenticação.
+>
 > :lady_beetle: fix(interface): corrige falha na exibição de botões.
+>
 > :lady_beetle: fix(validation): ajusta validação de campos obrigatórios.
+>
 > :lady_beetle: fix(error-messages): corrige mensagens de erro exibidas ao usuário.
+>
 > :lady_beetle: fix(security): corrige vulnerabilidade de segurança em formulários.
+>
 > :lady_beetle: fix(performance): corrige lentidão em carregamento de dados.
+>
 > :lady_beetle: fix(user-input): corrige erro ao processar entrada do usuário.
+>
 > :lady_beetle: fix(tests): corrige falhas em testes automatizados.
+>
 > :lady_beetle: fix(compatibility): corrige problemas de compatibilidade com navegadores.
 
 ---
