@@ -241,11 +241,21 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 * :white_check_mark: Redução de complexidade de código.
 * :white_check_mark: Redução de duplicação de código.
 * :white_check_mark: Simplificação de funções complexas.
-* :white_check_mark: Simplificação de funções complexas.
-* :white_check_mark: Redução da repetição de código.
+* :white_check_mark: Renomeação de variáveis e funções para melhor clareza.
+* :white_check_mark: Extração de métodos para melhorar a legibilidade.
+* :white_check_mark: Reorganização de arquivos e pastas para melhor estrutura.
+* :white_check_mark: Melhoria na documentação interna do código.
+* :white_check_mark: Implementação de padrões de design para melhor manutenção.
 
 :pushpin: **Exemplo de commit**:
+
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
+> :arrows_counterclockwise: refactor(algoritmo): simplifica função de cálculo.
+> :arrows_counterclockwise: refactor(variaveis): renomeia variáveis para melhor clareza.
+> :arrows_counterclockwise: refactor(metodos): extrai método para reduzir complexidade.
+> :arrows_counterclockwise: refactor(estrutura): reorganiza arquivos para melhor estrutura.
+> :arrows_counterclockwise: refactor(documentacao): melhora documentação interna do código.
+> :arrows_counterclockwise: refactor(design-patterns): implementa padrões de design para manutenção.
 
 ---
 
