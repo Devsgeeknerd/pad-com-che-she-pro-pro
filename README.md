@@ -339,12 +339,17 @@ Correções e melhorias à **segurança** do projeto.
 #### Exemplos de tarefas Security
 
 * :white_check_mark: Correção de vulnerabilidade.
-* :white_check_mark: Melhoria na segurança.
+* :white_check_mark: Melhoria na segurança da aplicação.
 * :white_check_mark: Melhorias na autenticação e autorização.
-* :white_check_mark: Melhoria no tratamento de erros.
-* :white_check_mark: Melhoria na limpeza de código.
-* :white_check_mark: Melhoria na qualidade de código.
-* :white_check_mark: Melhoria na velocidade de execução.
+* :white_check_mark: Implementação de criptografia para dados sensíveis.
+* :white_check_mark: Melhoria no tratamento de erros para evitar vazamento de informações.
+* :white_check_mark: Implementação de validações de entrada para prevenir injeções.
+* :white_check_mark: Atualização de dependências para versões seguras.
+* :white_check_mark: Revisão de permissões de acesso.
+* :white_check_mark: Implementação de logs de segurança.
+* :white_check_mark: Melhoria na configuração de CORS.
+* :white_check_mark: Implementação de medidas contra ataques de força bruta.
+* :white_check_mark: Melhoria na segurança de sessões.
 
 :pushpin: **Exemplo de commit**:
 > :lock: security(auth): corrige vulnerabilidade no token JWT.
@@ -353,6 +358,7 @@ Correções e melhorias à **segurança** do projeto.
 > :lock: security(code-cleanup): melhora limpeza de código.
 > :lock: security(code-quality): melhora qualidade de código.
 > :lock: security(code-speed): melhora velocidade de execução.
+
 ---
 
 ### :package: Build
