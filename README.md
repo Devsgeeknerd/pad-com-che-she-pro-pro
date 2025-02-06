@@ -176,14 +176,23 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 :pushpin: **Exemplo de commit**:
 
 > :ambulance: hotfix(login): corrige erro impedindo login de usuários.
+>
 > :ambulance: hotfix(api): corrige erro impedindo a execução de tarefas.
+>
 > :ambulance: hotfix(security): corrige vulnerabilidade crítica de segurança.
+>
 > :ambulance: hotfix(performance): corrige erro que causa lentidão no sistema.
+>
 > :ambulance: hotfix(validation): corrige erro em validações de entrada.
+>
 > :ambulance: hotfix(interface): corrige erro de exibição na interface do usuário.
+>
 > :ambulance: hotfix(config): corrige erro em arquivo de configuração que impede a inicialização.
+>
 > :ambulance: hotfix(data-loss): corrige bug que causa perda de dados em operações.
+>
 > :ambulance: hotfix(dependency): corrige erro causado por dependência desatualizada.
+>
 > :ambulance: hotfix(test): corrige erro em testes que falham em produção.
 
 ---
