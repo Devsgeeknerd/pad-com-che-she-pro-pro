@@ -153,40 +153,29 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 
 #### Exemplos de tarefas Hotfix
 
-* :white_check_mark: Resolver erro crítico em produção.  
+* :white_check_mark: Resolver erro crítico em produção.
 * :white_check_mark: Ajustes rápidos de segurança.
 * :white_check_mark: Correção de bugs de segurança.
 * :white_check_mark: Correção de bugs de performance.
 * :white_check_mark: Correção de bugs em validações.
-* :white_check_mark: Correção de bugs em testes.
 * :white_check_mark: Correção de bugs em interfaces.
-* :white_check_mark: Correção de bugs em arquivos de configuração.
-* :white_check_mark: Correção de bugs em arquivos de log.
-* :white_check_mark: Correção de bugs em arquivos de testes.
-* :white_check_mark: Correção de bugs em arquivos de estilo.
-* :white_check_mark: Correção de bugs em arquivos de tradução.
-* :white_check_mark: Correção de bugs em arquivos de documentos.
+* :white_check_mark: Correção de bugs que causam falhas em produção.
+* :white_check_mark: Correção de bugs em arquivos de configuração que afetam a execução.
+* :white_check_mark: Correção de bugs que impedem o funcionamento de funcionalidades críticas.
+* :white_check_mark: Correção de bugs que causam perda de dados.
 
 :pushpin: **Exemplo de commit**:
+
 > :ambulance: hotfix(login): corrige erro impedindo login de usuários.
 > :ambulance: hotfix(api): corrige erro impedindo a execução de tarefas.
-> :ambulance: hotfix(cache): corrige erro impedindo armazenamento de dados.
-> :ambulance: hotfix(dart): corrige erro impedindo compilação do aplicativo.
-> :ambulance: hotfix(docs): corrige erro impedindo documentação.
-> :ambulance: hotfix(env): corrige erro impedindo configuração de ambiente.
-> :ambulance: hotfix(hooks): corrige erro impedindo pre-commit hooks.
-> :ambulance: hotfix(logs): corrige erro impedindo logs.
-> :ambulance: hotfix(security): corrige erro impedindo segurança.
-> :ambulance: hotfix(structure): corrige erro impedindo organização de pastas.
-> :ambulance: hotfix(tests): corrige erro impedindo testes.
-> :ambulance: hotfix(translations): corrige erro impedindo tradução.
-> :ambulance: hotfix(ui): corrige erro impedindo interface.
-> :ambulance: hotfix(utils): corrige erro impedindo utilidades.
-> :ambulance: hotfix(videos): corrige erro impedindo reprodução de vídeos.
-> :ambulance: hotfix(web): corrige erro impedindo acesso a Internet.
-> :ambulance: hotfix(website): corrige erro impedindo acesso ao site.
-> :ambulance: hotfix(workflow): corrige erro impedindo fluxo de trabalho.
-> :ambulance: hotfix(zoom): corrige erro impedindo acesso ao Zoom.
+> :ambulance: hotfix(security): corrige vulnerabilidade crítica de segurança.
+> :ambulance: hotfix(performance): corrige erro que causa lentidão no sistema.
+> :ambulance: hotfix(validation): corrige erro em validações de entrada.
+> :ambulance: hotfix(interface): corrige erro de exibição na interface do usuário.
+> :ambulance: hotfix(config): corrige erro em arquivo de configuração que impede a inicialização.
+> :ambulance: hotfix(data-loss): corrige bug que causa perda de dados em operações.
+> :ambulance: hotfix(dependency): corrige erro causado por dependência desatualizada.
+> :ambulance: hotfix(test): corrige erro em testes que falham em produção.
 
 ---
 
