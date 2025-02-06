@@ -363,23 +363,27 @@ Mudança no sistema de **build** do projeto.
 
 * :white_check_mark: Ajuste em scripts de compilação.
 * :white_check_mark: Ajuste em configurações de build.
-* :white_check_mark: Ajuste em scripts de testes.
-* :white_check_mark: Ajuste em dependências.
+* :white_check_mark: Atualização de dependências de build.
+* :white_check_mark: Ajuste em scripts de testes automatizados.
+* :white_check_mark: Configuração de variáveis de ambiente para build.
 * :white_check_mark: Ajuste em configurações de deploys.
 * :white_check_mark: Ajuste em scripts de linting.
-* :white_check_mark: Ajuste em scripts de formatação.
-* :white_check_mark: Ajuste em configurações de segurança.
-* :white_check_mark: Ajuste em configurações de cache.
+* :white_check_mark: Ajuste em scripts de formatação de código.
+* :white_check_mark: Ajuste em configurações de segurança no build.
+* :white_check_mark: Ajuste em configurações de cache para builds.
 * :white_check_mark: Ajuste em configurações de pre-commit hooks.
-* :white_check_mark: Ajuste em arquivos de configuração.
-* :white_check_mark: Ajuste em arquivos de log.
-* :white_check_mark: Ajuste em arquivos de testes.
-* :white_check_mark: Ajuste em arquivos de estilo.
-* :white_check_mark: Ajuste em arquivos de tradução.
-* :white_check_mark: Ajuste em arquivos de documentos.
+* :white_check_mark: Criação de novos arquivos de configuração de build.
+* :white_check_mark: Remoção de arquivos de configuração obsoletos.
+* :white_check_mark: Atualização de documentação relacionada ao processo de build.
+* :white_check_mark: Implementação de novos plugins para otimização de build.
+* :white_check_mark: Ajuste em scripts de integração contínua.
 
 :pushpin: **Exemplo de commit**:
+
 > :package: build(webpack): ajusta configuração para otimizar bundle.
+> :package: build(webpack): criação de novo plugin para otimização de build.
+> :package: build(webpack): ajusta scripts de build.
+> :package: build(webpack): ajusta configuração de cache.
 
 ---
 
