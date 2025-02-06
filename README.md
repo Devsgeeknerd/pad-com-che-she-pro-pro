@@ -258,11 +258,17 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 :pushpin: **Exemplo de commit**:
 
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
+>
 > :arrows_counterclockwise: refactor(algoritmo): simplifica função de cálculo.
-> :arrows_counterclockwise: refactor(variaveis): renomeia variáveis para melhor clareza.
-> :arrows_counterclockwise: refactor(metodos): extrai método para reduzir complexidade.
-> :arrows_counterclockwise: refactor(estrutura): reorganiza arquivos para melhor estrutura.
-> :arrows_counterclockwise: refactor(documentacao): melhora documentação interna do código.
+>
+> :arrows_counterclockwise: refactor(var): renomeia variáveis para melhor clareza.
+>
+> :arrows_counterclockwise: refactor(methods): extrai método para reduzir complexidade.
+>
+> :arrows_counterclockwise: refactor(structure): reorganiza arquivos para melhor estrutura.
+>
+> :arrows_counterclockwise: refactor(documentation): melhora documentação interna do código.
+>
 > :arrows_counterclockwise: refactor(design-patterns): implementa padrões de design para manutenção.
 
 ---
