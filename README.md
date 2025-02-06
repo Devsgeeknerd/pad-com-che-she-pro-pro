@@ -273,18 +273,29 @@ Limpeza de código desnecessário ou **removido**.
 
 Otimizações de **desempenho** para melhorar a eficiência do código.
 
-### Exemplos de tarefas Perf
+#### Exemplos de tarefas Perf
 
 * :white_check_mark: Redução do tempo de execução de um algoritmo.
 * :white_check_mark: Melhor uso de recursos do sistema.
 * :white_check_mark: Redução de consumo de energia.
+* :white_check_mark: Melhoria na eficiência de consultas a banco de dados.
+* :white_check_mark: Otimização de operações de leitura e escrita em disco.
+* :white_check_mark: Redução do tempo de carregamento de páginas.
+* :white_check_mark: Implementação de caching para melhorar a performance.
+* :white_check_mark: Refatoração de código para melhorar a legibilidade e eficiência.
+* :white_check_mark: Melhoria na paralelização de tarefas.
+* :white_check_mark: Análise e eliminação de gargalos de desempenho.
 
 :pushpin: **Exemplo de commit**:
+
 > :racing_car: perf(algoritmo): otimiza busca para reduzir tempo de execução.
-> :racing_car: perf(sistema): melhora o uso de recursos.
-> :racing_car: perf(energia): reduz o consumo de energia.
-> :racing_car: perf(algoritmo): otimiza algoritmo para melhorar desempenho.
-> :racing_car: perf(sistema): melhora o desempenho do sistema.
+> :racing_car: perf(banco-de-dados): melhora a eficiência de consultas.
+> :racing_car: perf(disco): otimiza operações de leitura e escrita em disco.
+> :racing_car: perf(paginas): reduz o tempo de carregamento de páginas.
+> :racing_car: perf(caching): implementa caching para melhorar a performance.
+> :racing_car: perf(paralelizacao): melhora a paralelização de tarefas.
+> :racing_car: perf(gargalos): analisa e elimina gargalos de desempenho.
+> :racing_car: perf(refatoracao): refatora código para melhorar eficiência.
 
 ---
 
