@@ -38,6 +38,7 @@ Alterações de manutenção e organização que não impactam diretamente a fun
 * :white_check_mark: Refatoração de estrutura de pastas.
 * :white_check_mark: Remoção de dependências não utilizadas.
 * :white_check_mark: Revisão de arquivos de configuração de ambiente (dev, prod, test).
+* :white_check_mark: Revisão de testes.
 
 :pushpin: **Exemplo de commit**:
 
@@ -153,10 +154,39 @@ Correções **críticas e emergenciais** que precisam ser aplicadas imediatament
 #### Exemplos de tarefas Hotfix
 
 * :white_check_mark: Resolver erro crítico em produção.  
-* :white_check_mark: Ajustes rápidos de segurança.  
+* :white_check_mark: Ajustes rápidos de segurança.
+* :white_check_mark: Correção de bugs de segurança.
+* :white_check_mark: Correção de bugs de performance.
+* :white_check_mark: Correção de bugs em validações.
+* :white_check_mark: Correção de bugs em testes.
+* :white_check_mark: Correção de bugs em interfaces.
+* :white_check_mark: Correção de bugs em arquivos de configuração.
+* :white_check_mark: Correção de bugs em arquivos de log.
+* :white_check_mark: Correção de bugs em arquivos de testes.
+* :white_check_mark: Correção de bugs em arquivos de estilo.
+* :white_check_mark: Correção de bugs em arquivos de tradução.
+* :white_check_mark: Correção de bugs em arquivos de documentos.
 
 :pushpin: **Exemplo de commit**:
-> :ambulance: hotfix(login): corrige erro impedindo login de usuários
+> :ambulance: hotfix(login): corrige erro impedindo login de usuários.
+> :ambulance: hotfix(api): corrige erro impedindo a execução de tarefas.
+> :ambulance: hotfix(cache): corrige erro impedindo armazenamento de dados.
+> :ambulance: hotfix(dart): corrige erro impedindo compilação do aplicativo.
+> :ambulance: hotfix(docs): corrige erro impedindo documentação.
+> :ambulance: hotfix(env): corrige erro impedindo configuração de ambiente.
+> :ambulance: hotfix(hooks): corrige erro impedindo pre-commit hooks.
+> :ambulance: hotfix(logs): corrige erro impedindo logs.
+> :ambulance: hotfix(security): corrige erro impedindo segurança.
+> :ambulance: hotfix(structure): corrige erro impedindo organização de pastas.
+> :ambulance: hotfix(tests): corrige erro impedindo testes.
+> :ambulance: hotfix(translations): corrige erro impedindo tradução.
+> :ambulance: hotfix(ui): corrige erro impedindo interface.
+> :ambulance: hotfix(utils): corrige erro impedindo utilidades.
+> :ambulance: hotfix(videos): corrige erro impedindo reprodução de vídeos.
+> :ambulance: hotfix(web): corrige erro impedindo acesso a Internet.
+> :ambulance: hotfix(website): corrige erro impedindo acesso ao site.
+> :ambulance: hotfix(workflow): corrige erro impedindo fluxo de trabalho.
+> :ambulance: hotfix(zoom): corrige erro impedindo acesso ao Zoom.
 
 ---
 
@@ -169,9 +199,34 @@ Mudanças **cosméticas** no código que não afetam a funcionalidade.
 * :white_check_mark: Ajustes de indentação e espaçamentos.
 * :white_check_mark: Correção de formatação de código.
 * :white_check_mark: Alterações em estilos.
+* :white_check_mark: Ajustes de cores.
+* :white_check_mark: Ajustes de tamanhos de fonte.
+* :white_check_mark: Ajustes de layouts.
+* :white_check_mark: Ajustes de tamanhos de tela.
+* :white_check_mark: Ajustes de arquitetura.
+* :white_check_mark: Ajustes de arquivos de configuração.
+* :white_check_mark: Ajustes de arquivos de log.
+* :white_check_mark: Ajustes de arquivos de testes.
+* :white_check_mark: Ajustes de arquivos de estilo.
+* :white_check_mark: Ajustes de arquivos de tradução.
+* :white_check_mark: Ajustes de arquivos de documentos.
 
 :pushpin: **Exemplo de commit**:
 > :art: style(ui): ajusta espaçamento entre botões.
+> :art: style(env): ajusta configurações de ambiente.
+> :art: style(hooks): ajusta pre-commit hooks.
+> :art: style(logs): ajusta logs.
+> :art: style(security): ajusta configurações de segurança.
+> :art: style(structure): ajusta estrutura de pastas.
+> :art: style(tests): ajusta testes.
+> :art: style(translations): ajusta tradução.
+> :art: style(ui): ajusta interface.
+> :art: style(utils): ajusta utilidades.
+> :art: style(videos): ajusta reprodução de vídeos.
+> :art: style(web): ajusta acesso a Internet.
+> :art: style(website): ajusta acesso ao site.
+> :art: style(workflow): ajusta fluxo de trabalho.
+> :art: style(zoom): ajusta acesso ao Zoom.
 
 ---
 
@@ -182,6 +237,10 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 #### Exemplos de tarefas Refactor
 
 * :white_check_mark: Melhor organização do código.
+* :white_check_mark: Melhoria na modularização do código.
+* :white_check_mark: Redução de complexidade de código.
+* :white_check_mark: Redução de duplicação de código.
+* :white_check_mark: Simplificação de funções complexas.
 * :white_check_mark: Simplificação de funções complexas.
 * :white_check_mark: Redução da repetição de código.
 
@@ -198,9 +257,15 @@ Limpeza de código desnecessário ou **removido**.
 
 * :white_check_mark: Remoção de código obsoleto.
 * :white_check_mark: Exclusão de arquivos não utilizados.
+* :white_check_mark: Redução de complexidade de código.
 
 :pushpin: **Exemplo de commit**:
 > :wastebasket: cleanup(legacy): remove métodos não utilizados.
+> :wastebasket: cleanup(legacy): remove funções obsoletas.
+> :wastebasket: cleanup(legacy): remove arquivos não utilizados.
+> :wastebasket: cleanup(legacy): remove pastas não utilizadas.
+> :wastebasket: cleanup(legacy): remove dependências não utilizadas.
+> :wastebasket: cleanup(legacy): remove arquivos temporários.
 
 ---
 
@@ -212,9 +277,14 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 
 * :white_check_mark: Redução do tempo de execução de um algoritmo.
 * :white_check_mark: Melhor uso de recursos do sistema.
+* :white_check_mark: Redução de consumo de energia.
 
 :pushpin: **Exemplo de commit**:
 > :racing_car: perf(algoritmo): otimiza busca para reduzir tempo de execução.
+> :racing_car: perf(sistema): melhora o uso de recursos.
+> :racing_car: perf(energia): reduz o consumo de energia.
+> :racing_car: perf(algoritmo): otimiza algoritmo para melhorar desempenho.
+> :racing_car: perf(sistema): melhora o desempenho do sistema.
 
 ---
 
@@ -225,11 +295,20 @@ Adição, atualização e remoção de **testes automatizados**.
 #### Exemplos de tarefas Test
 
 * :white_check_mark: Criação de novos testes.
+* :white_check_mark: Remoção de testes obsoletos.
 * :white_check_mark: Correção de testes falhos.
 * :white_check_mark: Melhoria na cobertura de testes.
+* :white_check_mark: Melhoria na qualidade de testes.
+* :white_check_mark: Melhoria na velocidade de testes.
+* :white_check_mark: Melhoria na execução de testes.
 
 :pushpin: **Exemplo de commit**:
 > :test_tube: test(user-service): adiciona testes unitários para autenticação.
+> :test_tube: test(user-service): adiciona testes unitários para autorização.
+> :test_tube: test(user-service): adiciona testes unitários para cadastro de usuários.
+> :test_tube: test(user-service): adiciona testes unitários para login de usuários.
+> :test_tube: test(user-service): adiciona testes unitários para atualização de usuários.
+> :test_tube: test(user-service): adiciona testes unitários para exclusão de usuários.
 
 ---
 
@@ -240,11 +319,16 @@ Alterações na **documentação** do projeto.
 #### Exemplos de tarefas Docs
 
 * :white_check_mark: Atualização do README.
+* :white_check_mark: Atualização de documentação.
 * :white_check_mark: Comentários no código.
 * :white_check_mark: Documentação de APIs.
 
 :pushpin: **Exemplo de commit**:
 > :book: docs(README): atualiza guia de instalação.
+> :book: docs(documentation): atualiza documentação.
+> :book: docs(code-comments): adiciona comentários no código.
+> :book: docs(api-documentation): documenta APIs.
+> :book: docs(translation): adiciona documentação de tradução.
 
 ---
 
