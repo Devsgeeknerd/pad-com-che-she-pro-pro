@@ -340,7 +340,7 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 > :racing_car: perf(caching): implementa caching para melhorar a performance.
 > :racing_car: perf(parallelization): melhora a paralelização de tarefas.
 > :racing_car: perf(bottlenecks): analisa e elimina gargalos de desempenho.
-> :racing_car: perf(refatoracao): refatora código para melhorar eficiência.
+> :racing_car: perf(refactoring): refatora código para melhorar eficiência.
 
 ---
 
