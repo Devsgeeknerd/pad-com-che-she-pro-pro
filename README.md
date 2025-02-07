@@ -259,7 +259,7 @@ Melhorias na **estrutura do código** sem alterar seu comportamento.
 
 > :arrows_counterclockwise: refactor(user-service): melhora a modularização do código.
 >
-> :arrows_counterclockwise: refactor(algoritmo): simplifica função de cálculo.
+> :arrows_counterclockwise: refactor(algorithm): simplifica função de cálculo.
 >
 > :arrows_counterclockwise: refactor(variable): renomeia variáveis para melhor clareza.
 >
