@@ -334,12 +334,19 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 :pushpin: **Exemplo de commit**:
 
 > :racing_car: perf(algorithm): otimiza busca para reduzir tempo de execução.
+>
 > :racing_car: perf(database): melhora a eficiência de consultas.
+>
 > :racing_car: perf(disk): otimiza operações de leitura e escrita em disco.
+>
 > :racing_car: perf(pages): reduz o tempo de carregamento de páginas.
+>
 > :racing_car: perf(caching): implementa caching para melhorar a performance.
+>
 > :racing_car: perf(parallelization): melhora a paralelização de tarefas.
+>
 > :racing_car: perf(bottlenecks): analisa e elimina gargalos de desempenho.
+>
 > :racing_car: perf(refactoring): refatora código para melhorar eficiência.
 
 ---
