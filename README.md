@@ -500,8 +500,11 @@ Mudança no sistema de **build** do projeto.
 :pushpin: **Exemplo de commit**:
 
 > :package: build(webpack): ajusta configuração para otimizar bundle.
+>
 > :package: build(webpack): criação de novo plugin para otimização de build.
+>
 > :package: build(webpack): ajusta scripts de build.
+>
 > :package: build(webpack): ajusta configuração de cache.
 
 ---
