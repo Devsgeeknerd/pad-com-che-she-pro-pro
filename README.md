@@ -451,15 +451,25 @@ Correções e melhorias à **segurança** do projeto.
 :pushpin: **Exemplo de commit**:
 
 > :lock: security(auth): corrige vulnerabilidade no token JWT.
+>
 > :lock: security(auth): melhora autenticação e autorização.
+>
 > :lock: security(encryption): implementa criptografia para dados sensíveis.
+>
 > :lock: security(error-handling): melhora tratamento de erros para evitar vazamento de informações.
+>
 > :lock: security(input-validation): implementa validações de entrada para prevenir injeções.
+>
 > :lock: security(dependencies): atualiza dependências para versões seguras.
+>
 > :lock: security(permissions): revisa permissões de acesso.
+>
 > :lock: security(logging): implementa logs de segurança.
+>
 > :lock: security(cors): melhora configuração de CORS.
+>
 > :lock: security(brute-force): implementa medidas contra ataques de força bruta.
+>
 > :lock: security(sessions): melhora segurança de sessões.
 
 ---
