@@ -335,7 +335,7 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 
 > :racing_car: perf(algorithm): otimiza busca para reduzir tempo de execução.
 > :racing_car: perf(database): melhora a eficiência de consultas.
-> :racing_car: perf(disco): otimiza operações de leitura e escrita em disco.
+> :racing_car: perf(disk): otimiza operações de leitura e escrita em disco.
 > :racing_car: perf(paginas): reduz o tempo de carregamento de páginas.
 > :racing_car: perf(caching): implementa caching para melhorar a performance.
 > :racing_car: perf(paralelizacao): melhora a paralelização de tarefas.
