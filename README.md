@@ -333,7 +333,7 @@ Otimizações de **desempenho** para melhorar a eficiência do código.
 
 :pushpin: **Exemplo de commit**:
 
-> :racing_car: perf(algoritmo): otimiza busca para reduzir tempo de execução.
+> :racing_car: perf(algorithm): otimiza busca para reduzir tempo de execução.
 > :racing_car: perf(banco-de-dados): melhora a eficiência de consultas.
 > :racing_car: perf(disco): otimiza operações de leitura e escrita em disco.
 > :racing_car: perf(paginas): reduz o tempo de carregamento de páginas.
