@@ -408,14 +408,23 @@ Alterações na **documentação** do projeto.
 :pushpin: **Exemplo de commit**:
 
 > :book: docs(README): atualiza guia de instalação.
+>
 > :book: docs(features): atualiza documentação de funcionalidades.
+>
 > :book: docs(examples): adiciona exemplos de uso.
+>
 > :book: docs(code-comments): adiciona comentários no código.
+>
 > :book: docs(api-documentation): documenta APIs.
+>
 > :book: docs(contributing): cria guia de contribuição.
+>
 > :book: docs(changelog): atualiza changelog.
+>
 > :book: docs(structure): melhora estrutura da documentação.
+>
 > :book: docs(diagrams): adiciona diagramas e ilustrações.
+>
 > :book: docs(review): revisa documentação existente para clareza.
 
 ---
