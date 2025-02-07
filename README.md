@@ -371,12 +371,19 @@ Adição, atualização e remoção de **testes automatizados**.
 :pushpin: **Exemplo de commit**:
 
 > :test_tube: test(auth): adiciona testes unitários para autenticação.
+>
 > :test_tube: test(auth): corrige teste falho de autenticação.
+>
 > :test_tube: test(user-service): adiciona testes unitários para autorização.
+>
 > :test_tube: test(user-service): adiciona testes de integração para cadastro de usuários.
+>
 > :test_tube: test(user-service): remove testes obsoletos de login de usuários.
+>
 > :test_tube: test(user-service): melhora cobertura de testes para atualização de usuários.
+>
 > :test_tube: test(performance): adiciona testes de performance para a API.
+>
 > :test_tube: test(regression): implementa testes de regressão para funcionalidades críticas.
 
 ---
