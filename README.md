@@ -533,15 +533,25 @@ Alterações em **configurações** do projeto.
 :pushpin: **Exemplo de commit**:
 
 > :gear: config(env): adiciona nova variável de ambiente para API.
+
 > :gear: config(env): ajusta configuração de ambiente.
+
 > :gear: config(packages): atualiza configurações do gerenciador de pacotes.
+
 > :gear: config(cache): ajusta configuração de cache.
+
 > :gear: config(pre-commit): ajusta configuração de pre-commit hooks.
+
 > :gear: config(versions): ajusta configuração de gerenciamento de versões.
+
 > :gear: config(linting): ajusta configuração de linting.
+
 > :gear: config(format): ajusta configuração de formatação de código.
+
 > :gear: config(security): ajusta configuração de segurança.
+
 > :gear: config(translate): ajusta configuração de tradução.
+
 > :gear: config(documentation): ajusta configuração de documentação.
 
 ---
