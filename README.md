@@ -568,14 +568,23 @@ Reversão de commits anteriores.
 :pushpin: **Exemplo de commit**:
 
 > :calendar: revert(user-service): reverte alteração que causava erro.
+
 > :calendar: revert(env): reverte alteração que causava erro.
+
 > :calendar: revert(cache): reverte alteração que causava erro.
+
 > :calendar: revert(pre-commit): reverte alteração que causava erro.
+
 > :calendar: revert(build): reverte alteração que causava erro.
+
 > :calendar: revert(lint): reverte alteração que causava erro.
+
 > :calendar: revert(format): reverte alteração que causava erro.
-> :calendar: revert(tran): reverte alteração que causava erro.
+
+> :calendar: revert(trans): reverte alteração que causava erro.
+
 > :calendar: revert(docs): reverte alteração que causava erro.
+
 > :calendar: revert(sec): reverte alteração que causava erro.
 
 ---
@@ -640,7 +649,6 @@ emoji categoria(escopo): descrição breve.
 | `:tada:` | :tada: | Commit inicial. |
 
 <!-- Informações -->
-
 ## &#8505; Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpad-com-che-she-pro-pro&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
