@@ -534,15 +534,15 @@ Alterações em **configurações** do projeto.
 
 > :gear: config(env): adiciona nova variável de ambiente para API.
 > :gear: config(env): ajusta configuração de ambiente.
-> :gear: config(pacotes): atualiza configurações do gerenciador de pacotes.
+> :gear: config(packages): atualiza configurações do gerenciador de pacotes.
 > :gear: config(cache): ajusta configuração de cache.
 > :gear: config(pre-commit): ajusta configuração de pre-commit hooks.
-> :gear: config(versões): ajusta configuração de gerenciamento de versões.
+> :gear: config(versions): ajusta configuração de gerenciamento de versões.
 > :gear: config(linting): ajusta configuração de linting.
-> :gear: config(formatação): ajusta configuração de formatação de código.
-> :gear: config(seguranca): ajusta configuração de segurança.
-> :gear: config(traducao): ajusta configuração de tradução.
-> :gear: config(documentacao): ajusta configuração de documentação.
+> :gear: config(format): ajusta configuração de formatação de código.
+> :gear: config(security): ajusta configuração de segurança.
+> :gear: config(translate): ajusta configuração de tradução.
+> :gear: config(documentation): ajusta configuração de documentação.
 
 ---
 
