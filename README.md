@@ -611,35 +611,34 @@ emoji categoria(escopo): descrição breve.
 
 ## Tabela para consultar outros emojis
 
-| CÓDIGO                        |            EMOJI            | DESCRIÇÃO                                   |
-| :---------------------------- | :-------------------------: | :------------------------------------------ |
-| `:hammer_and_wrench:`         |     :hammer_and_wrench:     | Tarefa.                                     |
-| `:sparkles:`                  |         :sparkles:          | funcionalidade.                             |
-| `:lady_beetle:`               |        :lady_beetle:        | Correção.                                   |
-| `:ambulance:`                 |         :ambulance:         | Correção rápida.                            |
-| `:art:`                       |            :art:            | Estilo.                                     |
-| `:arrows_counterclockwise:`   |  :arrows_counterclockwise:  | Refatoração.                                |
-| `:wastebasket:`               |        :wastebasket:        | Limpeza.                                    |
-| `:racing_car:`                |        :racing_car:         | Desempenho.                                 |
-| `:test_tube:`                 |         :test_tube:         | Teste.                                      |
-| `:book:`                      |           :book:            | Documentação.                               |
-| `:lock:`                      |           :lock:            | Segurança.                                  |
-| `:package:`                   |          :package:          | Construção.                                 |
-| `:gear:`                      |           :gear:            | Configuração.                               |
-| `:calendar:`                  |         :calendar:          | Reverter.                                   |
-| `:label:`                     |           :label:           | Adicionar, atualizar ou remover tags.       |
-| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Mesclar ramificações.                       |
-| `:alembic:`                   |          :alembic:          | Realizar experimentos.                      |
-| `:construction:`              |       :construction:        | Trabalho em andamento.                      |
-| `:jigsaw:`                    |          :jigsaw:           | Adicionar, atualizar ou remover componente. |
-| `:pushpin:`                   |          :pushpin:          | Fixar dependência em versão especifica.     |
-| `:clipboard:`                 |         :clipboard:         | Documentação em andamento.                  |
-| `:pencil:`                    |          :pencil:           | Atualizar conteúdo da documentação.         |
-| `:pencil2:`                   |          :pencil2:          | Corrigir erros de digitação.                |
-| `:dart:`                      |           :dart:            | Metas concluídas.                           |
-| `:tada:`                      |           :tada:            | Commit inicial.                             |
+| CÓDIGO | EMOJI | DESCRIÇÃO |
+| :----- | :---: | :-------- |
+| `:hammer_and_wrench:` | :hammer_and_wrench: | Tarefa. |
+| `:sparkles:` | :sparkles: | funcionalidade. |
+| `:lady_beetle:` | :lady_beetle: | Correção. |
+| `:ambulance:` | :ambulance: | Correção rápida. |
+| `:art:` | :art: | Estilo. |
+| `:arrows_counterclockwise:` | :arrows_counterclockwise: | Refatoração. |
+| `:wastebasket:` | :wastebasket: | Limpeza. |
+| `:racing_car:` | :racing_car: | Desempenho. |
+| `:test_tube:` | :test_tube: | Teste. |
+| `:book:` | :book: | Documentação. |
+| `:lock:` | :lock: | Segurança. |
+| `:package:` | :package: | Construção. |
+| `:gear:` | :gear: | Configuração. |
+| `:calendar:` | :calendar: | Reverter. |
+| `:label:` | :label: | Tags. |
+| `:twisted_rightwards_arrows:` | :twisted_rightwards_arrows: | Mesclar ramificações. |
+| `:alembic:` | :alembic: | Realiza experimentos. |
+| `:construction:` | :construction: | Trabalho em andamento. |
+| `:jigsaw:` | :jigsaw: | Componente. |
+| `:pushpin:` | :pushpin: | Fixa dependência em versão especifica. |
+| `:clipboard:` | :clipboard: | Documentação em andamento. |
+| `:pencil:` | :pencil: | Atualiza conteúdo da documentação. |
+| `:pencil2:` | :pencil2: | Corrigi erros de digitação. |
+| `:dart:` | :dart: | Metas. |
+| `:tada:` | :tada: | Commit inicial. |
 
-<!--  -->
 <!-- Informações -->
 
 ## &#8505; Informações
