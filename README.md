@@ -578,23 +578,23 @@ Reversão de commits anteriores.
 :pushpin: **Exemplo de commit**:
 
 > :calendar: revert(user-service): reverte alteração que causava erro.
-
+>
 > :calendar: revert(env): reverte alteração que causava erro.
-
+>
 > :calendar: revert(cache): reverte alteração que causava erro.
-
+>
 > :calendar: revert(pre-commit): reverte alteração que causava erro.
-
+>
 > :calendar: revert(build): reverte alteração que causava erro.
-
+>
 > :calendar: revert(lint): reverte alteração que causava erro.
-
+>
 > :calendar: revert(format): reverte alteração que causava erro.
-
+>
 > :calendar: revert(trans): reverte alteração que causava erro.
-
+>
 > :calendar: revert(docs): reverte alteração que causava erro.
-
+>
 > :calendar: revert(sec): reverte alteração que causava erro.
 
 ---
